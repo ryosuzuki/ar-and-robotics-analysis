@@ -40,7 +40,7 @@ class App extends Component {
     let div = document.querySelector('#main')
     let color = '#ddd'
     let width = window.innerWidth
-    let height = window.innerHeight * 0.6
+    let height = window.innerHeight * 0.7
     let padding = 10
     let align = [{ value: 'justify' }]
     let inputOrder = true
@@ -51,7 +51,7 @@ class App extends Component {
       .nodeSort(inputOrder ? null : undefined)
       .nodeWidth(15)
       .nodePadding(padding)
-      .extent([[50, 100], [width-150, height - 5]])
+      .extent([[50, 200], [width-150, height - 5]])
 
     const svg = d3.select(div)
         .style('background', '#fff')
@@ -115,7 +115,7 @@ class App extends Component {
           }
 
           color = d3.color(color).brighter(1)
-          color.opacity = 0.3
+          color.opacity = 0.1
           return color
         })
         .style('mix-blend-mode', 'multiply');
@@ -128,14 +128,16 @@ class App extends Component {
         .text(d => `${d.source.name} → ${d.target.name}\n${d.value.toLocaleString()}`);
 
     svg.append('g')
-        .style('font', '8px sans-serif')
+        .style('font', '13px sans-serif')
       .selectAll('text')
       .data(nodes)
       .join('text')
         // .attr('x', d => d.x0 < width / 2 ? d.x1 + 6 : d.x0 - 6)
-        .attr('transform', d =>  `translate(-380, 0) rotate(-45)`)
-        .attr('x', d => d.x1 + 6)
-        .attr('y', d => 880)
+        .attr('transform', (d) =>  {
+          return `translate(${d.x1-10}, 180) rotate(-45)`
+        })
+        // .attr('x', d => d.x1 + 6)
+        // .attr('y', d => 880)
         .attr('dy', '0.35em')
         .attr('text-anchor', 'start')
         .attr('fill', (d) => {
@@ -157,7 +159,7 @@ class App extends Component {
           array.pop()
           let title = array[0]
           if (['characteristics', 'design', 'interactions'].includes(title)) {
-            title = array.join(' - ')
+            title = array[1] // .join(' - ')
           }
           return title
         })
