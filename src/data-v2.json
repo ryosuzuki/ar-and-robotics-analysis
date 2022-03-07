@@ -1,0 +1,3294 @@
+{
+  "nodes": [
+    {
+      "id": "3-1-1",
+      "name": "approach - augment robots - on-body (head/eye)"
+    },
+    {
+      "id": "3-1-2",
+      "name": "approach - augment robots - on-body (handheld)"
+    },
+    {
+      "id": "3-1-3",
+      "name": "approach - augment robots - on-environment"
+    },
+    {
+      "id": "3-1-4",
+      "name": "approach - augment robots - on-robot"
+    },
+    {
+      "id": "3-2-1",
+      "name": "approach - augment surroundings - on-body (head/eye)"
+    },
+    {
+      "id": "3-2-2",
+      "name": "approach - augment surroundings - on-body (handheld)"
+    },
+    {
+      "id": "3-2-3",
+      "name": "approach - augment surroundings - on-environment"
+    },
+    {
+      "id": "3-2-4",
+      "name": "approach - augment surroundings - on-robot"
+    },
+    {
+      "id": "4-1-1",
+      "name": "characteristics - form factors - robotic arms"
+    },
+    {
+      "id": "4-1-2",
+      "name": "characteristics - form factors - drones"
+    },
+    {
+      "id": "4-1-3",
+      "name": "characteristics - form factors - mobile robots"
+    },
+    {
+      "id": "4-1-4",
+      "name": "characteristics - form factors - humanoid robots"
+    },
+    {
+      "id": "4-1-5",
+      "name": "characteristics - form factors - vehicles"
+    },
+    {
+      "id": "4-1-6",
+      "name": "characteristics - form factors - actuated objects"
+    },
+    {
+      "id": "4-1-7",
+      "name": "characteristics - form factors - combinations"
+    },
+    {
+      "id": "4-1-8",
+      "name": "characteristics - form factors - other types"
+    },
+    {
+      "id": "4-2-1",
+      "name": "characteristics - relationship - 1 : 1"
+    },
+    {
+      "id": "4-2-2",
+      "name": "characteristics - relationship - 1 : m"
+    },
+    {
+      "id": "4-2-3",
+      "name": "characteristics - relationship - n : 1"
+    },
+    {
+      "id": "4-2-4",
+      "name": "characteristics - relationship - n : m"
+    },
+    {
+      "id": "4-3-1",
+      "name": "characteristics - scale - handheld-scale"
+    },
+    {
+      "id": "4-3-2",
+      "name": "characteristics - scale - tabletop-scale"
+    },
+    {
+      "id": "4-3-3",
+      "name": "characteristics - scale - body-scale"
+    },
+    {
+      "id": "4-3-4",
+      "name": "characteristics - scale - building/city-scale"
+    },
+    {
+      "id": "4-4-1",
+      "name": "characteristics - proximity - co-located"
+    },
+    {
+      "id": "4-4-2",
+      "name": "characteristics - proximity - co-located with distance"
+    },
+    {
+      "id": "4-4-3",
+      "name": "characteristics - proximity - semi-remote"
+    },
+    {
+      "id": "4-4-4",
+      "name": "characteristics - proximity - remote"
+    },
+    {
+      "id": "5-1",
+      "name": "purposes - facilitate programming"
+    },
+    {
+      "id": "5-2",
+      "name": "purposes - support real-time control"
+    },
+    {
+      "id": "5-3",
+      "name": "purposes - improve safety"
+    },
+    {
+      "id": "5-4",
+      "name": "purposes - communicate intent"
+    },
+    {
+      "id": "5-5",
+      "name": "purposes - increase expressiveness"
+    },
+    {
+      "id": "6-1",
+      "name": "information - internal information"
+    },
+    {
+      "id": "6-2",
+      "name": "information - external information"
+    },
+    {
+      "id": "6-3",
+      "name": "information - plan and activity"
+    },
+    {
+      "id": "6-4",
+      "name": "information - supplement content"
+    },
+    {
+      "id": "7-1-1",
+      "name": "design - uis and widgets - menus"
+    },
+    {
+      "id": "7-1-2",
+      "name": "design - uis and widgets - information planels"
+    },
+    {
+      "id": "7-1-3",
+      "name": "design - uis and widgets - labels and annotations"
+    },
+    {
+      "id": "7-1-4",
+      "name": "design - uis and widgets - controls and handles"
+    },
+    {
+      "id": "7-1-5",
+      "name": "design - uis and widgets - monitors and displays"
+    },
+    {
+      "id": "7-2-1",
+      "name": "design - spatial references and visualizations - points and locations"
+    },
+    {
+      "id": "7-2-2",
+      "name": "design - spatial references and visualizations - paths and trajectories"
+    },
+    {
+      "id": "7-2-3",
+      "name": "design - spatial references and visualizations - areas and boundaries"
+    },
+    {
+      "id": "7-2-4",
+      "name": "design - spatial references and visualizations - other visualizations"
+    },
+    {
+      "id": "7-3-1",
+      "name": "design - embedded visual effects - anthropomorphic"
+    },
+    {
+      "id": "7-3-2",
+      "name": "design - embedded visual effects - visual replica"
+    },
+    {
+      "id": "7-3-3",
+      "name": "design - embedded visual effects - texture mapping"
+    },
+    {
+      "id": "8-1-1",
+      "name": "interactions - interactivity - only output"
+    },
+    {
+      "id": "8-1-2",
+      "name": "interactions - interactivity - implicit"
+    },
+    {
+      "id": "8-1-3",
+      "name": "interactions - interactivity - indirect"
+    },
+    {
+      "id": "8-1-4",
+      "name": "interactions - interactivity - direct"
+    },
+    {
+      "id": "8-2-1",
+      "name": "interactions - interaction modalities - tangible"
+    },
+    {
+      "id": "8-2-2",
+      "name": "interactions - interaction modalities - touch"
+    },
+    {
+      "id": "8-2-3",
+      "name": "interactions - interaction modalities - controller"
+    },
+    {
+      "id": "8-2-4",
+      "name": "interactions - interaction modalities - gesture"
+    },
+    {
+      "id": "8-2-5",
+      "name": "interactions - interaction modalities - gaze"
+    },
+    {
+      "id": "8-2-6",
+      "name": "interactions - interaction modalities - voice"
+    },
+    {
+      "id": "8-2-7",
+      "name": "interactions - interaction modalities - proximity"
+    },
+    {
+      "id": "9-1",
+      "name": "applications - domestic and everyday use"
+    },
+    {
+      "id": "9-2",
+      "name": "applications - industry"
+    },
+    {
+      "id": "9-3",
+      "name": "applications - entertainment"
+    },
+    {
+      "id": "9-4",
+      "name": "applications - education and training"
+    },
+    {
+      "id": "9-5",
+      "name": "applications - social interaction"
+    },
+    {
+      "id": "9-6",
+      "name": "applications - design and creative tasks"
+    },
+    {
+      "id": "9-7",
+      "name": "applications - medical and health"
+    },
+    {
+      "id": "9-8",
+      "name": "applications - remote collaboration"
+    },
+    {
+      "id": "9-9",
+      "name": "applications - mobility and transportation"
+    },
+    {
+      "id": "9-10",
+      "name": "applications - search and rescue"
+    },
+    {
+      "id": "9-11",
+      "name": "applications - workspace"
+    },
+    {
+      "id": "9-12",
+      "name": "applications - data physicalization"
+    },
+    {
+      "id": "10-1-1",
+      "name": "evaluation - demonstration - workshop"
+    },
+    {
+      "id": "10-1-2",
+      "name": "evaluation - demonstration - theoretical framework"
+    },
+    {
+      "id": "10-1-3",
+      "name": "evaluation - demonstration - example applications"
+    },
+    {
+      "id": "10-1-4",
+      "name": "evaluation - demonstration - focus groups"
+    },
+    {
+      "id": "10-1-5",
+      "name": "evaluation - demonstration - early demonstrations"
+    },
+    {
+      "id": "10-1-6",
+      "name": "evaluation - demonstration - case studies"
+    },
+    {
+      "id": "10-1-7",
+      "name": "evaluation - demonstration - conceptual"
+    },
+    {
+      "id": "10-2-1",
+      "name": "evaluation - technical - time"
+    },
+    {
+      "id": "10-2-2",
+      "name": "evaluation - technical - accuracy"
+    },
+    {
+      "id": "10-2-3",
+      "name": "evaluation - technical - system performance"
+    },
+    {
+      "id": "10-2-4",
+      "name": "evaluation - technical - success rate"
+    },
+    {
+      "id": "10-3-1",
+      "name": "evaluation - user evaluation - nasa tls"
+    },
+    {
+      "id": "10-3-2",
+      "name": "evaluation - user evaluation - interviews"
+    },
+    {
+      "id": "10-3-3",
+      "name": "evaluation - user evaluation - questionnaires"
+    },
+    {
+      "id": "10-3-4",
+      "name": "evaluation - user evaluation - lab study with users"
+    },
+    {
+      "id": "10-3-5",
+      "name": "evaluation - user evaluation - qualitative study"
+    },
+    {
+      "id": "10-3-6",
+      "name": "evaluation - user evaluation - quantitative study"
+    },
+    {
+      "id": "10-3-7",
+      "name": "evaluation - user evaluation - lab study with experts"
+    },
+    {
+      "id": "10-3-8",
+      "name": "evaluation - user evaluation - observational"
+    },
+    {
+      "id": "10-3-9",
+      "name": "evaluation - user evaluation - user feedback"
+    }
+  ],
+  "links": [
+    {
+      "source": "approach - augment robots - on-body (head/eye)",
+      "target": "characteristics - form factors - robotic arms",
+      "value": 59
+    },
+    {
+      "source": "approach - augment robots - on-body (head/eye)",
+      "target": "characteristics - form factors - drones",
+      "value": 7
+    },
+    {
+      "source": "approach - augment robots - on-body (head/eye)",
+      "target": "characteristics - form factors - mobile robots",
+      "value": 26
+    },
+    {
+      "source": "approach - augment robots - on-body (head/eye)",
+      "target": "characteristics - form factors - humanoid robots",
+      "value": 14
+    },
+    {
+      "source": "approach - augment robots - on-body (head/eye)",
+      "target": "characteristics - form factors - vehicles",
+      "value": 0
+    },
+    {
+      "source": "approach - augment robots - on-body (head/eye)",
+      "target": "characteristics - form factors - actuated objects",
+      "value": 4
+    },
+    {
+      "source": "approach - augment robots - on-body (head/eye)",
+      "target": "characteristics - form factors - combinations",
+      "value": 5
+    },
+    {
+      "source": "approach - augment robots - on-body (head/eye)",
+      "target": "characteristics - form factors - other types",
+      "value": 3
+    },
+    {
+      "source": "approach - augment robots - on-body (handheld)",
+      "target": "characteristics - form factors - robotic arms",
+      "value": 7
+    },
+    {
+      "source": "approach - augment robots - on-body (handheld)",
+      "target": "characteristics - form factors - drones",
+      "value": 3
+    },
+    {
+      "source": "approach - augment robots - on-body (handheld)",
+      "target": "characteristics - form factors - mobile robots",
+      "value": 17
+    },
+    {
+      "source": "approach - augment robots - on-body (handheld)",
+      "target": "characteristics - form factors - humanoid robots",
+      "value": 0
+    },
+    {
+      "source": "approach - augment robots - on-body (handheld)",
+      "target": "characteristics - form factors - vehicles",
+      "value": 0
+    },
+    {
+      "source": "approach - augment robots - on-body (handheld)",
+      "target": "characteristics - form factors - actuated objects",
+      "value": 4
+    },
+    {
+      "source": "approach - augment robots - on-body (handheld)",
+      "target": "characteristics - form factors - combinations",
+      "value": 4
+    },
+    {
+      "source": "approach - augment robots - on-body (handheld)",
+      "target": "characteristics - form factors - other types",
+      "value": 2
+    },
+    {
+      "source": "approach - augment robots - on-environment",
+      "target": "characteristics - form factors - robotic arms",
+      "value": 33
+    },
+    {
+      "source": "approach - augment robots - on-environment",
+      "target": "characteristics - form factors - drones",
+      "value": 4
+    },
+    {
+      "source": "approach - augment robots - on-environment",
+      "target": "characteristics - form factors - mobile robots",
+      "value": 22
+    },
+    {
+      "source": "approach - augment robots - on-environment",
+      "target": "characteristics - form factors - humanoid robots",
+      "value": 1
+    },
+    {
+      "source": "approach - augment robots - on-environment",
+      "target": "characteristics - form factors - vehicles",
+      "value": 0
+    },
+    {
+      "source": "approach - augment robots - on-environment",
+      "target": "characteristics - form factors - actuated objects",
+      "value": 15
+    },
+    {
+      "source": "approach - augment robots - on-environment",
+      "target": "characteristics - form factors - combinations",
+      "value": 2
+    },
+    {
+      "source": "approach - augment robots - on-environment",
+      "target": "characteristics - form factors - other types",
+      "value": 1
+    },
+    {
+      "source": "approach - augment robots - on-robot",
+      "target": "characteristics - form factors - robotic arms",
+      "value": 0
+    },
+    {
+      "source": "approach - augment robots - on-robot",
+      "target": "characteristics - form factors - drones",
+      "value": 3
+    },
+    {
+      "source": "approach - augment robots - on-robot",
+      "target": "characteristics - form factors - mobile robots",
+      "value": 4
+    },
+    {
+      "source": "approach - augment robots - on-robot",
+      "target": "characteristics - form factors - humanoid robots",
+      "value": 1
+    },
+    {
+      "source": "approach - augment robots - on-robot",
+      "target": "characteristics - form factors - vehicles",
+      "value": 0
+    },
+    {
+      "source": "approach - augment robots - on-robot",
+      "target": "characteristics - form factors - actuated objects",
+      "value": 0
+    },
+    {
+      "source": "approach - augment robots - on-robot",
+      "target": "characteristics - form factors - combinations",
+      "value": 0
+    },
+    {
+      "source": "approach - augment robots - on-robot",
+      "target": "characteristics - form factors - other types",
+      "value": 0
+    },
+    {
+      "source": "approach - augment surroundings - on-body (head/eye)",
+      "target": "characteristics - form factors - robotic arms",
+      "value": 80
+    },
+    {
+      "source": "approach - augment surroundings - on-body (head/eye)",
+      "target": "characteristics - form factors - drones",
+      "value": 10
+    },
+    {
+      "source": "approach - augment surroundings - on-body (head/eye)",
+      "target": "characteristics - form factors - mobile robots",
+      "value": 37
+    },
+    {
+      "source": "approach - augment surroundings - on-body (head/eye)",
+      "target": "characteristics - form factors - humanoid robots",
+      "value": 23
+    },
+    {
+      "source": "approach - augment surroundings - on-body (head/eye)",
+      "target": "characteristics - form factors - vehicles",
+      "value": 1
+    },
+    {
+      "source": "approach - augment surroundings - on-body (head/eye)",
+      "target": "characteristics - form factors - actuated objects",
+      "value": 3
+    },
+    {
+      "source": "approach - augment surroundings - on-body (head/eye)",
+      "target": "characteristics - form factors - combinations",
+      "value": 7
+    },
+    {
+      "source": "approach - augment surroundings - on-body (head/eye)",
+      "target": "characteristics - form factors - other types",
+      "value": 3
+    },
+    {
+      "source": "approach - augment surroundings - on-body (handheld)",
+      "target": "characteristics - form factors - robotic arms",
+      "value": 8
+    },
+    {
+      "source": "approach - augment surroundings - on-body (handheld)",
+      "target": "characteristics - form factors - drones",
+      "value": 3
+    },
+    {
+      "source": "approach - augment surroundings - on-body (handheld)",
+      "target": "characteristics - form factors - mobile robots",
+      "value": 18
+    },
+    {
+      "source": "approach - augment surroundings - on-body (handheld)",
+      "target": "characteristics - form factors - humanoid robots",
+      "value": 2
+    },
+    {
+      "source": "approach - augment surroundings - on-body (handheld)",
+      "target": "characteristics - form factors - vehicles",
+      "value": 0
+    },
+    {
+      "source": "approach - augment surroundings - on-body (handheld)",
+      "target": "characteristics - form factors - actuated objects",
+      "value": 1
+    },
+    {
+      "source": "approach - augment surroundings - on-body (handheld)",
+      "target": "characteristics - form factors - combinations",
+      "value": 4
+    },
+    {
+      "source": "approach - augment surroundings - on-body (handheld)",
+      "target": "characteristics - form factors - other types",
+      "value": 2
+    },
+    {
+      "source": "approach - augment surroundings - on-environment",
+      "target": "characteristics - form factors - robotic arms",
+      "value": 62
+    },
+    {
+      "source": "approach - augment surroundings - on-environment",
+      "target": "characteristics - form factors - drones",
+      "value": 8
+    },
+    {
+      "source": "approach - augment surroundings - on-environment",
+      "target": "characteristics - form factors - mobile robots",
+      "value": 57
+    },
+    {
+      "source": "approach - augment surroundings - on-environment",
+      "target": "characteristics - form factors - humanoid robots",
+      "value": 3
+    },
+    {
+      "source": "approach - augment surroundings - on-environment",
+      "target": "characteristics - form factors - vehicles",
+      "value": 2
+    },
+    {
+      "source": "approach - augment surroundings - on-environment",
+      "target": "characteristics - form factors - actuated objects",
+      "value": 8
+    },
+    {
+      "source": "approach - augment surroundings - on-environment",
+      "target": "characteristics - form factors - combinations",
+      "value": 3
+    },
+    {
+      "source": "approach - augment surroundings - on-environment",
+      "target": "characteristics - form factors - other types",
+      "value": 1
+    },
+    {
+      "source": "approach - augment surroundings - on-robot",
+      "target": "characteristics - form factors - robotic arms",
+      "value": 7
+    },
+    {
+      "source": "approach - augment surroundings - on-robot",
+      "target": "characteristics - form factors - drones",
+      "value": 4
+    },
+    {
+      "source": "approach - augment surroundings - on-robot",
+      "target": "characteristics - form factors - mobile robots",
+      "value": 12
+    },
+    {
+      "source": "approach - augment surroundings - on-robot",
+      "target": "characteristics - form factors - humanoid robots",
+      "value": 1
+    },
+    {
+      "source": "approach - augment surroundings - on-robot",
+      "target": "characteristics - form factors - vehicles",
+      "value": 4
+    },
+    {
+      "source": "approach - augment surroundings - on-robot",
+      "target": "characteristics - form factors - actuated objects",
+      "value": 1
+    },
+    {
+      "source": "approach - augment surroundings - on-robot",
+      "target": "characteristics - form factors - combinations",
+      "value": 0
+    },
+    {
+      "source": "approach - augment surroundings - on-robot",
+      "target": "characteristics - form factors - other types",
+      "value": 4
+    },
+    {
+      "source": "characteristics - form factors - robotic arms",
+      "target": "characteristics - relationship - 1 : 1",
+      "value": 162
+    },
+    {
+      "source": "characteristics - form factors - robotic arms",
+      "target": "characteristics - relationship - 1 : m",
+      "value": 7
+    },
+    {
+      "source": "characteristics - form factors - robotic arms",
+      "target": "characteristics - relationship - n : 1",
+      "value": 3
+    },
+    {
+      "source": "characteristics - form factors - robotic arms",
+      "target": "characteristics - relationship - n : m",
+      "value": 0
+    },
+    {
+      "source": "characteristics - form factors - drones",
+      "target": "characteristics - relationship - 1 : 1",
+      "value": 17
+    },
+    {
+      "source": "characteristics - form factors - drones",
+      "target": "characteristics - relationship - 1 : m",
+      "value": 3
+    },
+    {
+      "source": "characteristics - form factors - drones",
+      "target": "characteristics - relationship - n : 1",
+      "value": 4
+    },
+    {
+      "source": "characteristics - form factors - drones",
+      "target": "characteristics - relationship - n : m",
+      "value": 1
+    },
+    {
+      "source": "characteristics - form factors - mobile robots",
+      "target": "characteristics - relationship - 1 : 1",
+      "value": 96
+    },
+    {
+      "source": "characteristics - form factors - mobile robots",
+      "target": "characteristics - relationship - 1 : m",
+      "value": 21
+    },
+    {
+      "source": "characteristics - form factors - mobile robots",
+      "target": "characteristics - relationship - n : 1",
+      "value": 9
+    },
+    {
+      "source": "characteristics - form factors - mobile robots",
+      "target": "characteristics - relationship - n : m",
+      "value": 9
+    },
+    {
+      "source": "characteristics - form factors - humanoid robots",
+      "target": "characteristics - relationship - 1 : 1",
+      "value": 30
+    },
+    {
+      "source": "characteristics - form factors - humanoid robots",
+      "target": "characteristics - relationship - 1 : m",
+      "value": 1
+    },
+    {
+      "source": "characteristics - form factors - humanoid robots",
+      "target": "characteristics - relationship - n : 1",
+      "value": 1
+    },
+    {
+      "source": "characteristics - form factors - humanoid robots",
+      "target": "characteristics - relationship - n : m",
+      "value": 0
+    },
+    {
+      "source": "characteristics - form factors - vehicles",
+      "target": "characteristics - relationship - 1 : 1",
+      "value": 6
+    },
+    {
+      "source": "characteristics - form factors - vehicles",
+      "target": "characteristics - relationship - 1 : m",
+      "value": 0
+    },
+    {
+      "source": "characteristics - form factors - vehicles",
+      "target": "characteristics - relationship - n : 1",
+      "value": 1
+    },
+    {
+      "source": "characteristics - form factors - vehicles",
+      "target": "characteristics - relationship - n : m",
+      "value": 0
+    },
+    {
+      "source": "characteristics - form factors - actuated objects",
+      "target": "characteristics - relationship - 1 : 1",
+      "value": 21
+    },
+    {
+      "source": "characteristics - form factors - actuated objects",
+      "target": "characteristics - relationship - 1 : m",
+      "value": 3
+    },
+    {
+      "source": "characteristics - form factors - actuated objects",
+      "target": "characteristics - relationship - n : 1",
+      "value": 3
+    },
+    {
+      "source": "characteristics - form factors - actuated objects",
+      "target": "characteristics - relationship - n : m",
+      "value": 1
+    },
+    {
+      "source": "characteristics - form factors - combinations",
+      "target": "characteristics - relationship - 1 : 1",
+      "value": 12
+    },
+    {
+      "source": "characteristics - form factors - combinations",
+      "target": "characteristics - relationship - 1 : m",
+      "value": 3
+    },
+    {
+      "source": "characteristics - form factors - combinations",
+      "target": "characteristics - relationship - n : 1",
+      "value": 0
+    },
+    {
+      "source": "characteristics - form factors - combinations",
+      "target": "characteristics - relationship - n : m",
+      "value": 0
+    },
+    {
+      "source": "characteristics - form factors - other types",
+      "target": "characteristics - relationship - 1 : 1",
+      "value": 9
+    },
+    {
+      "source": "characteristics - form factors - other types",
+      "target": "characteristics - relationship - 1 : m",
+      "value": 0
+    },
+    {
+      "source": "characteristics - form factors - other types",
+      "target": "characteristics - relationship - n : 1",
+      "value": 2
+    },
+    {
+      "source": "characteristics - form factors - other types",
+      "target": "characteristics - relationship - n : m",
+      "value": 0
+    },
+    {
+      "source": "characteristics - relationship - 1 : 1",
+      "target": "characteristics - scale - handheld-scale",
+      "value": 13
+    },
+    {
+      "source": "characteristics - relationship - 1 : 1",
+      "target": "characteristics - scale - tabletop-scale",
+      "value": 52
+    },
+    {
+      "source": "characteristics - relationship - 1 : 1",
+      "target": "characteristics - scale - body-scale",
+      "value": 220
+    },
+    {
+      "source": "characteristics - relationship - 1 : 1",
+      "target": "characteristics - scale - building/city-scale",
+      "value": 2
+    },
+    {
+      "source": "characteristics - relationship - 1 : m",
+      "target": "characteristics - scale - handheld-scale",
+      "value": 3
+    },
+    {
+      "source": "characteristics - relationship - 1 : m",
+      "target": "characteristics - scale - tabletop-scale",
+      "value": 11
+    },
+    {
+      "source": "characteristics - relationship - 1 : m",
+      "target": "characteristics - scale - body-scale",
+      "value": 19
+    },
+    {
+      "source": "characteristics - relationship - 1 : m",
+      "target": "characteristics - scale - building/city-scale",
+      "value": 0
+    },
+    {
+      "source": "characteristics - relationship - n : 1",
+      "target": "characteristics - scale - handheld-scale",
+      "value": 0
+    },
+    {
+      "source": "characteristics - relationship - n : 1",
+      "target": "characteristics - scale - tabletop-scale",
+      "value": 4
+    },
+    {
+      "source": "characteristics - relationship - n : 1",
+      "target": "characteristics - scale - body-scale",
+      "value": 13
+    },
+    {
+      "source": "characteristics - relationship - n : 1",
+      "target": "characteristics - scale - building/city-scale",
+      "value": 2
+    },
+    {
+      "source": "characteristics - relationship - n : m",
+      "target": "characteristics - scale - handheld-scale",
+      "value": 3
+    },
+    {
+      "source": "characteristics - relationship - n : m",
+      "target": "characteristics - scale - tabletop-scale",
+      "value": 3
+    },
+    {
+      "source": "characteristics - relationship - n : m",
+      "target": "characteristics - scale - body-scale",
+      "value": 3
+    },
+    {
+      "source": "characteristics - relationship - n : m",
+      "target": "characteristics - scale - building/city-scale",
+      "value": 0
+    },
+    {
+      "source": "characteristics - scale - handheld-scale",
+      "target": "characteristics - proximity - co-located",
+      "value": 8
+    },
+    {
+      "source": "characteristics - scale - handheld-scale",
+      "target": "characteristics - proximity - co-located with distance",
+      "value": 6
+    },
+    {
+      "source": "characteristics - scale - handheld-scale",
+      "target": "characteristics - proximity - semi-remote",
+      "value": 0
+    },
+    {
+      "source": "characteristics - scale - handheld-scale",
+      "target": "characteristics - proximity - remote",
+      "value": 5
+    },
+    {
+      "source": "characteristics - scale - tabletop-scale",
+      "target": "characteristics - proximity - co-located",
+      "value": 16
+    },
+    {
+      "source": "characteristics - scale - tabletop-scale",
+      "target": "characteristics - proximity - co-located with distance",
+      "value": 40
+    },
+    {
+      "source": "characteristics - scale - tabletop-scale",
+      "target": "characteristics - proximity - semi-remote",
+      "value": 0
+    },
+    {
+      "source": "characteristics - scale - tabletop-scale",
+      "target": "characteristics - proximity - remote",
+      "value": 15
+    },
+    {
+      "source": "characteristics - scale - body-scale",
+      "target": "characteristics - proximity - co-located",
+      "value": 41
+    },
+    {
+      "source": "characteristics - scale - body-scale",
+      "target": "characteristics - proximity - co-located with distance",
+      "value": 182
+    },
+    {
+      "source": "characteristics - scale - body-scale",
+      "target": "characteristics - proximity - semi-remote",
+      "value": 10
+    },
+    {
+      "source": "characteristics - scale - body-scale",
+      "target": "characteristics - proximity - remote",
+      "value": 34
+    },
+    {
+      "source": "characteristics - scale - building/city-scale",
+      "target": "characteristics - proximity - co-located",
+      "value": 0
+    },
+    {
+      "source": "characteristics - scale - building/city-scale",
+      "target": "characteristics - proximity - co-located with distance",
+      "value": 2
+    },
+    {
+      "source": "characteristics - scale - building/city-scale",
+      "target": "characteristics - proximity - semi-remote",
+      "value": 1
+    },
+    {
+      "source": "characteristics - scale - building/city-scale",
+      "target": "characteristics - proximity - remote",
+      "value": 1
+    },
+    {
+      "source": "characteristics - proximity - co-located",
+      "target": "purposes - facilitate programming",
+      "value": 12
+    },
+    {
+      "source": "characteristics - proximity - co-located",
+      "target": "purposes - support real-time control",
+      "value": 29
+    },
+    {
+      "source": "characteristics - proximity - co-located",
+      "target": "purposes - improve safety",
+      "value": 6
+    },
+    {
+      "source": "characteristics - proximity - co-located",
+      "target": "purposes - communicate intent",
+      "value": 8
+    },
+    {
+      "source": "characteristics - proximity - co-located",
+      "target": "purposes - increase expressiveness",
+      "value": 30
+    },
+    {
+      "source": "characteristics - proximity - co-located with distance",
+      "target": "purposes - facilitate programming",
+      "value": 115
+    },
+    {
+      "source": "characteristics - proximity - co-located with distance",
+      "target": "purposes - support real-time control",
+      "value": 58
+    },
+    {
+      "source": "characteristics - proximity - co-located with distance",
+      "target": "purposes - improve safety",
+      "value": 24
+    },
+    {
+      "source": "characteristics - proximity - co-located with distance",
+      "target": "purposes - communicate intent",
+      "value": 66
+    },
+    {
+      "source": "characteristics - proximity - co-located with distance",
+      "target": "purposes - increase expressiveness",
+      "value": 72
+    },
+    {
+      "source": "characteristics - proximity - semi-remote",
+      "target": "purposes - facilitate programming",
+      "value": 7
+    },
+    {
+      "source": "characteristics - proximity - semi-remote",
+      "target": "purposes - support real-time control",
+      "value": 8
+    },
+    {
+      "source": "characteristics - proximity - semi-remote",
+      "target": "purposes - improve safety",
+      "value": 1
+    },
+    {
+      "source": "characteristics - proximity - semi-remote",
+      "target": "purposes - communicate intent",
+      "value": 4
+    },
+    {
+      "source": "characteristics - proximity - semi-remote",
+      "target": "purposes - increase expressiveness",
+      "value": 5
+    },
+    {
+      "source": "characteristics - proximity - remote",
+      "target": "purposes - facilitate programming",
+      "value": 28
+    },
+    {
+      "source": "characteristics - proximity - remote",
+      "target": "purposes - support real-time control",
+      "value": 35
+    },
+    {
+      "source": "characteristics - proximity - remote",
+      "target": "purposes - improve safety",
+      "value": 1
+    },
+    {
+      "source": "characteristics - proximity - remote",
+      "target": "purposes - communicate intent",
+      "value": 9
+    },
+    {
+      "source": "characteristics - proximity - remote",
+      "target": "purposes - increase expressiveness",
+      "value": 9
+    },
+    {
+      "source": "purposes - facilitate programming",
+      "target": "information - internal information",
+      "value": 55
+    },
+    {
+      "source": "purposes - facilitate programming",
+      "target": "information - external information",
+      "value": 100
+    },
+    {
+      "source": "purposes - facilitate programming",
+      "target": "information - plan and activity",
+      "value": 90
+    },
+    {
+      "source": "purposes - facilitate programming",
+      "target": "information - supplement content",
+      "value": 11
+    },
+    {
+      "source": "purposes - support real-time control",
+      "target": "information - internal information",
+      "value": 21
+    },
+    {
+      "source": "purposes - support real-time control",
+      "target": "information - external information",
+      "value": 93
+    },
+    {
+      "source": "purposes - support real-time control",
+      "target": "information - plan and activity",
+      "value": 42
+    },
+    {
+      "source": "purposes - support real-time control",
+      "target": "information - supplement content",
+      "value": 24
+    },
+    {
+      "source": "purposes - improve safety",
+      "target": "information - internal information",
+      "value": 20
+    },
+    {
+      "source": "purposes - improve safety",
+      "target": "information - external information",
+      "value": 21
+    },
+    {
+      "source": "purposes - improve safety",
+      "target": "information - plan and activity",
+      "value": 20
+    },
+    {
+      "source": "purposes - improve safety",
+      "target": "information - supplement content",
+      "value": 4
+    },
+    {
+      "source": "purposes - communicate intent",
+      "target": "information - internal information",
+      "value": 34
+    },
+    {
+      "source": "purposes - communicate intent",
+      "target": "information - external information",
+      "value": 53
+    },
+    {
+      "source": "purposes - communicate intent",
+      "target": "information - plan and activity",
+      "value": 65
+    },
+    {
+      "source": "purposes - communicate intent",
+      "target": "information - supplement content",
+      "value": 9
+    },
+    {
+      "source": "purposes - increase expressiveness",
+      "target": "information - internal information",
+      "value": 15
+    },
+    {
+      "source": "purposes - increase expressiveness",
+      "target": "information - external information",
+      "value": 34
+    },
+    {
+      "source": "purposes - increase expressiveness",
+      "target": "information - plan and activity",
+      "value": 14
+    },
+    {
+      "source": "purposes - increase expressiveness",
+      "target": "information - supplement content",
+      "value": 96
+    },
+    {
+      "source": "information - internal information",
+      "target": "design - uis and widgets - menus",
+      "value": 43
+    },
+    {
+      "source": "information - internal information",
+      "target": "design - uis and widgets - information planels",
+      "value": 45
+    },
+    {
+      "source": "information - internal information",
+      "target": "design - uis and widgets - labels and annotations",
+      "value": 75
+    },
+    {
+      "source": "information - internal information",
+      "target": "design - uis and widgets - controls and handles",
+      "value": 3
+    },
+    {
+      "source": "information - internal information",
+      "target": "design - uis and widgets - monitors and displays",
+      "value": 10
+    },
+    {
+      "source": "information - external information",
+      "target": "design - uis and widgets - menus",
+      "value": 70
+    },
+    {
+      "source": "information - external information",
+      "target": "design - uis and widgets - information planels",
+      "value": 53
+    },
+    {
+      "source": "information - external information",
+      "target": "design - uis and widgets - labels and annotations",
+      "value": 170
+    },
+    {
+      "source": "information - external information",
+      "target": "design - uis and widgets - controls and handles",
+      "value": 8
+    },
+    {
+      "source": "information - external information",
+      "target": "design - uis and widgets - monitors and displays",
+      "value": 22
+    },
+    {
+      "source": "information - plan and activity",
+      "target": "design - uis and widgets - menus",
+      "value": 48
+    },
+    {
+      "source": "information - plan and activity",
+      "target": "design - uis and widgets - information planels",
+      "value": 35
+    },
+    {
+      "source": "information - plan and activity",
+      "target": "design - uis and widgets - labels and annotations",
+      "value": 114
+    },
+    {
+      "source": "information - plan and activity",
+      "target": "design - uis and widgets - controls and handles",
+      "value": 9
+    },
+    {
+      "source": "information - plan and activity",
+      "target": "design - uis and widgets - monitors and displays",
+      "value": 10
+    },
+    {
+      "source": "information - supplement content",
+      "target": "design - uis and widgets - menus",
+      "value": 27
+    },
+    {
+      "source": "information - supplement content",
+      "target": "design - uis and widgets - information planels",
+      "value": 18
+    },
+    {
+      "source": "information - supplement content",
+      "target": "design - uis and widgets - labels and annotations",
+      "value": 42
+    },
+    {
+      "source": "information - supplement content",
+      "target": "design - uis and widgets - controls and handles",
+      "value": 10
+    },
+    {
+      "source": "information - supplement content",
+      "target": "design - uis and widgets - monitors and displays",
+      "value": 24
+    },
+    {
+      "source": "design - uis and widgets - menus",
+      "target": "design - spatial references and visualizations - points and locations",
+      "value": 76
+    },
+    {
+      "source": "design - uis and widgets - menus",
+      "target": "design - spatial references and visualizations - paths and trajectories",
+      "value": 53
+    },
+    {
+      "source": "design - uis and widgets - menus",
+      "target": "design - spatial references and visualizations - areas and boundaries",
+      "value": 60
+    },
+    {
+      "source": "design - uis and widgets - menus",
+      "target": "design - spatial references and visualizations - other visualizations",
+      "value": 18
+    },
+    {
+      "source": "design - uis and widgets - information planels",
+      "target": "design - spatial references and visualizations - points and locations",
+      "value": 49
+    },
+    {
+      "source": "design - uis and widgets - information planels",
+      "target": "design - spatial references and visualizations - paths and trajectories",
+      "value": 41
+    },
+    {
+      "source": "design - uis and widgets - information planels",
+      "target": "design - spatial references and visualizations - areas and boundaries",
+      "value": 38
+    },
+    {
+      "source": "design - uis and widgets - information planels",
+      "target": "design - spatial references and visualizations - other visualizations",
+      "value": 10
+    },
+    {
+      "source": "design - uis and widgets - labels and annotations",
+      "target": "design - spatial references and visualizations - points and locations",
+      "value": 190
+    },
+    {
+      "source": "design - uis and widgets - labels and annotations",
+      "target": "design - spatial references and visualizations - paths and trajectories",
+      "value": 125
+    },
+    {
+      "source": "design - uis and widgets - labels and annotations",
+      "target": "design - spatial references and visualizations - areas and boundaries",
+      "value": 142
+    },
+    {
+      "source": "design - uis and widgets - labels and annotations",
+      "target": "design - spatial references and visualizations - other visualizations",
+      "value": 18
+    },
+    {
+      "source": "design - uis and widgets - controls and handles",
+      "target": "design - spatial references and visualizations - points and locations",
+      "value": 10
+    },
+    {
+      "source": "design - uis and widgets - controls and handles",
+      "target": "design - spatial references and visualizations - paths and trajectories",
+      "value": 8
+    },
+    {
+      "source": "design - uis and widgets - controls and handles",
+      "target": "design - spatial references and visualizations - areas and boundaries",
+      "value": 7
+    },
+    {
+      "source": "design - uis and widgets - controls and handles",
+      "target": "design - spatial references and visualizations - other visualizations",
+      "value": 11
+    },
+    {
+      "source": "design - uis and widgets - monitors and displays",
+      "target": "design - spatial references and visualizations - points and locations",
+      "value": 16
+    },
+    {
+      "source": "design - uis and widgets - monitors and displays",
+      "target": "design - spatial references and visualizations - paths and trajectories",
+      "value": 14
+    },
+    {
+      "source": "design - uis and widgets - monitors and displays",
+      "target": "design - spatial references and visualizations - areas and boundaries",
+      "value": 17
+    },
+    {
+      "source": "design - uis and widgets - monitors and displays",
+      "target": "design - spatial references and visualizations - other visualizations",
+      "value": 19
+    },
+    {
+      "source": "design - spatial references and visualizations - points and locations",
+      "target": "design - embedded visual effects - anthropomorphic",
+      "value": 6
+    },
+    {
+      "source": "design - spatial references and visualizations - points and locations",
+      "target": "design - embedded visual effects - visual replica",
+      "value": 99
+    },
+    {
+      "source": "design - spatial references and visualizations - points and locations",
+      "target": "design - embedded visual effects - texture mapping",
+      "value": 5
+    },
+    {
+      "source": "design - spatial references and visualizations - paths and trajectories",
+      "target": "design - embedded visual effects - anthropomorphic",
+      "value": 6
+    },
+    {
+      "source": "design - spatial references and visualizations - paths and trajectories",
+      "target": "design - embedded visual effects - visual replica",
+      "value": 94
+    },
+    {
+      "source": "design - spatial references and visualizations - paths and trajectories",
+      "target": "design - embedded visual effects - texture mapping",
+      "value": 0
+    },
+    {
+      "source": "design - spatial references and visualizations - areas and boundaries",
+      "target": "design - embedded visual effects - anthropomorphic",
+      "value": 2
+    },
+    {
+      "source": "design - spatial references and visualizations - areas and boundaries",
+      "target": "design - embedded visual effects - visual replica",
+      "value": 75
+    },
+    {
+      "source": "design - spatial references and visualizations - areas and boundaries",
+      "target": "design - embedded visual effects - texture mapping",
+      "value": 9
+    },
+    {
+      "source": "design - spatial references and visualizations - other visualizations",
+      "target": "design - embedded visual effects - anthropomorphic",
+      "value": 9
+    },
+    {
+      "source": "design - spatial references and visualizations - other visualizations",
+      "target": "design - embedded visual effects - visual replica",
+      "value": 15
+    },
+    {
+      "source": "design - spatial references and visualizations - other visualizations",
+      "target": "design - embedded visual effects - texture mapping",
+      "value": 21
+    },
+    {
+      "source": "design - embedded visual effects - anthropomorphic",
+      "target": "interactions - interactivity - only output",
+      "value": 7
+    },
+    {
+      "source": "design - embedded visual effects - anthropomorphic",
+      "target": "interactions - interactivity - implicit",
+      "value": 1
+    },
+    {
+      "source": "design - embedded visual effects - anthropomorphic",
+      "target": "interactions - interactivity - indirect",
+      "value": 11
+    },
+    {
+      "source": "design - embedded visual effects - anthropomorphic",
+      "target": "interactions - interactivity - direct",
+      "value": 2
+    },
+    {
+      "source": "design - embedded visual effects - visual replica",
+      "target": "interactions - interactivity - only output",
+      "value": 3
+    },
+    {
+      "source": "design - embedded visual effects - visual replica",
+      "target": "interactions - interactivity - implicit",
+      "value": 3
+    },
+    {
+      "source": "design - embedded visual effects - visual replica",
+      "target": "interactions - interactivity - indirect",
+      "value": 126
+    },
+    {
+      "source": "design - embedded visual effects - visual replica",
+      "target": "interactions - interactivity - direct",
+      "value": 15
+    },
+    {
+      "source": "design - embedded visual effects - texture mapping",
+      "target": "interactions - interactivity - only output",
+      "value": 1
+    },
+    {
+      "source": "design - embedded visual effects - texture mapping",
+      "target": "interactions - interactivity - implicit",
+      "value": 2
+    },
+    {
+      "source": "design - embedded visual effects - texture mapping",
+      "target": "interactions - interactivity - indirect",
+      "value": 4
+    },
+    {
+      "source": "design - embedded visual effects - texture mapping",
+      "target": "interactions - interactivity - direct",
+      "value": 24
+    },
+    {
+      "source": "interactions - interactivity - only output",
+      "target": "interactions - interaction modalities - tangible",
+      "value": 1
+    },
+    {
+      "source": "interactions - interactivity - only output",
+      "target": "interactions - interaction modalities - touch",
+      "value": 2
+    },
+    {
+      "source": "interactions - interactivity - only output",
+      "target": "interactions - interaction modalities - controller",
+      "value": 6
+    },
+    {
+      "source": "interactions - interactivity - only output",
+      "target": "interactions - interaction modalities - gesture",
+      "value": 3
+    },
+    {
+      "source": "interactions - interactivity - only output",
+      "target": "interactions - interaction modalities - gaze",
+      "value": 0
+    },
+    {
+      "source": "interactions - interactivity - only output",
+      "target": "interactions - interaction modalities - voice",
+      "value": 1
+    },
+    {
+      "source": "interactions - interactivity - only output",
+      "target": "interactions - interaction modalities - proximity",
+      "value": 0
+    },
+    {
+      "source": "interactions - interactivity - implicit",
+      "target": "interactions - interaction modalities - tangible",
+      "value": 2
+    },
+    {
+      "source": "interactions - interactivity - implicit",
+      "target": "interactions - interaction modalities - touch",
+      "value": 0
+    },
+    {
+      "source": "interactions - interactivity - implicit",
+      "target": "interactions - interaction modalities - controller",
+      "value": 1
+    },
+    {
+      "source": "interactions - interactivity - implicit",
+      "target": "interactions - interaction modalities - gesture",
+      "value": 2
+    },
+    {
+      "source": "interactions - interactivity - implicit",
+      "target": "interactions - interaction modalities - gaze",
+      "value": 1
+    },
+    {
+      "source": "interactions - interactivity - implicit",
+      "target": "interactions - interaction modalities - voice",
+      "value": 0
+    },
+    {
+      "source": "interactions - interactivity - implicit",
+      "target": "interactions - interaction modalities - proximity",
+      "value": 4
+    },
+    {
+      "source": "interactions - interactivity - indirect",
+      "target": "interactions - interaction modalities - tangible",
+      "value": 30
+    },
+    {
+      "source": "interactions - interactivity - indirect",
+      "target": "interactions - interaction modalities - touch",
+      "value": 60
+    },
+    {
+      "source": "interactions - interactivity - indirect",
+      "target": "interactions - interaction modalities - controller",
+      "value": 110
+    },
+    {
+      "source": "interactions - interactivity - indirect",
+      "target": "interactions - interaction modalities - gesture",
+      "value": 110
+    },
+    {
+      "source": "interactions - interactivity - indirect",
+      "target": "interactions - interaction modalities - gaze",
+      "value": 11
+    },
+    {
+      "source": "interactions - interactivity - indirect",
+      "target": "interactions - interaction modalities - voice",
+      "value": 16
+    },
+    {
+      "source": "interactions - interactivity - indirect",
+      "target": "interactions - interaction modalities - proximity",
+      "value": 16
+    },
+    {
+      "source": "interactions - interactivity - direct",
+      "target": "interactions - interaction modalities - tangible",
+      "value": 43
+    },
+    {
+      "source": "interactions - interactivity - direct",
+      "target": "interactions - interaction modalities - touch",
+      "value": 9
+    },
+    {
+      "source": "interactions - interactivity - direct",
+      "target": "interactions - interaction modalities - controller",
+      "value": 26
+    },
+    {
+      "source": "interactions - interactivity - direct",
+      "target": "interactions - interaction modalities - gesture",
+      "value": 5
+    },
+    {
+      "source": "interactions - interactivity - direct",
+      "target": "interactions - interaction modalities - gaze",
+      "value": 2
+    },
+    {
+      "source": "interactions - interactivity - direct",
+      "target": "interactions - interaction modalities - voice",
+      "value": 1
+    },
+    {
+      "source": "interactions - interactivity - direct",
+      "target": "interactions - interaction modalities - proximity",
+      "value": 1
+    },
+    {
+      "source": "interactions - interaction modalities - tangible",
+      "target": "applications - domestic and everyday use",
+      "value": 2
+    },
+    {
+      "source": "interactions - interaction modalities - tangible",
+      "target": "applications - industry",
+      "value": 23
+    },
+    {
+      "source": "interactions - interaction modalities - tangible",
+      "target": "applications - entertainment",
+      "value": 12
+    },
+    {
+      "source": "interactions - interaction modalities - tangible",
+      "target": "applications - education and training",
+      "value": 6
+    },
+    {
+      "source": "interactions - interaction modalities - tangible",
+      "target": "applications - social interaction",
+      "value": 1
+    },
+    {
+      "source": "interactions - interaction modalities - tangible",
+      "target": "applications - design and creative tasks",
+      "value": 0
+    },
+    {
+      "source": "interactions - interaction modalities - tangible",
+      "target": "applications - medical and health",
+      "value": 12
+    },
+    {
+      "source": "interactions - interaction modalities - tangible",
+      "target": "applications - remote collaboration",
+      "value": 0
+    },
+    {
+      "source": "interactions - interaction modalities - tangible",
+      "target": "applications - mobility and transportation",
+      "value": 1
+    },
+    {
+      "source": "interactions - interaction modalities - tangible",
+      "target": "applications - search and rescue",
+      "value": 0
+    },
+    {
+      "source": "interactions - interaction modalities - tangible",
+      "target": "applications - workspace",
+      "value": 2
+    },
+    {
+      "source": "interactions - interaction modalities - tangible",
+      "target": "applications - data physicalization",
+      "value": 11
+    },
+    {
+      "source": "interactions - interaction modalities - touch",
+      "target": "applications - domestic and everyday use",
+      "value": 15
+    },
+    {
+      "source": "interactions - interaction modalities - touch",
+      "target": "applications - industry",
+      "value": 32
+    },
+    {
+      "source": "interactions - interaction modalities - touch",
+      "target": "applications - entertainment",
+      "value": 6
+    },
+    {
+      "source": "interactions - interaction modalities - touch",
+      "target": "applications - education and training",
+      "value": 3
+    },
+    {
+      "source": "interactions - interaction modalities - touch",
+      "target": "applications - social interaction",
+      "value": 4
+    },
+    {
+      "source": "interactions - interaction modalities - touch",
+      "target": "applications - design and creative tasks",
+      "value": 2
+    },
+    {
+      "source": "interactions - interaction modalities - touch",
+      "target": "applications - medical and health",
+      "value": 5
+    },
+    {
+      "source": "interactions - interaction modalities - touch",
+      "target": "applications - remote collaboration",
+      "value": 1
+    },
+    {
+      "source": "interactions - interaction modalities - touch",
+      "target": "applications - mobility and transportation",
+      "value": 1
+    },
+    {
+      "source": "interactions - interaction modalities - touch",
+      "target": "applications - search and rescue",
+      "value": 2
+    },
+    {
+      "source": "interactions - interaction modalities - touch",
+      "target": "applications - workspace",
+      "value": 4
+    },
+    {
+      "source": "interactions - interaction modalities - touch",
+      "target": "applications - data physicalization",
+      "value": 1
+    },
+    {
+      "source": "interactions - interaction modalities - controller",
+      "target": "applications - domestic and everyday use",
+      "value": 9
+    },
+    {
+      "source": "interactions - interaction modalities - controller",
+      "target": "applications - industry",
+      "value": 47
+    },
+    {
+      "source": "interactions - interaction modalities - controller",
+      "target": "applications - entertainment",
+      "value": 9
+    },
+    {
+      "source": "interactions - interaction modalities - controller",
+      "target": "applications - education and training",
+      "value": 5
+    },
+    {
+      "source": "interactions - interaction modalities - controller",
+      "target": "applications - social interaction",
+      "value": 0
+    },
+    {
+      "source": "interactions - interaction modalities - controller",
+      "target": "applications - design and creative tasks",
+      "value": 4
+    },
+    {
+      "source": "interactions - interaction modalities - controller",
+      "target": "applications - medical and health",
+      "value": 18
+    },
+    {
+      "source": "interactions - interaction modalities - controller",
+      "target": "applications - remote collaboration",
+      "value": 3
+    },
+    {
+      "source": "interactions - interaction modalities - controller",
+      "target": "applications - mobility and transportation",
+      "value": 1
+    },
+    {
+      "source": "interactions - interaction modalities - controller",
+      "target": "applications - search and rescue",
+      "value": 20
+    },
+    {
+      "source": "interactions - interaction modalities - controller",
+      "target": "applications - workspace",
+      "value": 1
+    },
+    {
+      "source": "interactions - interaction modalities - controller",
+      "target": "applications - data physicalization",
+      "value": 0
+    },
+    {
+      "source": "interactions - interaction modalities - gesture",
+      "target": "applications - domestic and everyday use",
+      "value": 8
+    },
+    {
+      "source": "interactions - interaction modalities - gesture",
+      "target": "applications - industry",
+      "value": 70
+    },
+    {
+      "source": "interactions - interaction modalities - gesture",
+      "target": "applications - entertainment",
+      "value": 7
+    },
+    {
+      "source": "interactions - interaction modalities - gesture",
+      "target": "applications - education and training",
+      "value": 9
+    },
+    {
+      "source": "interactions - interaction modalities - gesture",
+      "target": "applications - social interaction",
+      "value": 10
+    },
+    {
+      "source": "interactions - interaction modalities - gesture",
+      "target": "applications - design and creative tasks",
+      "value": 5
+    },
+    {
+      "source": "interactions - interaction modalities - gesture",
+      "target": "applications - medical and health",
+      "value": 2
+    },
+    {
+      "source": "interactions - interaction modalities - gesture",
+      "target": "applications - remote collaboration",
+      "value": 2
+    },
+    {
+      "source": "interactions - interaction modalities - gesture",
+      "target": "applications - mobility and transportation",
+      "value": 1
+    },
+    {
+      "source": "interactions - interaction modalities - gesture",
+      "target": "applications - search and rescue",
+      "value": 10
+    },
+    {
+      "source": "interactions - interaction modalities - gesture",
+      "target": "applications - workspace",
+      "value": 4
+    },
+    {
+      "source": "interactions - interaction modalities - gesture",
+      "target": "applications - data physicalization",
+      "value": 0
+    },
+    {
+      "source": "interactions - interaction modalities - gaze",
+      "target": "applications - domestic and everyday use",
+      "value": 1
+    },
+    {
+      "source": "interactions - interaction modalities - gaze",
+      "target": "applications - industry",
+      "value": 9
+    },
+    {
+      "source": "interactions - interaction modalities - gaze",
+      "target": "applications - entertainment",
+      "value": 0
+    },
+    {
+      "source": "interactions - interaction modalities - gaze",
+      "target": "applications - education and training",
+      "value": 1
+    },
+    {
+      "source": "interactions - interaction modalities - gaze",
+      "target": "applications - social interaction",
+      "value": 0
+    },
+    {
+      "source": "interactions - interaction modalities - gaze",
+      "target": "applications - design and creative tasks",
+      "value": 0
+    },
+    {
+      "source": "interactions - interaction modalities - gaze",
+      "target": "applications - medical and health",
+      "value": 0
+    },
+    {
+      "source": "interactions - interaction modalities - gaze",
+      "target": "applications - remote collaboration",
+      "value": 0
+    },
+    {
+      "source": "interactions - interaction modalities - gaze",
+      "target": "applications - mobility and transportation",
+      "value": 2
+    },
+    {
+      "source": "interactions - interaction modalities - gaze",
+      "target": "applications - search and rescue",
+      "value": 3
+    },
+    {
+      "source": "interactions - interaction modalities - gaze",
+      "target": "applications - workspace",
+      "value": 1
+    },
+    {
+      "source": "interactions - interaction modalities - gaze",
+      "target": "applications - data physicalization",
+      "value": 0
+    },
+    {
+      "source": "interactions - interaction modalities - voice",
+      "target": "applications - domestic and everyday use",
+      "value": 3
+    },
+    {
+      "source": "interactions - interaction modalities - voice",
+      "target": "applications - industry",
+      "value": 7
+    },
+    {
+      "source": "interactions - interaction modalities - voice",
+      "target": "applications - entertainment",
+      "value": 1
+    },
+    {
+      "source": "interactions - interaction modalities - voice",
+      "target": "applications - education and training",
+      "value": 2
+    },
+    {
+      "source": "interactions - interaction modalities - voice",
+      "target": "applications - social interaction",
+      "value": 4
+    },
+    {
+      "source": "interactions - interaction modalities - voice",
+      "target": "applications - design and creative tasks",
+      "value": 0
+    },
+    {
+      "source": "interactions - interaction modalities - voice",
+      "target": "applications - medical and health",
+      "value": 1
+    },
+    {
+      "source": "interactions - interaction modalities - voice",
+      "target": "applications - remote collaboration",
+      "value": 1
+    },
+    {
+      "source": "interactions - interaction modalities - voice",
+      "target": "applications - mobility and transportation",
+      "value": 0
+    },
+    {
+      "source": "interactions - interaction modalities - voice",
+      "target": "applications - search and rescue",
+      "value": 3
+    },
+    {
+      "source": "interactions - interaction modalities - voice",
+      "target": "applications - workspace",
+      "value": 0
+    },
+    {
+      "source": "interactions - interaction modalities - voice",
+      "target": "applications - data physicalization",
+      "value": 0
+    },
+    {
+      "source": "interactions - interaction modalities - proximity",
+      "target": "applications - domestic and everyday use",
+      "value": 3
+    },
+    {
+      "source": "interactions - interaction modalities - proximity",
+      "target": "applications - industry",
+      "value": 7
+    },
+    {
+      "source": "interactions - interaction modalities - proximity",
+      "target": "applications - entertainment",
+      "value": 4
+    },
+    {
+      "source": "interactions - interaction modalities - proximity",
+      "target": "applications - education and training",
+      "value": 2
+    },
+    {
+      "source": "interactions - interaction modalities - proximity",
+      "target": "applications - social interaction",
+      "value": 1
+    },
+    {
+      "source": "interactions - interaction modalities - proximity",
+      "target": "applications - design and creative tasks",
+      "value": 0
+    },
+    {
+      "source": "interactions - interaction modalities - proximity",
+      "target": "applications - medical and health",
+      "value": 0
+    },
+    {
+      "source": "interactions - interaction modalities - proximity",
+      "target": "applications - remote collaboration",
+      "value": 0
+    },
+    {
+      "source": "interactions - interaction modalities - proximity",
+      "target": "applications - mobility and transportation",
+      "value": 2
+    },
+    {
+      "source": "interactions - interaction modalities - proximity",
+      "target": "applications - search and rescue",
+      "value": 3
+    },
+    {
+      "source": "interactions - interaction modalities - proximity",
+      "target": "applications - workspace",
+      "value": 2
+    },
+    {
+      "source": "interactions - interaction modalities - proximity",
+      "target": "applications - data physicalization",
+      "value": 0
+    },
+    {
+      "source": "applications - domestic and everyday use",
+      "target": "evaluation - demonstration - workshop",
+      "value": 0
+    },
+    {
+      "source": "applications - domestic and everyday use",
+      "target": "evaluation - demonstration - theoretical framework",
+      "value": 0
+    },
+    {
+      "source": "applications - domestic and everyday use",
+      "target": "evaluation - demonstration - example applications",
+      "value": 6
+    },
+    {
+      "source": "applications - domestic and everyday use",
+      "target": "evaluation - demonstration - focus groups",
+      "value": 0
+    },
+    {
+      "source": "applications - domestic and everyday use",
+      "target": "evaluation - demonstration - early demonstrations",
+      "value": 5
+    },
+    {
+      "source": "applications - domestic and everyday use",
+      "target": "evaluation - demonstration - case studies",
+      "value": 1
+    },
+    {
+      "source": "applications - domestic and everyday use",
+      "target": "evaluation - demonstration - conceptual",
+      "value": 1
+    },
+    {
+      "source": "applications - domestic and everyday use",
+      "target": "evaluation - technical - time",
+      "value": 2
+    },
+    {
+      "source": "applications - domestic and everyday use",
+      "target": "evaluation - technical - accuracy",
+      "value": 5
+    },
+    {
+      "source": "applications - domestic and everyday use",
+      "target": "evaluation - technical - system performance",
+      "value": 1
+    },
+    {
+      "source": "applications - domestic and everyday use",
+      "target": "evaluation - technical - success rate",
+      "value": 0
+    },
+    {
+      "source": "applications - domestic and everyday use",
+      "target": "evaluation - user evaluation - nasa tls",
+      "value": 3
+    },
+    {
+      "source": "applications - domestic and everyday use",
+      "target": "evaluation - user evaluation - interviews",
+      "value": 3
+    },
+    {
+      "source": "applications - domestic and everyday use",
+      "target": "evaluation - user evaluation - questionnaires",
+      "value": 1
+    },
+    {
+      "source": "applications - domestic and everyday use",
+      "target": "evaluation - user evaluation - lab study with users",
+      "value": 0
+    },
+    {
+      "source": "applications - domestic and everyday use",
+      "target": "evaluation - user evaluation - qualitative study",
+      "value": 3
+    },
+    {
+      "source": "applications - domestic and everyday use",
+      "target": "evaluation - user evaluation - quantitative study",
+      "value": 4
+    },
+    {
+      "source": "applications - domestic and everyday use",
+      "target": "evaluation - user evaluation - lab study with experts",
+      "value": 0
+    },
+    {
+      "source": "applications - domestic and everyday use",
+      "target": "evaluation - user evaluation - observational",
+      "value": 3
+    },
+    {
+      "source": "applications - domestic and everyday use",
+      "target": "evaluation - user evaluation - user feedback",
+      "value": 1
+    },
+    {
+      "source": "applications - industry",
+      "target": "evaluation - demonstration - workshop",
+      "value": 3
+    },
+    {
+      "source": "applications - industry",
+      "target": "evaluation - demonstration - theoretical framework",
+      "value": 1
+    },
+    {
+      "source": "applications - industry",
+      "target": "evaluation - demonstration - example applications",
+      "value": 16
+    },
+    {
+      "source": "applications - industry",
+      "target": "evaluation - demonstration - focus groups",
+      "value": 0
+    },
+    {
+      "source": "applications - industry",
+      "target": "evaluation - demonstration - early demonstrations",
+      "value": 11
+    },
+    {
+      "source": "applications - industry",
+      "target": "evaluation - demonstration - case studies",
+      "value": 4
+    },
+    {
+      "source": "applications - industry",
+      "target": "evaluation - demonstration - conceptual",
+      "value": 4
+    },
+    {
+      "source": "applications - industry",
+      "target": "evaluation - technical - time",
+      "value": 12
+    },
+    {
+      "source": "applications - industry",
+      "target": "evaluation - technical - accuracy",
+      "value": 15
+    },
+    {
+      "source": "applications - industry",
+      "target": "evaluation - technical - system performance",
+      "value": 23
+    },
+    {
+      "source": "applications - industry",
+      "target": "evaluation - technical - success rate",
+      "value": 1
+    },
+    {
+      "source": "applications - industry",
+      "target": "evaluation - user evaluation - nasa tls",
+      "value": 16
+    },
+    {
+      "source": "applications - industry",
+      "target": "evaluation - user evaluation - interviews",
+      "value": 4
+    },
+    {
+      "source": "applications - industry",
+      "target": "evaluation - user evaluation - questionnaires",
+      "value": 12
+    },
+    {
+      "source": "applications - industry",
+      "target": "evaluation - user evaluation - lab study with users",
+      "value": 5
+    },
+    {
+      "source": "applications - industry",
+      "target": "evaluation - user evaluation - qualitative study",
+      "value": 7
+    },
+    {
+      "source": "applications - industry",
+      "target": "evaluation - user evaluation - quantitative study",
+      "value": 10
+    },
+    {
+      "source": "applications - industry",
+      "target": "evaluation - user evaluation - lab study with experts",
+      "value": 0
+    },
+    {
+      "source": "applications - industry",
+      "target": "evaluation - user evaluation - observational",
+      "value": 0
+    },
+    {
+      "source": "applications - industry",
+      "target": "evaluation - user evaluation - user feedback",
+      "value": 0
+    },
+    {
+      "source": "applications - entertainment",
+      "target": "evaluation - demonstration - workshop",
+      "value": 1
+    },
+    {
+      "source": "applications - entertainment",
+      "target": "evaluation - demonstration - theoretical framework",
+      "value": 0
+    },
+    {
+      "source": "applications - entertainment",
+      "target": "evaluation - demonstration - example applications",
+      "value": 2
+    },
+    {
+      "source": "applications - entertainment",
+      "target": "evaluation - demonstration - focus groups",
+      "value": 2
+    },
+    {
+      "source": "applications - entertainment",
+      "target": "evaluation - demonstration - early demonstrations",
+      "value": 9
+    },
+    {
+      "source": "applications - entertainment",
+      "target": "evaluation - demonstration - case studies",
+      "value": 0
+    },
+    {
+      "source": "applications - entertainment",
+      "target": "evaluation - demonstration - conceptual",
+      "value": 2
+    },
+    {
+      "source": "applications - entertainment",
+      "target": "evaluation - technical - time",
+      "value": 0
+    },
+    {
+      "source": "applications - entertainment",
+      "target": "evaluation - technical - accuracy",
+      "value": 2
+    },
+    {
+      "source": "applications - entertainment",
+      "target": "evaluation - technical - system performance",
+      "value": 1
+    },
+    {
+      "source": "applications - entertainment",
+      "target": "evaluation - technical - success rate",
+      "value": 0
+    },
+    {
+      "source": "applications - entertainment",
+      "target": "evaluation - user evaluation - nasa tls",
+      "value": 1
+    },
+    {
+      "source": "applications - entertainment",
+      "target": "evaluation - user evaluation - interviews",
+      "value": 1
+    },
+    {
+      "source": "applications - entertainment",
+      "target": "evaluation - user evaluation - questionnaires",
+      "value": 2
+    },
+    {
+      "source": "applications - entertainment",
+      "target": "evaluation - user evaluation - lab study with users",
+      "value": 3
+    },
+    {
+      "source": "applications - entertainment",
+      "target": "evaluation - user evaluation - qualitative study",
+      "value": 0
+    },
+    {
+      "source": "applications - entertainment",
+      "target": "evaluation - user evaluation - quantitative study",
+      "value": 1
+    },
+    {
+      "source": "applications - entertainment",
+      "target": "evaluation - user evaluation - lab study with experts",
+      "value": 1
+    },
+    {
+      "source": "applications - entertainment",
+      "target": "evaluation - user evaluation - observational",
+      "value": 3
+    },
+    {
+      "source": "applications - entertainment",
+      "target": "evaluation - user evaluation - user feedback",
+      "value": 0
+    },
+    {
+      "source": "applications - education and training",
+      "target": "evaluation - demonstration - workshop",
+      "value": 0
+    },
+    {
+      "source": "applications - education and training",
+      "target": "evaluation - demonstration - theoretical framework",
+      "value": 0
+    },
+    {
+      "source": "applications - education and training",
+      "target": "evaluation - demonstration - example applications",
+      "value": 1
+    },
+    {
+      "source": "applications - education and training",
+      "target": "evaluation - demonstration - focus groups",
+      "value": 1
+    },
+    {
+      "source": "applications - education and training",
+      "target": "evaluation - demonstration - early demonstrations",
+      "value": 2
+    },
+    {
+      "source": "applications - education and training",
+      "target": "evaluation - demonstration - case studies",
+      "value": 0
+    },
+    {
+      "source": "applications - education and training",
+      "target": "evaluation - demonstration - conceptual",
+      "value": 1
+    },
+    {
+      "source": "applications - education and training",
+      "target": "evaluation - technical - time",
+      "value": 0
+    },
+    {
+      "source": "applications - education and training",
+      "target": "evaluation - technical - accuracy",
+      "value": 0
+    },
+    {
+      "source": "applications - education and training",
+      "target": "evaluation - technical - system performance",
+      "value": 0
+    },
+    {
+      "source": "applications - education and training",
+      "target": "evaluation - technical - success rate",
+      "value": 0
+    },
+    {
+      "source": "applications - education and training",
+      "target": "evaluation - user evaluation - nasa tls",
+      "value": 0
+    },
+    {
+      "source": "applications - education and training",
+      "target": "evaluation - user evaluation - interviews",
+      "value": 0
+    },
+    {
+      "source": "applications - education and training",
+      "target": "evaluation - user evaluation - questionnaires",
+      "value": 6
+    },
+    {
+      "source": "applications - education and training",
+      "target": "evaluation - user evaluation - lab study with users",
+      "value": 2
+    },
+    {
+      "source": "applications - education and training",
+      "target": "evaluation - user evaluation - qualitative study",
+      "value": 1
+    },
+    {
+      "source": "applications - education and training",
+      "target": "evaluation - user evaluation - quantitative study",
+      "value": 2
+    },
+    {
+      "source": "applications - education and training",
+      "target": "evaluation - user evaluation - lab study with experts",
+      "value": 0
+    },
+    {
+      "source": "applications - education and training",
+      "target": "evaluation - user evaluation - observational",
+      "value": 0
+    },
+    {
+      "source": "applications - education and training",
+      "target": "evaluation - user evaluation - user feedback",
+      "value": 0
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - demonstration - workshop",
+      "value": 0
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - demonstration - theoretical framework",
+      "value": 0
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - demonstration - example applications",
+      "value": 2
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - demonstration - focus groups",
+      "value": 0
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - demonstration - early demonstrations",
+      "value": 3
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - demonstration - case studies",
+      "value": 0
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - demonstration - conceptual",
+      "value": 0
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - technical - time",
+      "value": 2
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - technical - accuracy",
+      "value": 2
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - technical - system performance",
+      "value": 2
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - technical - success rate",
+      "value": 0
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - user evaluation - nasa tls",
+      "value": 1
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - user evaluation - interviews",
+      "value": 1
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - user evaluation - questionnaires",
+      "value": 2
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - user evaluation - lab study with users",
+      "value": 0
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - user evaluation - qualitative study",
+      "value": 2
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - user evaluation - quantitative study",
+      "value": 6
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - user evaluation - lab study with experts",
+      "value": 0
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - user evaluation - observational",
+      "value": 1
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - user evaluation - user feedback",
+      "value": 0
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - demonstration - workshop",
+      "value": 1
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - demonstration - theoretical framework",
+      "value": 0
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - demonstration - example applications",
+      "value": 4
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - demonstration - focus groups",
+      "value": 0
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - demonstration - early demonstrations",
+      "value": 1
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - demonstration - case studies",
+      "value": 0
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - demonstration - conceptual",
+      "value": 0
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - technical - time",
+      "value": 0
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - technical - accuracy",
+      "value": 0
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - technical - system performance",
+      "value": 0
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - technical - success rate",
+      "value": 0
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - user evaluation - nasa tls",
+      "value": 0
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - user evaluation - interviews",
+      "value": 0
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - user evaluation - questionnaires",
+      "value": 2
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - user evaluation - lab study with users",
+      "value": 0
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - user evaluation - qualitative study",
+      "value": 1
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - user evaluation - quantitative study",
+      "value": 0
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - user evaluation - lab study with experts",
+      "value": 1
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - user evaluation - observational",
+      "value": 0
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - user evaluation - user feedback",
+      "value": 0
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - demonstration - workshop",
+      "value": 0
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - demonstration - theoretical framework",
+      "value": 0
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - demonstration - example applications",
+      "value": 1
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - demonstration - focus groups",
+      "value": 0
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - demonstration - early demonstrations",
+      "value": 3
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - demonstration - case studies",
+      "value": 0
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - demonstration - conceptual",
+      "value": 0
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - technical - time",
+      "value": 0
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - technical - accuracy",
+      "value": 4
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - technical - system performance",
+      "value": 3
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - technical - success rate",
+      "value": 0
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - user evaluation - nasa tls",
+      "value": 1
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - user evaluation - interviews",
+      "value": 0
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - user evaluation - questionnaires",
+      "value": 0
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - user evaluation - lab study with users",
+      "value": 0
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - user evaluation - qualitative study",
+      "value": 1
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - user evaluation - quantitative study",
+      "value": 3
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - user evaluation - lab study with experts",
+      "value": 0
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - user evaluation - observational",
+      "value": 0
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - user evaluation - user feedback",
+      "value": 0
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - demonstration - workshop",
+      "value": 0
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - demonstration - theoretical framework",
+      "value": 0
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - demonstration - example applications",
+      "value": 1
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - demonstration - focus groups",
+      "value": 0
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - demonstration - early demonstrations",
+      "value": 2
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - demonstration - case studies",
+      "value": 1
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - demonstration - conceptual",
+      "value": 0
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - technical - time",
+      "value": 0
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - technical - accuracy",
+      "value": 0
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - technical - system performance",
+      "value": 0
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - technical - success rate",
+      "value": 0
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - user evaluation - nasa tls",
+      "value": 0
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - user evaluation - interviews",
+      "value": 0
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - user evaluation - questionnaires",
+      "value": 1
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - user evaluation - lab study with users",
+      "value": 0
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - user evaluation - qualitative study",
+      "value": 0
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - user evaluation - quantitative study",
+      "value": 0
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - user evaluation - lab study with experts",
+      "value": 0
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - user evaluation - observational",
+      "value": 0
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - user evaluation - user feedback",
+      "value": 0
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - demonstration - workshop",
+      "value": 0
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - demonstration - theoretical framework",
+      "value": 0
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - demonstration - example applications",
+      "value": 0
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - demonstration - focus groups",
+      "value": 0
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - demonstration - early demonstrations",
+      "value": 0
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - demonstration - case studies",
+      "value": 0
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - demonstration - conceptual",
+      "value": 0
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - technical - time",
+      "value": 1
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - technical - accuracy",
+      "value": 2
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - technical - system performance",
+      "value": 0
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - technical - success rate",
+      "value": 1
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - user evaluation - nasa tls",
+      "value": 0
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - user evaluation - interviews",
+      "value": 1
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - user evaluation - questionnaires",
+      "value": 3
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - user evaluation - lab study with users",
+      "value": 0
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - user evaluation - qualitative study",
+      "value": 1
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - user evaluation - quantitative study",
+      "value": 0
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - user evaluation - lab study with experts",
+      "value": 0
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - user evaluation - observational",
+      "value": 1
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - user evaluation - user feedback",
+      "value": 0
+    },
+    {
+      "source": "applications - search and rescue",
+      "target": "evaluation - demonstration - workshop",
+      "value": 0
+    },
+    {
+      "source": "applications - search and rescue",
+      "target": "evaluation - demonstration - theoretical framework",
+      "value": 0
+    },
+    {
+      "source": "applications - search and rescue",
+      "target": "evaluation - demonstration - example applications",
+      "value": 2
+    },
+    {
+      "source": "applications - search and rescue",
+      "target": "evaluation - demonstration - focus groups",
+      "value": 0
+    },
+    {
+      "source": "applications - search and rescue",
+      "target": "evaluation - demonstration - early demonstrations",
+      "value": 4
+    },
+    {
+      "source": "applications - search and rescue",
+      "target": "evaluation - demonstration - case studies",
+      "value": 0
+    },
+    {
+      "source": "applications - search and rescue",
+      "target": "evaluation - demonstration - conceptual",
+      "value": 0
+    },
+    {
+      "source": "applications - search and rescue",
+      "target": "evaluation - technical - time",
+      "value": 3
+    },
+    {
+      "source": "applications - search and rescue",
+      "target": "evaluation - technical - accuracy",
+      "value": 3
+    },
+    {
+      "source": "applications - search and rescue",
+      "target": "evaluation - technical - system performance",
+      "value": 5
+    },
+    {
+      "source": "applications - search and rescue",
+      "target": "evaluation - technical - success rate",
+      "value": 0
+    },
+    {
+      "source": "applications - search and rescue",
+      "target": "evaluation - user evaluation - nasa tls",
+      "value": 1
+    },
+    {
+      "source": "applications - search and rescue",
+      "target": "evaluation - user evaluation - interviews",
+      "value": 1
+    },
+    {
+      "source": "applications - search and rescue",
+      "target": "evaluation - user evaluation - questionnaires",
+      "value": 3
+    },
+    {
+      "source": "applications - search and rescue",
+      "target": "evaluation - user evaluation - lab study with users",
+      "value": 0
+    },
+    {
+      "source": "applications - search and rescue",
+      "target": "evaluation - user evaluation - qualitative study",
+      "value": 2
+    },
+    {
+      "source": "applications - search and rescue",
+      "target": "evaluation - user evaluation - quantitative study",
+      "value": 2
+    },
+    {
+      "source": "applications - search and rescue",
+      "target": "evaluation - user evaluation - lab study with experts",
+      "value": 0
+    },
+    {
+      "source": "applications - search and rescue",
+      "target": "evaluation - user evaluation - observational",
+      "value": 0
+    },
+    {
+      "source": "applications - search and rescue",
+      "target": "evaluation - user evaluation - user feedback",
+      "value": 0
+    },
+    {
+      "source": "applications - workspace",
+      "target": "evaluation - demonstration - workshop",
+      "value": 0
+    },
+    {
+      "source": "applications - workspace",
+      "target": "evaluation - demonstration - theoretical framework",
+      "value": 0
+    },
+    {
+      "source": "applications - workspace",
+      "target": "evaluation - demonstration - example applications",
+      "value": 2
+    },
+    {
+      "source": "applications - workspace",
+      "target": "evaluation - demonstration - focus groups",
+      "value": 0
+    },
+    {
+      "source": "applications - workspace",
+      "target": "evaluation - demonstration - early demonstrations",
+      "value": 2
+    },
+    {
+      "source": "applications - workspace",
+      "target": "evaluation - demonstration - case studies",
+      "value": 0
+    },
+    {
+      "source": "applications - workspace",
+      "target": "evaluation - demonstration - conceptual",
+      "value": 0
+    },
+    {
+      "source": "applications - workspace",
+      "target": "evaluation - technical - time",
+      "value": 0
+    },
+    {
+      "source": "applications - workspace",
+      "target": "evaluation - technical - accuracy",
+      "value": 0
+    },
+    {
+      "source": "applications - workspace",
+      "target": "evaluation - technical - system performance",
+      "value": 2
+    },
+    {
+      "source": "applications - workspace",
+      "target": "evaluation - technical - success rate",
+      "value": 0
+    },
+    {
+      "source": "applications - workspace",
+      "target": "evaluation - user evaluation - nasa tls",
+      "value": 1
+    },
+    {
+      "source": "applications - workspace",
+      "target": "evaluation - user evaluation - interviews",
+      "value": 0
+    },
+    {
+      "source": "applications - workspace",
+      "target": "evaluation - user evaluation - questionnaires",
+      "value": 1
+    },
+    {
+      "source": "applications - workspace",
+      "target": "evaluation - user evaluation - lab study with users",
+      "value": 0
+    },
+    {
+      "source": "applications - workspace",
+      "target": "evaluation - user evaluation - qualitative study",
+      "value": 1
+    },
+    {
+      "source": "applications - workspace",
+      "target": "evaluation - user evaluation - quantitative study",
+      "value": 2
+    },
+    {
+      "source": "applications - workspace",
+      "target": "evaluation - user evaluation - lab study with experts",
+      "value": 0
+    },
+    {
+      "source": "applications - workspace",
+      "target": "evaluation - user evaluation - observational",
+      "value": 0
+    },
+    {
+      "source": "applications - workspace",
+      "target": "evaluation - user evaluation - user feedback",
+      "value": 0
+    },
+    {
+      "source": "applications - data physicalization",
+      "target": "evaluation - demonstration - workshop",
+      "value": 2
+    },
+    {
+      "source": "applications - data physicalization",
+      "target": "evaluation - demonstration - theoretical framework",
+      "value": 1
+    },
+    {
+      "source": "applications - data physicalization",
+      "target": "evaluation - demonstration - example applications",
+      "value": 4
+    },
+    {
+      "source": "applications - data physicalization",
+      "target": "evaluation - demonstration - focus groups",
+      "value": 0
+    },
+    {
+      "source": "applications - data physicalization",
+      "target": "evaluation - demonstration - early demonstrations",
+      "value": 1
+    },
+    {
+      "source": "applications - data physicalization",
+      "target": "evaluation - demonstration - case studies",
+      "value": 0
+    },
+    {
+      "source": "applications - data physicalization",
+      "target": "evaluation - demonstration - conceptual",
+      "value": 0
+    },
+    {
+      "source": "applications - data physicalization",
+      "target": "evaluation - technical - time",
+      "value": 0
+    },
+    {
+      "source": "applications - data physicalization",
+      "target": "evaluation - technical - accuracy",
+      "value": 0
+    },
+    {
+      "source": "applications - data physicalization",
+      "target": "evaluation - technical - system performance",
+      "value": 0
+    },
+    {
+      "source": "applications - data physicalization",
+      "target": "evaluation - technical - success rate",
+      "value": 0
+    },
+    {
+      "source": "applications - data physicalization",
+      "target": "evaluation - user evaluation - nasa tls",
+      "value": 0
+    },
+    {
+      "source": "applications - data physicalization",
+      "target": "evaluation - user evaluation - interviews",
+      "value": 0
+    },
+    {
+      "source": "applications - data physicalization",
+      "target": "evaluation - user evaluation - questionnaires",
+      "value": 0
+    },
+    {
+      "source": "applications - data physicalization",
+      "target": "evaluation - user evaluation - lab study with users",
+      "value": 0
+    },
+    {
+      "source": "applications - data physicalization",
+      "target": "evaluation - user evaluation - qualitative study",
+      "value": 1
+    },
+    {
+      "source": "applications - data physicalization",
+      "target": "evaluation - user evaluation - quantitative study",
+      "value": 0
+    },
+    {
+      "source": "applications - data physicalization",
+      "target": "evaluation - user evaluation - lab study with experts",
+      "value": 1
+    },
+    {
+      "source": "applications - data physicalization",
+      "target": "evaluation - user evaluation - observational",
+      "value": 1
+    },
+    {
+      "source": "applications - data physicalization",
+      "target": "evaluation - user evaluation - user feedback",
+      "value": 0
+    }
+  ]
+}

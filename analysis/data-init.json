@@ -1,0 +1,3294 @@
+{
+  "nodes": [
+    {
+      "id": "3-1-1",
+      "name": "approach - augment robots - on-body (head/eye)"
+    },
+    {
+      "id": "3-1-2",
+      "name": "approach - augment robots - on-body (handheld)"
+    },
+    {
+      "id": "3-1-3",
+      "name": "approach - augment robots - on-environment"
+    },
+    {
+      "id": "3-1-4",
+      "name": "approach - augment robots - on-robot"
+    },
+    {
+      "id": "3-2-1",
+      "name": "approach - augment surroundings - on-body (head/eye)"
+    },
+    {
+      "id": "3-2-2",
+      "name": "approach - augment surroundings - on-body (handheld)"
+    },
+    {
+      "id": "3-2-3",
+      "name": "approach - augment surroundings - on-environment"
+    },
+    {
+      "id": "3-2-4",
+      "name": "approach - augment surroundings - on-robot"
+    },
+    {
+      "id": "4-1-1",
+      "name": "characteristics - form factors - robotic arms"
+    },
+    {
+      "id": "4-1-2",
+      "name": "characteristics - form factors - drones"
+    },
+    {
+      "id": "4-1-3",
+      "name": "characteristics - form factors - mobile robots"
+    },
+    {
+      "id": "4-1-4",
+      "name": "characteristics - form factors - humanoid robots"
+    },
+    {
+      "id": "4-1-5",
+      "name": "characteristics - form factors - vehicles"
+    },
+    {
+      "id": "4-1-6",
+      "name": "characteristics - form factors - actuated objects"
+    },
+    {
+      "id": "4-1-7",
+      "name": "characteristics - form factors - combinations"
+    },
+    {
+      "id": "4-1-8",
+      "name": "characteristics - form factors - other types"
+    },
+    {
+      "id": "4-2-1",
+      "name": "characteristics - relationship - 1 : 1"
+    },
+    {
+      "id": "4-2-2",
+      "name": "characteristics - relationship - 1 : m"
+    },
+    {
+      "id": "4-2-3",
+      "name": "characteristics - relationship - n : 1"
+    },
+    {
+      "id": "4-2-4",
+      "name": "characteristics - relationship - n : m"
+    },
+    {
+      "id": "4-3-1",
+      "name": "characteristics - scale - handheld-scale"
+    },
+    {
+      "id": "4-3-2",
+      "name": "characteristics - scale - tabletop-scale"
+    },
+    {
+      "id": "4-3-3",
+      "name": "characteristics - scale - body-scale"
+    },
+    {
+      "id": "4-3-4",
+      "name": "characteristics - scale - building/city-scale"
+    },
+    {
+      "id": "4-4-1",
+      "name": "characteristics - proximity - co-located"
+    },
+    {
+      "id": "4-4-2",
+      "name": "characteristics - proximity - co-located with distance"
+    },
+    {
+      "id": "4-4-3",
+      "name": "characteristics - proximity - semi-remote"
+    },
+    {
+      "id": "4-4-4",
+      "name": "characteristics - proximity - remote"
+    },
+    {
+      "id": "5-1",
+      "name": "purposes - facilitate programming"
+    },
+    {
+      "id": "5-2",
+      "name": "purposes - support real-time control"
+    },
+    {
+      "id": "5-3",
+      "name": "purposes - improve safety"
+    },
+    {
+      "id": "5-4",
+      "name": "purposes - communicate intent"
+    },
+    {
+      "id": "5-5",
+      "name": "purposes - increase expressiveness"
+    },
+    {
+      "id": "6-1",
+      "name": "information - internal information"
+    },
+    {
+      "id": "6-2",
+      "name": "information - external information"
+    },
+    {
+      "id": "6-3",
+      "name": "information - plan and activity"
+    },
+    {
+      "id": "6-4",
+      "name": "information - supplement content"
+    },
+    {
+      "id": "7-1-1",
+      "name": "design - uis and widgets - menus"
+    },
+    {
+      "id": "7-1-2",
+      "name": "design - uis and widgets - information planels"
+    },
+    {
+      "id": "7-1-3",
+      "name": "design - uis and widgets - labels and annotations"
+    },
+    {
+      "id": "7-1-4",
+      "name": "design - uis and widgets - controls and handles"
+    },
+    {
+      "id": "7-1-5",
+      "name": "design - uis and widgets - monitors and displays"
+    },
+    {
+      "id": "7-2-1",
+      "name": "design - spatial references and visualizations - points and locations"
+    },
+    {
+      "id": "7-2-2",
+      "name": "design - spatial references and visualizations - paths and trajectories"
+    },
+    {
+      "id": "7-2-3",
+      "name": "design - spatial references and visualizations - areas and boundaries"
+    },
+    {
+      "id": "7-2-4",
+      "name": "design - spatial references and visualizations - other visualizations"
+    },
+    {
+      "id": "7-3-1",
+      "name": "design - embedded visual effects - anthropomorphic"
+    },
+    {
+      "id": "7-3-2",
+      "name": "design - embedded visual effects - visual replica"
+    },
+    {
+      "id": "7-3-3",
+      "name": "design - embedded visual effects - texture mapping"
+    },
+    {
+      "id": "8-1-1",
+      "name": "interactions - interactivity - only output"
+    },
+    {
+      "id": "8-1-2",
+      "name": "interactions - interactivity - implicit"
+    },
+    {
+      "id": "8-1-3",
+      "name": "interactions - interactivity - indirect"
+    },
+    {
+      "id": "8-1-4",
+      "name": "interactions - interactivity - direct"
+    },
+    {
+      "id": "8-2-1",
+      "name": "interactions - interaction modalities - tangible"
+    },
+    {
+      "id": "8-2-2",
+      "name": "interactions - interaction modalities - touch"
+    },
+    {
+      "id": "8-2-3",
+      "name": "interactions - interaction modalities - controller"
+    },
+    {
+      "id": "8-2-4",
+      "name": "interactions - interaction modalities - gesture"
+    },
+    {
+      "id": "8-2-5",
+      "name": "interactions - interaction modalities - gaze"
+    },
+    {
+      "id": "8-2-6",
+      "name": "interactions - interaction modalities - voice"
+    },
+    {
+      "id": "8-2-7",
+      "name": "interactions - interaction modalities - proximity"
+    },
+    {
+      "id": "9-1",
+      "name": "applications - domestic and everyday use"
+    },
+    {
+      "id": "9-2",
+      "name": "applications - industry"
+    },
+    {
+      "id": "9-3",
+      "name": "applications - entertainment"
+    },
+    {
+      "id": "9-4",
+      "name": "applications - education and training"
+    },
+    {
+      "id": "9-5",
+      "name": "applications - social interaction"
+    },
+    {
+      "id": "9-6",
+      "name": "applications - design and creative tasks"
+    },
+    {
+      "id": "9-7",
+      "name": "applications - medical and health"
+    },
+    {
+      "id": "9-8",
+      "name": "applications - remote collaboration"
+    },
+    {
+      "id": "9-9",
+      "name": "applications - mobility and transportation"
+    },
+    {
+      "id": "9-10",
+      "name": "applications - search and rescue"
+    },
+    {
+      "id": "9-11",
+      "name": "applications - workspace"
+    },
+    {
+      "id": "9-12",
+      "name": "applications - data physicalization"
+    },
+    {
+      "id": "10-1-1",
+      "name": "evaluation - demonstration - workshop"
+    },
+    {
+      "id": "10-1-2",
+      "name": "evaluation - demonstration - theoretical framework"
+    },
+    {
+      "id": "10-1-3",
+      "name": "evaluation - demonstration - example applications"
+    },
+    {
+      "id": "10-1-4",
+      "name": "evaluation - demonstration - focus groups"
+    },
+    {
+      "id": "10-1-5",
+      "name": "evaluation - demonstration - early demonstrations"
+    },
+    {
+      "id": "10-1-6",
+      "name": "evaluation - demonstration - case studies"
+    },
+    {
+      "id": "10-1-7",
+      "name": "evaluation - demonstration - conceptual"
+    },
+    {
+      "id": "10-2-1",
+      "name": "evaluation - technical - time"
+    },
+    {
+      "id": "10-2-2",
+      "name": "evaluation - technical - accuracy"
+    },
+    {
+      "id": "10-2-3",
+      "name": "evaluation - technical - system performance"
+    },
+    {
+      "id": "10-2-4",
+      "name": "evaluation - technical - success rate"
+    },
+    {
+      "id": "10-3-1",
+      "name": "evaluation - user evaluation - nasa tls"
+    },
+    {
+      "id": "10-3-2",
+      "name": "evaluation - user evaluation - interviews"
+    },
+    {
+      "id": "10-3-3",
+      "name": "evaluation - user evaluation - questionnaires"
+    },
+    {
+      "id": "10-3-4",
+      "name": "evaluation - user evaluation - lab study with users"
+    },
+    {
+      "id": "10-3-5",
+      "name": "evaluation - user evaluation - qualitative study"
+    },
+    {
+      "id": "10-3-6",
+      "name": "evaluation - user evaluation - quantitative study"
+    },
+    {
+      "id": "10-3-7",
+      "name": "evaluation - user evaluation - lab study with experts"
+    },
+    {
+      "id": "10-3-8",
+      "name": "evaluation - user evaluation - observational"
+    },
+    {
+      "id": "10-3-9",
+      "name": "evaluation - user evaluation - user feedback"
+    }
+  ],
+  "links": [
+    {
+      "source": "3-1-1",
+      "target": "4-1-1",
+      "value": 0
+    },
+    {
+      "source": "3-1-1",
+      "target": "4-1-2",
+      "value": 0
+    },
+    {
+      "source": "3-1-1",
+      "target": "4-1-3",
+      "value": 0
+    },
+    {
+      "source": "3-1-1",
+      "target": "4-1-4",
+      "value": 0
+    },
+    {
+      "source": "3-1-1",
+      "target": "4-1-5",
+      "value": 0
+    },
+    {
+      "source": "3-1-1",
+      "target": "4-1-6",
+      "value": 0
+    },
+    {
+      "source": "3-1-1",
+      "target": "4-1-7",
+      "value": 0
+    },
+    {
+      "source": "3-1-1",
+      "target": "4-1-8",
+      "value": 0
+    },
+    {
+      "source": "3-1-2",
+      "target": "4-1-1",
+      "value": 0
+    },
+    {
+      "source": "3-1-2",
+      "target": "4-1-2",
+      "value": 0
+    },
+    {
+      "source": "3-1-2",
+      "target": "4-1-3",
+      "value": 0
+    },
+    {
+      "source": "3-1-2",
+      "target": "4-1-4",
+      "value": 0
+    },
+    {
+      "source": "3-1-2",
+      "target": "4-1-5",
+      "value": 0
+    },
+    {
+      "source": "3-1-2",
+      "target": "4-1-6",
+      "value": 0
+    },
+    {
+      "source": "3-1-2",
+      "target": "4-1-7",
+      "value": 0
+    },
+    {
+      "source": "3-1-2",
+      "target": "4-1-8",
+      "value": 0
+    },
+    {
+      "source": "3-1-3",
+      "target": "4-1-1",
+      "value": 0
+    },
+    {
+      "source": "3-1-3",
+      "target": "4-1-2",
+      "value": 0
+    },
+    {
+      "source": "3-1-3",
+      "target": "4-1-3",
+      "value": 0
+    },
+    {
+      "source": "3-1-3",
+      "target": "4-1-4",
+      "value": 0
+    },
+    {
+      "source": "3-1-3",
+      "target": "4-1-5",
+      "value": 0
+    },
+    {
+      "source": "3-1-3",
+      "target": "4-1-6",
+      "value": 0
+    },
+    {
+      "source": "3-1-3",
+      "target": "4-1-7",
+      "value": 0
+    },
+    {
+      "source": "3-1-3",
+      "target": "4-1-8",
+      "value": 0
+    },
+    {
+      "source": "3-1-4",
+      "target": "4-1-1",
+      "value": 0
+    },
+    {
+      "source": "3-1-4",
+      "target": "4-1-2",
+      "value": 0
+    },
+    {
+      "source": "3-1-4",
+      "target": "4-1-3",
+      "value": 0
+    },
+    {
+      "source": "3-1-4",
+      "target": "4-1-4",
+      "value": 0
+    },
+    {
+      "source": "3-1-4",
+      "target": "4-1-5",
+      "value": 0
+    },
+    {
+      "source": "3-1-4",
+      "target": "4-1-6",
+      "value": 0
+    },
+    {
+      "source": "3-1-4",
+      "target": "4-1-7",
+      "value": 0
+    },
+    {
+      "source": "3-1-4",
+      "target": "4-1-8",
+      "value": 0
+    },
+    {
+      "source": "3-2-1",
+      "target": "4-1-1",
+      "value": 0
+    },
+    {
+      "source": "3-2-1",
+      "target": "4-1-2",
+      "value": 0
+    },
+    {
+      "source": "3-2-1",
+      "target": "4-1-3",
+      "value": 0
+    },
+    {
+      "source": "3-2-1",
+      "target": "4-1-4",
+      "value": 0
+    },
+    {
+      "source": "3-2-1",
+      "target": "4-1-5",
+      "value": 0
+    },
+    {
+      "source": "3-2-1",
+      "target": "4-1-6",
+      "value": 0
+    },
+    {
+      "source": "3-2-1",
+      "target": "4-1-7",
+      "value": 0
+    },
+    {
+      "source": "3-2-1",
+      "target": "4-1-8",
+      "value": 0
+    },
+    {
+      "source": "3-2-2",
+      "target": "4-1-1",
+      "value": 0
+    },
+    {
+      "source": "3-2-2",
+      "target": "4-1-2",
+      "value": 0
+    },
+    {
+      "source": "3-2-2",
+      "target": "4-1-3",
+      "value": 0
+    },
+    {
+      "source": "3-2-2",
+      "target": "4-1-4",
+      "value": 0
+    },
+    {
+      "source": "3-2-2",
+      "target": "4-1-5",
+      "value": 0
+    },
+    {
+      "source": "3-2-2",
+      "target": "4-1-6",
+      "value": 0
+    },
+    {
+      "source": "3-2-2",
+      "target": "4-1-7",
+      "value": 0
+    },
+    {
+      "source": "3-2-2",
+      "target": "4-1-8",
+      "value": 0
+    },
+    {
+      "source": "3-2-3",
+      "target": "4-1-1",
+      "value": 0
+    },
+    {
+      "source": "3-2-3",
+      "target": "4-1-2",
+      "value": 0
+    },
+    {
+      "source": "3-2-3",
+      "target": "4-1-3",
+      "value": 0
+    },
+    {
+      "source": "3-2-3",
+      "target": "4-1-4",
+      "value": 0
+    },
+    {
+      "source": "3-2-3",
+      "target": "4-1-5",
+      "value": 0
+    },
+    {
+      "source": "3-2-3",
+      "target": "4-1-6",
+      "value": 0
+    },
+    {
+      "source": "3-2-3",
+      "target": "4-1-7",
+      "value": 0
+    },
+    {
+      "source": "3-2-3",
+      "target": "4-1-8",
+      "value": 0
+    },
+    {
+      "source": "3-2-4",
+      "target": "4-1-1",
+      "value": 0
+    },
+    {
+      "source": "3-2-4",
+      "target": "4-1-2",
+      "value": 0
+    },
+    {
+      "source": "3-2-4",
+      "target": "4-1-3",
+      "value": 0
+    },
+    {
+      "source": "3-2-4",
+      "target": "4-1-4",
+      "value": 0
+    },
+    {
+      "source": "3-2-4",
+      "target": "4-1-5",
+      "value": 0
+    },
+    {
+      "source": "3-2-4",
+      "target": "4-1-6",
+      "value": 0
+    },
+    {
+      "source": "3-2-4",
+      "target": "4-1-7",
+      "value": 0
+    },
+    {
+      "source": "3-2-4",
+      "target": "4-1-8",
+      "value": 0
+    },
+    {
+      "source": "4-1-1",
+      "target": "4-2-1",
+      "value": 0
+    },
+    {
+      "source": "4-1-1",
+      "target": "4-2-2",
+      "value": 0
+    },
+    {
+      "source": "4-1-1",
+      "target": "4-2-3",
+      "value": 0
+    },
+    {
+      "source": "4-1-1",
+      "target": "4-2-4",
+      "value": 0
+    },
+    {
+      "source": "4-1-2",
+      "target": "4-2-1",
+      "value": 0
+    },
+    {
+      "source": "4-1-2",
+      "target": "4-2-2",
+      "value": 0
+    },
+    {
+      "source": "4-1-2",
+      "target": "4-2-3",
+      "value": 0
+    },
+    {
+      "source": "4-1-2",
+      "target": "4-2-4",
+      "value": 0
+    },
+    {
+      "source": "4-1-3",
+      "target": "4-2-1",
+      "value": 0
+    },
+    {
+      "source": "4-1-3",
+      "target": "4-2-2",
+      "value": 0
+    },
+    {
+      "source": "4-1-3",
+      "target": "4-2-3",
+      "value": 0
+    },
+    {
+      "source": "4-1-3",
+      "target": "4-2-4",
+      "value": 0
+    },
+    {
+      "source": "4-1-4",
+      "target": "4-2-1",
+      "value": 0
+    },
+    {
+      "source": "4-1-4",
+      "target": "4-2-2",
+      "value": 0
+    },
+    {
+      "source": "4-1-4",
+      "target": "4-2-3",
+      "value": 0
+    },
+    {
+      "source": "4-1-4",
+      "target": "4-2-4",
+      "value": 0
+    },
+    {
+      "source": "4-1-5",
+      "target": "4-2-1",
+      "value": 0
+    },
+    {
+      "source": "4-1-5",
+      "target": "4-2-2",
+      "value": 0
+    },
+    {
+      "source": "4-1-5",
+      "target": "4-2-3",
+      "value": 0
+    },
+    {
+      "source": "4-1-5",
+      "target": "4-2-4",
+      "value": 0
+    },
+    {
+      "source": "4-1-6",
+      "target": "4-2-1",
+      "value": 0
+    },
+    {
+      "source": "4-1-6",
+      "target": "4-2-2",
+      "value": 0
+    },
+    {
+      "source": "4-1-6",
+      "target": "4-2-3",
+      "value": 0
+    },
+    {
+      "source": "4-1-6",
+      "target": "4-2-4",
+      "value": 0
+    },
+    {
+      "source": "4-1-7",
+      "target": "4-2-1",
+      "value": 0
+    },
+    {
+      "source": "4-1-7",
+      "target": "4-2-2",
+      "value": 0
+    },
+    {
+      "source": "4-1-7",
+      "target": "4-2-3",
+      "value": 0
+    },
+    {
+      "source": "4-1-7",
+      "target": "4-2-4",
+      "value": 0
+    },
+    {
+      "source": "4-1-8",
+      "target": "4-2-1",
+      "value": 0
+    },
+    {
+      "source": "4-1-8",
+      "target": "4-2-2",
+      "value": 0
+    },
+    {
+      "source": "4-1-8",
+      "target": "4-2-3",
+      "value": 0
+    },
+    {
+      "source": "4-1-8",
+      "target": "4-2-4",
+      "value": 0
+    },
+    {
+      "source": "4-2-1",
+      "target": "4-3-1",
+      "value": 0
+    },
+    {
+      "source": "4-2-1",
+      "target": "4-3-2",
+      "value": 0
+    },
+    {
+      "source": "4-2-1",
+      "target": "4-3-3",
+      "value": 0
+    },
+    {
+      "source": "4-2-1",
+      "target": "4-3-4",
+      "value": 0
+    },
+    {
+      "source": "4-2-2",
+      "target": "4-3-1",
+      "value": 0
+    },
+    {
+      "source": "4-2-2",
+      "target": "4-3-2",
+      "value": 0
+    },
+    {
+      "source": "4-2-2",
+      "target": "4-3-3",
+      "value": 0
+    },
+    {
+      "source": "4-2-2",
+      "target": "4-3-4",
+      "value": 0
+    },
+    {
+      "source": "4-2-3",
+      "target": "4-3-1",
+      "value": 0
+    },
+    {
+      "source": "4-2-3",
+      "target": "4-3-2",
+      "value": 0
+    },
+    {
+      "source": "4-2-3",
+      "target": "4-3-3",
+      "value": 0
+    },
+    {
+      "source": "4-2-3",
+      "target": "4-3-4",
+      "value": 0
+    },
+    {
+      "source": "4-2-4",
+      "target": "4-3-1",
+      "value": 0
+    },
+    {
+      "source": "4-2-4",
+      "target": "4-3-2",
+      "value": 0
+    },
+    {
+      "source": "4-2-4",
+      "target": "4-3-3",
+      "value": 0
+    },
+    {
+      "source": "4-2-4",
+      "target": "4-3-4",
+      "value": 0
+    },
+    {
+      "source": "4-3-1",
+      "target": "4-4-1",
+      "value": 0
+    },
+    {
+      "source": "4-3-1",
+      "target": "4-4-2",
+      "value": 0
+    },
+    {
+      "source": "4-3-1",
+      "target": "4-4-3",
+      "value": 0
+    },
+    {
+      "source": "4-3-1",
+      "target": "4-4-4",
+      "value": 0
+    },
+    {
+      "source": "4-3-2",
+      "target": "4-4-1",
+      "value": 0
+    },
+    {
+      "source": "4-3-2",
+      "target": "4-4-2",
+      "value": 0
+    },
+    {
+      "source": "4-3-2",
+      "target": "4-4-3",
+      "value": 0
+    },
+    {
+      "source": "4-3-2",
+      "target": "4-4-4",
+      "value": 0
+    },
+    {
+      "source": "4-3-3",
+      "target": "4-4-1",
+      "value": 0
+    },
+    {
+      "source": "4-3-3",
+      "target": "4-4-2",
+      "value": 0
+    },
+    {
+      "source": "4-3-3",
+      "target": "4-4-3",
+      "value": 0
+    },
+    {
+      "source": "4-3-3",
+      "target": "4-4-4",
+      "value": 0
+    },
+    {
+      "source": "4-3-4",
+      "target": "4-4-1",
+      "value": 0
+    },
+    {
+      "source": "4-3-4",
+      "target": "4-4-2",
+      "value": 0
+    },
+    {
+      "source": "4-3-4",
+      "target": "4-4-3",
+      "value": 0
+    },
+    {
+      "source": "4-3-4",
+      "target": "4-4-4",
+      "value": 0
+    },
+    {
+      "source": "4-4-1",
+      "target": "5-1",
+      "value": 0
+    },
+    {
+      "source": "4-4-1",
+      "target": "5-2",
+      "value": 0
+    },
+    {
+      "source": "4-4-1",
+      "target": "5-3",
+      "value": 0
+    },
+    {
+      "source": "4-4-1",
+      "target": "5-4",
+      "value": 0
+    },
+    {
+      "source": "4-4-1",
+      "target": "5-5",
+      "value": 0
+    },
+    {
+      "source": "4-4-2",
+      "target": "5-1",
+      "value": 0
+    },
+    {
+      "source": "4-4-2",
+      "target": "5-2",
+      "value": 0
+    },
+    {
+      "source": "4-4-2",
+      "target": "5-3",
+      "value": 0
+    },
+    {
+      "source": "4-4-2",
+      "target": "5-4",
+      "value": 0
+    },
+    {
+      "source": "4-4-2",
+      "target": "5-5",
+      "value": 0
+    },
+    {
+      "source": "4-4-3",
+      "target": "5-1",
+      "value": 0
+    },
+    {
+      "source": "4-4-3",
+      "target": "5-2",
+      "value": 0
+    },
+    {
+      "source": "4-4-3",
+      "target": "5-3",
+      "value": 0
+    },
+    {
+      "source": "4-4-3",
+      "target": "5-4",
+      "value": 0
+    },
+    {
+      "source": "4-4-3",
+      "target": "5-5",
+      "value": 0
+    },
+    {
+      "source": "4-4-4",
+      "target": "5-1",
+      "value": 0
+    },
+    {
+      "source": "4-4-4",
+      "target": "5-2",
+      "value": 0
+    },
+    {
+      "source": "4-4-4",
+      "target": "5-3",
+      "value": 0
+    },
+    {
+      "source": "4-4-4",
+      "target": "5-4",
+      "value": 0
+    },
+    {
+      "source": "4-4-4",
+      "target": "5-5",
+      "value": 0
+    },
+    {
+      "source": "5-1",
+      "target": "6-1",
+      "value": 0
+    },
+    {
+      "source": "5-1",
+      "target": "6-2",
+      "value": 0
+    },
+    {
+      "source": "5-1",
+      "target": "6-3",
+      "value": 0
+    },
+    {
+      "source": "5-1",
+      "target": "6-4",
+      "value": 0
+    },
+    {
+      "source": "5-2",
+      "target": "6-1",
+      "value": 0
+    },
+    {
+      "source": "5-2",
+      "target": "6-2",
+      "value": 0
+    },
+    {
+      "source": "5-2",
+      "target": "6-3",
+      "value": 0
+    },
+    {
+      "source": "5-2",
+      "target": "6-4",
+      "value": 0
+    },
+    {
+      "source": "5-3",
+      "target": "6-1",
+      "value": 0
+    },
+    {
+      "source": "5-3",
+      "target": "6-2",
+      "value": 0
+    },
+    {
+      "source": "5-3",
+      "target": "6-3",
+      "value": 0
+    },
+    {
+      "source": "5-3",
+      "target": "6-4",
+      "value": 0
+    },
+    {
+      "source": "5-4",
+      "target": "6-1",
+      "value": 0
+    },
+    {
+      "source": "5-4",
+      "target": "6-2",
+      "value": 0
+    },
+    {
+      "source": "5-4",
+      "target": "6-3",
+      "value": 0
+    },
+    {
+      "source": "5-4",
+      "target": "6-4",
+      "value": 0
+    },
+    {
+      "source": "5-5",
+      "target": "6-1",
+      "value": 0
+    },
+    {
+      "source": "5-5",
+      "target": "6-2",
+      "value": 0
+    },
+    {
+      "source": "5-5",
+      "target": "6-3",
+      "value": 0
+    },
+    {
+      "source": "5-5",
+      "target": "6-4",
+      "value": 0
+    },
+    {
+      "source": "6-1",
+      "target": "7-1-1",
+      "value": 0
+    },
+    {
+      "source": "6-1",
+      "target": "7-1-2",
+      "value": 0
+    },
+    {
+      "source": "6-1",
+      "target": "7-1-3",
+      "value": 0
+    },
+    {
+      "source": "6-1",
+      "target": "7-1-4",
+      "value": 0
+    },
+    {
+      "source": "6-1",
+      "target": "7-1-5",
+      "value": 0
+    },
+    {
+      "source": "6-2",
+      "target": "7-1-1",
+      "value": 0
+    },
+    {
+      "source": "6-2",
+      "target": "7-1-2",
+      "value": 0
+    },
+    {
+      "source": "6-2",
+      "target": "7-1-3",
+      "value": 0
+    },
+    {
+      "source": "6-2",
+      "target": "7-1-4",
+      "value": 0
+    },
+    {
+      "source": "6-2",
+      "target": "7-1-5",
+      "value": 0
+    },
+    {
+      "source": "6-3",
+      "target": "7-1-1",
+      "value": 0
+    },
+    {
+      "source": "6-3",
+      "target": "7-1-2",
+      "value": 0
+    },
+    {
+      "source": "6-3",
+      "target": "7-1-3",
+      "value": 0
+    },
+    {
+      "source": "6-3",
+      "target": "7-1-4",
+      "value": 0
+    },
+    {
+      "source": "6-3",
+      "target": "7-1-5",
+      "value": 0
+    },
+    {
+      "source": "6-4",
+      "target": "7-1-1",
+      "value": 0
+    },
+    {
+      "source": "6-4",
+      "target": "7-1-2",
+      "value": 0
+    },
+    {
+      "source": "6-4",
+      "target": "7-1-3",
+      "value": 0
+    },
+    {
+      "source": "6-4",
+      "target": "7-1-4",
+      "value": 0
+    },
+    {
+      "source": "6-4",
+      "target": "7-1-5",
+      "value": 0
+    },
+    {
+      "source": "7-1-1",
+      "target": "7-2-1",
+      "value": 0
+    },
+    {
+      "source": "7-1-1",
+      "target": "7-2-2",
+      "value": 0
+    },
+    {
+      "source": "7-1-1",
+      "target": "7-2-3",
+      "value": 0
+    },
+    {
+      "source": "7-1-1",
+      "target": "7-2-4",
+      "value": 0
+    },
+    {
+      "source": "7-1-2",
+      "target": "7-2-1",
+      "value": 0
+    },
+    {
+      "source": "7-1-2",
+      "target": "7-2-2",
+      "value": 0
+    },
+    {
+      "source": "7-1-2",
+      "target": "7-2-3",
+      "value": 0
+    },
+    {
+      "source": "7-1-2",
+      "target": "7-2-4",
+      "value": 0
+    },
+    {
+      "source": "7-1-3",
+      "target": "7-2-1",
+      "value": 0
+    },
+    {
+      "source": "7-1-3",
+      "target": "7-2-2",
+      "value": 0
+    },
+    {
+      "source": "7-1-3",
+      "target": "7-2-3",
+      "value": 0
+    },
+    {
+      "source": "7-1-3",
+      "target": "7-2-4",
+      "value": 0
+    },
+    {
+      "source": "7-1-4",
+      "target": "7-2-1",
+      "value": 0
+    },
+    {
+      "source": "7-1-4",
+      "target": "7-2-2",
+      "value": 0
+    },
+    {
+      "source": "7-1-4",
+      "target": "7-2-3",
+      "value": 0
+    },
+    {
+      "source": "7-1-4",
+      "target": "7-2-4",
+      "value": 0
+    },
+    {
+      "source": "7-1-5",
+      "target": "7-2-1",
+      "value": 0
+    },
+    {
+      "source": "7-1-5",
+      "target": "7-2-2",
+      "value": 0
+    },
+    {
+      "source": "7-1-5",
+      "target": "7-2-3",
+      "value": 0
+    },
+    {
+      "source": "7-1-5",
+      "target": "7-2-4",
+      "value": 0
+    },
+    {
+      "source": "7-2-1",
+      "target": "7-3-1",
+      "value": 0
+    },
+    {
+      "source": "7-2-1",
+      "target": "7-3-2",
+      "value": 0
+    },
+    {
+      "source": "7-2-1",
+      "target": "7-3-3",
+      "value": 0
+    },
+    {
+      "source": "7-2-2",
+      "target": "7-3-1",
+      "value": 0
+    },
+    {
+      "source": "7-2-2",
+      "target": "7-3-2",
+      "value": 0
+    },
+    {
+      "source": "7-2-2",
+      "target": "7-3-3",
+      "value": 0
+    },
+    {
+      "source": "7-2-3",
+      "target": "7-3-1",
+      "value": 0
+    },
+    {
+      "source": "7-2-3",
+      "target": "7-3-2",
+      "value": 0
+    },
+    {
+      "source": "7-2-3",
+      "target": "7-3-3",
+      "value": 0
+    },
+    {
+      "source": "7-2-4",
+      "target": "7-3-1",
+      "value": 0
+    },
+    {
+      "source": "7-2-4",
+      "target": "7-3-2",
+      "value": 0
+    },
+    {
+      "source": "7-2-4",
+      "target": "7-3-3",
+      "value": 0
+    },
+    {
+      "source": "7-3-1",
+      "target": "8-1-1",
+      "value": 0
+    },
+    {
+      "source": "7-3-1",
+      "target": "8-1-2",
+      "value": 0
+    },
+    {
+      "source": "7-3-1",
+      "target": "8-1-3",
+      "value": 0
+    },
+    {
+      "source": "7-3-1",
+      "target": "8-1-4",
+      "value": 0
+    },
+    {
+      "source": "7-3-2",
+      "target": "8-1-1",
+      "value": 0
+    },
+    {
+      "source": "7-3-2",
+      "target": "8-1-2",
+      "value": 0
+    },
+    {
+      "source": "7-3-2",
+      "target": "8-1-3",
+      "value": 0
+    },
+    {
+      "source": "7-3-2",
+      "target": "8-1-4",
+      "value": 0
+    },
+    {
+      "source": "7-3-3",
+      "target": "8-1-1",
+      "value": 0
+    },
+    {
+      "source": "7-3-3",
+      "target": "8-1-2",
+      "value": 0
+    },
+    {
+      "source": "7-3-3",
+      "target": "8-1-3",
+      "value": 0
+    },
+    {
+      "source": "7-3-3",
+      "target": "8-1-4",
+      "value": 0
+    },
+    {
+      "source": "8-1-1",
+      "target": "8-2-1",
+      "value": 0
+    },
+    {
+      "source": "8-1-1",
+      "target": "8-2-2",
+      "value": 0
+    },
+    {
+      "source": "8-1-1",
+      "target": "8-2-3",
+      "value": 0
+    },
+    {
+      "source": "8-1-1",
+      "target": "8-2-4",
+      "value": 0
+    },
+    {
+      "source": "8-1-1",
+      "target": "8-2-5",
+      "value": 0
+    },
+    {
+      "source": "8-1-1",
+      "target": "8-2-6",
+      "value": 0
+    },
+    {
+      "source": "8-1-1",
+      "target": "8-2-7",
+      "value": 0
+    },
+    {
+      "source": "8-1-2",
+      "target": "8-2-1",
+      "value": 0
+    },
+    {
+      "source": "8-1-2",
+      "target": "8-2-2",
+      "value": 0
+    },
+    {
+      "source": "8-1-2",
+      "target": "8-2-3",
+      "value": 0
+    },
+    {
+      "source": "8-1-2",
+      "target": "8-2-4",
+      "value": 0
+    },
+    {
+      "source": "8-1-2",
+      "target": "8-2-5",
+      "value": 0
+    },
+    {
+      "source": "8-1-2",
+      "target": "8-2-6",
+      "value": 0
+    },
+    {
+      "source": "8-1-2",
+      "target": "8-2-7",
+      "value": 0
+    },
+    {
+      "source": "8-1-3",
+      "target": "8-2-1",
+      "value": 0
+    },
+    {
+      "source": "8-1-3",
+      "target": "8-2-2",
+      "value": 0
+    },
+    {
+      "source": "8-1-3",
+      "target": "8-2-3",
+      "value": 0
+    },
+    {
+      "source": "8-1-3",
+      "target": "8-2-4",
+      "value": 0
+    },
+    {
+      "source": "8-1-3",
+      "target": "8-2-5",
+      "value": 0
+    },
+    {
+      "source": "8-1-3",
+      "target": "8-2-6",
+      "value": 0
+    },
+    {
+      "source": "8-1-3",
+      "target": "8-2-7",
+      "value": 0
+    },
+    {
+      "source": "8-1-4",
+      "target": "8-2-1",
+      "value": 0
+    },
+    {
+      "source": "8-1-4",
+      "target": "8-2-2",
+      "value": 0
+    },
+    {
+      "source": "8-1-4",
+      "target": "8-2-3",
+      "value": 0
+    },
+    {
+      "source": "8-1-4",
+      "target": "8-2-4",
+      "value": 0
+    },
+    {
+      "source": "8-1-4",
+      "target": "8-2-5",
+      "value": 0
+    },
+    {
+      "source": "8-1-4",
+      "target": "8-2-6",
+      "value": 0
+    },
+    {
+      "source": "8-1-4",
+      "target": "8-2-7",
+      "value": 0
+    },
+    {
+      "source": "8-2-1",
+      "target": "9-1",
+      "value": 0
+    },
+    {
+      "source": "8-2-1",
+      "target": "9-2",
+      "value": 0
+    },
+    {
+      "source": "8-2-1",
+      "target": "9-3",
+      "value": 0
+    },
+    {
+      "source": "8-2-1",
+      "target": "9-4",
+      "value": 0
+    },
+    {
+      "source": "8-2-1",
+      "target": "9-5",
+      "value": 0
+    },
+    {
+      "source": "8-2-1",
+      "target": "9-6",
+      "value": 0
+    },
+    {
+      "source": "8-2-1",
+      "target": "9-7",
+      "value": 0
+    },
+    {
+      "source": "8-2-1",
+      "target": "9-8",
+      "value": 0
+    },
+    {
+      "source": "8-2-1",
+      "target": "9-9",
+      "value": 0
+    },
+    {
+      "source": "8-2-1",
+      "target": "9-10",
+      "value": 0
+    },
+    {
+      "source": "8-2-1",
+      "target": "9-11",
+      "value": 0
+    },
+    {
+      "source": "8-2-1",
+      "target": "9-12",
+      "value": 0
+    },
+    {
+      "source": "8-2-2",
+      "target": "9-1",
+      "value": 0
+    },
+    {
+      "source": "8-2-2",
+      "target": "9-2",
+      "value": 0
+    },
+    {
+      "source": "8-2-2",
+      "target": "9-3",
+      "value": 0
+    },
+    {
+      "source": "8-2-2",
+      "target": "9-4",
+      "value": 0
+    },
+    {
+      "source": "8-2-2",
+      "target": "9-5",
+      "value": 0
+    },
+    {
+      "source": "8-2-2",
+      "target": "9-6",
+      "value": 0
+    },
+    {
+      "source": "8-2-2",
+      "target": "9-7",
+      "value": 0
+    },
+    {
+      "source": "8-2-2",
+      "target": "9-8",
+      "value": 0
+    },
+    {
+      "source": "8-2-2",
+      "target": "9-9",
+      "value": 0
+    },
+    {
+      "source": "8-2-2",
+      "target": "9-10",
+      "value": 0
+    },
+    {
+      "source": "8-2-2",
+      "target": "9-11",
+      "value": 0
+    },
+    {
+      "source": "8-2-2",
+      "target": "9-12",
+      "value": 0
+    },
+    {
+      "source": "8-2-3",
+      "target": "9-1",
+      "value": 0
+    },
+    {
+      "source": "8-2-3",
+      "target": "9-2",
+      "value": 0
+    },
+    {
+      "source": "8-2-3",
+      "target": "9-3",
+      "value": 0
+    },
+    {
+      "source": "8-2-3",
+      "target": "9-4",
+      "value": 0
+    },
+    {
+      "source": "8-2-3",
+      "target": "9-5",
+      "value": 0
+    },
+    {
+      "source": "8-2-3",
+      "target": "9-6",
+      "value": 0
+    },
+    {
+      "source": "8-2-3",
+      "target": "9-7",
+      "value": 0
+    },
+    {
+      "source": "8-2-3",
+      "target": "9-8",
+      "value": 0
+    },
+    {
+      "source": "8-2-3",
+      "target": "9-9",
+      "value": 0
+    },
+    {
+      "source": "8-2-3",
+      "target": "9-10",
+      "value": 0
+    },
+    {
+      "source": "8-2-3",
+      "target": "9-11",
+      "value": 0
+    },
+    {
+      "source": "8-2-3",
+      "target": "9-12",
+      "value": 0
+    },
+    {
+      "source": "8-2-4",
+      "target": "9-1",
+      "value": 0
+    },
+    {
+      "source": "8-2-4",
+      "target": "9-2",
+      "value": 0
+    },
+    {
+      "source": "8-2-4",
+      "target": "9-3",
+      "value": 0
+    },
+    {
+      "source": "8-2-4",
+      "target": "9-4",
+      "value": 0
+    },
+    {
+      "source": "8-2-4",
+      "target": "9-5",
+      "value": 0
+    },
+    {
+      "source": "8-2-4",
+      "target": "9-6",
+      "value": 0
+    },
+    {
+      "source": "8-2-4",
+      "target": "9-7",
+      "value": 0
+    },
+    {
+      "source": "8-2-4",
+      "target": "9-8",
+      "value": 0
+    },
+    {
+      "source": "8-2-4",
+      "target": "9-9",
+      "value": 0
+    },
+    {
+      "source": "8-2-4",
+      "target": "9-10",
+      "value": 0
+    },
+    {
+      "source": "8-2-4",
+      "target": "9-11",
+      "value": 0
+    },
+    {
+      "source": "8-2-4",
+      "target": "9-12",
+      "value": 0
+    },
+    {
+      "source": "8-2-5",
+      "target": "9-1",
+      "value": 0
+    },
+    {
+      "source": "8-2-5",
+      "target": "9-2",
+      "value": 0
+    },
+    {
+      "source": "8-2-5",
+      "target": "9-3",
+      "value": 0
+    },
+    {
+      "source": "8-2-5",
+      "target": "9-4",
+      "value": 0
+    },
+    {
+      "source": "8-2-5",
+      "target": "9-5",
+      "value": 0
+    },
+    {
+      "source": "8-2-5",
+      "target": "9-6",
+      "value": 0
+    },
+    {
+      "source": "8-2-5",
+      "target": "9-7",
+      "value": 0
+    },
+    {
+      "source": "8-2-5",
+      "target": "9-8",
+      "value": 0
+    },
+    {
+      "source": "8-2-5",
+      "target": "9-9",
+      "value": 0
+    },
+    {
+      "source": "8-2-5",
+      "target": "9-10",
+      "value": 0
+    },
+    {
+      "source": "8-2-5",
+      "target": "9-11",
+      "value": 0
+    },
+    {
+      "source": "8-2-5",
+      "target": "9-12",
+      "value": 0
+    },
+    {
+      "source": "8-2-6",
+      "target": "9-1",
+      "value": 0
+    },
+    {
+      "source": "8-2-6",
+      "target": "9-2",
+      "value": 0
+    },
+    {
+      "source": "8-2-6",
+      "target": "9-3",
+      "value": 0
+    },
+    {
+      "source": "8-2-6",
+      "target": "9-4",
+      "value": 0
+    },
+    {
+      "source": "8-2-6",
+      "target": "9-5",
+      "value": 0
+    },
+    {
+      "source": "8-2-6",
+      "target": "9-6",
+      "value": 0
+    },
+    {
+      "source": "8-2-6",
+      "target": "9-7",
+      "value": 0
+    },
+    {
+      "source": "8-2-6",
+      "target": "9-8",
+      "value": 0
+    },
+    {
+      "source": "8-2-6",
+      "target": "9-9",
+      "value": 0
+    },
+    {
+      "source": "8-2-6",
+      "target": "9-10",
+      "value": 0
+    },
+    {
+      "source": "8-2-6",
+      "target": "9-11",
+      "value": 0
+    },
+    {
+      "source": "8-2-6",
+      "target": "9-12",
+      "value": 0
+    },
+    {
+      "source": "8-2-7",
+      "target": "9-1",
+      "value": 0
+    },
+    {
+      "source": "8-2-7",
+      "target": "9-2",
+      "value": 0
+    },
+    {
+      "source": "8-2-7",
+      "target": "9-3",
+      "value": 0
+    },
+    {
+      "source": "8-2-7",
+      "target": "9-4",
+      "value": 0
+    },
+    {
+      "source": "8-2-7",
+      "target": "9-5",
+      "value": 0
+    },
+    {
+      "source": "8-2-7",
+      "target": "9-6",
+      "value": 0
+    },
+    {
+      "source": "8-2-7",
+      "target": "9-7",
+      "value": 0
+    },
+    {
+      "source": "8-2-7",
+      "target": "9-8",
+      "value": 0
+    },
+    {
+      "source": "8-2-7",
+      "target": "9-9",
+      "value": 0
+    },
+    {
+      "source": "8-2-7",
+      "target": "9-10",
+      "value": 0
+    },
+    {
+      "source": "8-2-7",
+      "target": "9-11",
+      "value": 0
+    },
+    {
+      "source": "8-2-7",
+      "target": "9-12",
+      "value": 0
+    },
+    {
+      "source": "9-1",
+      "target": "10-1-1",
+      "value": 0
+    },
+    {
+      "source": "9-1",
+      "target": "10-1-2",
+      "value": 0
+    },
+    {
+      "source": "9-1",
+      "target": "10-1-3",
+      "value": 0
+    },
+    {
+      "source": "9-1",
+      "target": "10-1-4",
+      "value": 0
+    },
+    {
+      "source": "9-1",
+      "target": "10-1-5",
+      "value": 0
+    },
+    {
+      "source": "9-1",
+      "target": "10-1-6",
+      "value": 0
+    },
+    {
+      "source": "9-1",
+      "target": "10-1-7",
+      "value": 0
+    },
+    {
+      "source": "9-1",
+      "target": "10-2-1",
+      "value": 0
+    },
+    {
+      "source": "9-1",
+      "target": "10-2-2",
+      "value": 0
+    },
+    {
+      "source": "9-1",
+      "target": "10-2-3",
+      "value": 0
+    },
+    {
+      "source": "9-1",
+      "target": "10-2-4",
+      "value": 0
+    },
+    {
+      "source": "9-1",
+      "target": "10-3-1",
+      "value": 0
+    },
+    {
+      "source": "9-1",
+      "target": "10-3-2",
+      "value": 0
+    },
+    {
+      "source": "9-1",
+      "target": "10-3-3",
+      "value": 0
+    },
+    {
+      "source": "9-1",
+      "target": "10-3-4",
+      "value": 0
+    },
+    {
+      "source": "9-1",
+      "target": "10-3-5",
+      "value": 0
+    },
+    {
+      "source": "9-1",
+      "target": "10-3-6",
+      "value": 0
+    },
+    {
+      "source": "9-1",
+      "target": "10-3-7",
+      "value": 0
+    },
+    {
+      "source": "9-1",
+      "target": "10-3-8",
+      "value": 0
+    },
+    {
+      "source": "9-1",
+      "target": "10-3-9",
+      "value": 0
+    },
+    {
+      "source": "9-2",
+      "target": "10-1-1",
+      "value": 0
+    },
+    {
+      "source": "9-2",
+      "target": "10-1-2",
+      "value": 0
+    },
+    {
+      "source": "9-2",
+      "target": "10-1-3",
+      "value": 0
+    },
+    {
+      "source": "9-2",
+      "target": "10-1-4",
+      "value": 0
+    },
+    {
+      "source": "9-2",
+      "target": "10-1-5",
+      "value": 0
+    },
+    {
+      "source": "9-2",
+      "target": "10-1-6",
+      "value": 0
+    },
+    {
+      "source": "9-2",
+      "target": "10-1-7",
+      "value": 0
+    },
+    {
+      "source": "9-2",
+      "target": "10-2-1",
+      "value": 0
+    },
+    {
+      "source": "9-2",
+      "target": "10-2-2",
+      "value": 0
+    },
+    {
+      "source": "9-2",
+      "target": "10-2-3",
+      "value": 0
+    },
+    {
+      "source": "9-2",
+      "target": "10-2-4",
+      "value": 0
+    },
+    {
+      "source": "9-2",
+      "target": "10-3-1",
+      "value": 0
+    },
+    {
+      "source": "9-2",
+      "target": "10-3-2",
+      "value": 0
+    },
+    {
+      "source": "9-2",
+      "target": "10-3-3",
+      "value": 0
+    },
+    {
+      "source": "9-2",
+      "target": "10-3-4",
+      "value": 0
+    },
+    {
+      "source": "9-2",
+      "target": "10-3-5",
+      "value": 0
+    },
+    {
+      "source": "9-2",
+      "target": "10-3-6",
+      "value": 0
+    },
+    {
+      "source": "9-2",
+      "target": "10-3-7",
+      "value": 0
+    },
+    {
+      "source": "9-2",
+      "target": "10-3-8",
+      "value": 0
+    },
+    {
+      "source": "9-2",
+      "target": "10-3-9",
+      "value": 0
+    },
+    {
+      "source": "9-3",
+      "target": "10-1-1",
+      "value": 0
+    },
+    {
+      "source": "9-3",
+      "target": "10-1-2",
+      "value": 0
+    },
+    {
+      "source": "9-3",
+      "target": "10-1-3",
+      "value": 0
+    },
+    {
+      "source": "9-3",
+      "target": "10-1-4",
+      "value": 0
+    },
+    {
+      "source": "9-3",
+      "target": "10-1-5",
+      "value": 0
+    },
+    {
+      "source": "9-3",
+      "target": "10-1-6",
+      "value": 0
+    },
+    {
+      "source": "9-3",
+      "target": "10-1-7",
+      "value": 0
+    },
+    {
+      "source": "9-3",
+      "target": "10-2-1",
+      "value": 0
+    },
+    {
+      "source": "9-3",
+      "target": "10-2-2",
+      "value": 0
+    },
+    {
+      "source": "9-3",
+      "target": "10-2-3",
+      "value": 0
+    },
+    {
+      "source": "9-3",
+      "target": "10-2-4",
+      "value": 0
+    },
+    {
+      "source": "9-3",
+      "target": "10-3-1",
+      "value": 0
+    },
+    {
+      "source": "9-3",
+      "target": "10-3-2",
+      "value": 0
+    },
+    {
+      "source": "9-3",
+      "target": "10-3-3",
+      "value": 0
+    },
+    {
+      "source": "9-3",
+      "target": "10-3-4",
+      "value": 0
+    },
+    {
+      "source": "9-3",
+      "target": "10-3-5",
+      "value": 0
+    },
+    {
+      "source": "9-3",
+      "target": "10-3-6",
+      "value": 0
+    },
+    {
+      "source": "9-3",
+      "target": "10-3-7",
+      "value": 0
+    },
+    {
+      "source": "9-3",
+      "target": "10-3-8",
+      "value": 0
+    },
+    {
+      "source": "9-3",
+      "target": "10-3-9",
+      "value": 0
+    },
+    {
+      "source": "9-4",
+      "target": "10-1-1",
+      "value": 0
+    },
+    {
+      "source": "9-4",
+      "target": "10-1-2",
+      "value": 0
+    },
+    {
+      "source": "9-4",
+      "target": "10-1-3",
+      "value": 0
+    },
+    {
+      "source": "9-4",
+      "target": "10-1-4",
+      "value": 0
+    },
+    {
+      "source": "9-4",
+      "target": "10-1-5",
+      "value": 0
+    },
+    {
+      "source": "9-4",
+      "target": "10-1-6",
+      "value": 0
+    },
+    {
+      "source": "9-4",
+      "target": "10-1-7",
+      "value": 0
+    },
+    {
+      "source": "9-4",
+      "target": "10-2-1",
+      "value": 0
+    },
+    {
+      "source": "9-4",
+      "target": "10-2-2",
+      "value": 0
+    },
+    {
+      "source": "9-4",
+      "target": "10-2-3",
+      "value": 0
+    },
+    {
+      "source": "9-4",
+      "target": "10-2-4",
+      "value": 0
+    },
+    {
+      "source": "9-4",
+      "target": "10-3-1",
+      "value": 0
+    },
+    {
+      "source": "9-4",
+      "target": "10-3-2",
+      "value": 0
+    },
+    {
+      "source": "9-4",
+      "target": "10-3-3",
+      "value": 0
+    },
+    {
+      "source": "9-4",
+      "target": "10-3-4",
+      "value": 0
+    },
+    {
+      "source": "9-4",
+      "target": "10-3-5",
+      "value": 0
+    },
+    {
+      "source": "9-4",
+      "target": "10-3-6",
+      "value": 0
+    },
+    {
+      "source": "9-4",
+      "target": "10-3-7",
+      "value": 0
+    },
+    {
+      "source": "9-4",
+      "target": "10-3-8",
+      "value": 0
+    },
+    {
+      "source": "9-4",
+      "target": "10-3-9",
+      "value": 0
+    },
+    {
+      "source": "9-5",
+      "target": "10-1-1",
+      "value": 0
+    },
+    {
+      "source": "9-5",
+      "target": "10-1-2",
+      "value": 0
+    },
+    {
+      "source": "9-5",
+      "target": "10-1-3",
+      "value": 0
+    },
+    {
+      "source": "9-5",
+      "target": "10-1-4",
+      "value": 0
+    },
+    {
+      "source": "9-5",
+      "target": "10-1-5",
+      "value": 0
+    },
+    {
+      "source": "9-5",
+      "target": "10-1-6",
+      "value": 0
+    },
+    {
+      "source": "9-5",
+      "target": "10-1-7",
+      "value": 0
+    },
+    {
+      "source": "9-5",
+      "target": "10-2-1",
+      "value": 0
+    },
+    {
+      "source": "9-5",
+      "target": "10-2-2",
+      "value": 0
+    },
+    {
+      "source": "9-5",
+      "target": "10-2-3",
+      "value": 0
+    },
+    {
+      "source": "9-5",
+      "target": "10-2-4",
+      "value": 0
+    },
+    {
+      "source": "9-5",
+      "target": "10-3-1",
+      "value": 0
+    },
+    {
+      "source": "9-5",
+      "target": "10-3-2",
+      "value": 0
+    },
+    {
+      "source": "9-5",
+      "target": "10-3-3",
+      "value": 0
+    },
+    {
+      "source": "9-5",
+      "target": "10-3-4",
+      "value": 0
+    },
+    {
+      "source": "9-5",
+      "target": "10-3-5",
+      "value": 0
+    },
+    {
+      "source": "9-5",
+      "target": "10-3-6",
+      "value": 0
+    },
+    {
+      "source": "9-5",
+      "target": "10-3-7",
+      "value": 0
+    },
+    {
+      "source": "9-5",
+      "target": "10-3-8",
+      "value": 0
+    },
+    {
+      "source": "9-5",
+      "target": "10-3-9",
+      "value": 0
+    },
+    {
+      "source": "9-6",
+      "target": "10-1-1",
+      "value": 0
+    },
+    {
+      "source": "9-6",
+      "target": "10-1-2",
+      "value": 0
+    },
+    {
+      "source": "9-6",
+      "target": "10-1-3",
+      "value": 0
+    },
+    {
+      "source": "9-6",
+      "target": "10-1-4",
+      "value": 0
+    },
+    {
+      "source": "9-6",
+      "target": "10-1-5",
+      "value": 0
+    },
+    {
+      "source": "9-6",
+      "target": "10-1-6",
+      "value": 0
+    },
+    {
+      "source": "9-6",
+      "target": "10-1-7",
+      "value": 0
+    },
+    {
+      "source": "9-6",
+      "target": "10-2-1",
+      "value": 0
+    },
+    {
+      "source": "9-6",
+      "target": "10-2-2",
+      "value": 0
+    },
+    {
+      "source": "9-6",
+      "target": "10-2-3",
+      "value": 0
+    },
+    {
+      "source": "9-6",
+      "target": "10-2-4",
+      "value": 0
+    },
+    {
+      "source": "9-6",
+      "target": "10-3-1",
+      "value": 0
+    },
+    {
+      "source": "9-6",
+      "target": "10-3-2",
+      "value": 0
+    },
+    {
+      "source": "9-6",
+      "target": "10-3-3",
+      "value": 0
+    },
+    {
+      "source": "9-6",
+      "target": "10-3-4",
+      "value": 0
+    },
+    {
+      "source": "9-6",
+      "target": "10-3-5",
+      "value": 0
+    },
+    {
+      "source": "9-6",
+      "target": "10-3-6",
+      "value": 0
+    },
+    {
+      "source": "9-6",
+      "target": "10-3-7",
+      "value": 0
+    },
+    {
+      "source": "9-6",
+      "target": "10-3-8",
+      "value": 0
+    },
+    {
+      "source": "9-6",
+      "target": "10-3-9",
+      "value": 0
+    },
+    {
+      "source": "9-7",
+      "target": "10-1-1",
+      "value": 0
+    },
+    {
+      "source": "9-7",
+      "target": "10-1-2",
+      "value": 0
+    },
+    {
+      "source": "9-7",
+      "target": "10-1-3",
+      "value": 0
+    },
+    {
+      "source": "9-7",
+      "target": "10-1-4",
+      "value": 0
+    },
+    {
+      "source": "9-7",
+      "target": "10-1-5",
+      "value": 0
+    },
+    {
+      "source": "9-7",
+      "target": "10-1-6",
+      "value": 0
+    },
+    {
+      "source": "9-7",
+      "target": "10-1-7",
+      "value": 0
+    },
+    {
+      "source": "9-7",
+      "target": "10-2-1",
+      "value": 0
+    },
+    {
+      "source": "9-7",
+      "target": "10-2-2",
+      "value": 0
+    },
+    {
+      "source": "9-7",
+      "target": "10-2-3",
+      "value": 0
+    },
+    {
+      "source": "9-7",
+      "target": "10-2-4",
+      "value": 0
+    },
+    {
+      "source": "9-7",
+      "target": "10-3-1",
+      "value": 0
+    },
+    {
+      "source": "9-7",
+      "target": "10-3-2",
+      "value": 0
+    },
+    {
+      "source": "9-7",
+      "target": "10-3-3",
+      "value": 0
+    },
+    {
+      "source": "9-7",
+      "target": "10-3-4",
+      "value": 0
+    },
+    {
+      "source": "9-7",
+      "target": "10-3-5",
+      "value": 0
+    },
+    {
+      "source": "9-7",
+      "target": "10-3-6",
+      "value": 0
+    },
+    {
+      "source": "9-7",
+      "target": "10-3-7",
+      "value": 0
+    },
+    {
+      "source": "9-7",
+      "target": "10-3-8",
+      "value": 0
+    },
+    {
+      "source": "9-7",
+      "target": "10-3-9",
+      "value": 0
+    },
+    {
+      "source": "9-8",
+      "target": "10-1-1",
+      "value": 0
+    },
+    {
+      "source": "9-8",
+      "target": "10-1-2",
+      "value": 0
+    },
+    {
+      "source": "9-8",
+      "target": "10-1-3",
+      "value": 0
+    },
+    {
+      "source": "9-8",
+      "target": "10-1-4",
+      "value": 0
+    },
+    {
+      "source": "9-8",
+      "target": "10-1-5",
+      "value": 0
+    },
+    {
+      "source": "9-8",
+      "target": "10-1-6",
+      "value": 0
+    },
+    {
+      "source": "9-8",
+      "target": "10-1-7",
+      "value": 0
+    },
+    {
+      "source": "9-8",
+      "target": "10-2-1",
+      "value": 0
+    },
+    {
+      "source": "9-8",
+      "target": "10-2-2",
+      "value": 0
+    },
+    {
+      "source": "9-8",
+      "target": "10-2-3",
+      "value": 0
+    },
+    {
+      "source": "9-8",
+      "target": "10-2-4",
+      "value": 0
+    },
+    {
+      "source": "9-8",
+      "target": "10-3-1",
+      "value": 0
+    },
+    {
+      "source": "9-8",
+      "target": "10-3-2",
+      "value": 0
+    },
+    {
+      "source": "9-8",
+      "target": "10-3-3",
+      "value": 0
+    },
+    {
+      "source": "9-8",
+      "target": "10-3-4",
+      "value": 0
+    },
+    {
+      "source": "9-8",
+      "target": "10-3-5",
+      "value": 0
+    },
+    {
+      "source": "9-8",
+      "target": "10-3-6",
+      "value": 0
+    },
+    {
+      "source": "9-8",
+      "target": "10-3-7",
+      "value": 0
+    },
+    {
+      "source": "9-8",
+      "target": "10-3-8",
+      "value": 0
+    },
+    {
+      "source": "9-8",
+      "target": "10-3-9",
+      "value": 0
+    },
+    {
+      "source": "9-9",
+      "target": "10-1-1",
+      "value": 0
+    },
+    {
+      "source": "9-9",
+      "target": "10-1-2",
+      "value": 0
+    },
+    {
+      "source": "9-9",
+      "target": "10-1-3",
+      "value": 0
+    },
+    {
+      "source": "9-9",
+      "target": "10-1-4",
+      "value": 0
+    },
+    {
+      "source": "9-9",
+      "target": "10-1-5",
+      "value": 0
+    },
+    {
+      "source": "9-9",
+      "target": "10-1-6",
+      "value": 0
+    },
+    {
+      "source": "9-9",
+      "target": "10-1-7",
+      "value": 0
+    },
+    {
+      "source": "9-9",
+      "target": "10-2-1",
+      "value": 0
+    },
+    {
+      "source": "9-9",
+      "target": "10-2-2",
+      "value": 0
+    },
+    {
+      "source": "9-9",
+      "target": "10-2-3",
+      "value": 0
+    },
+    {
+      "source": "9-9",
+      "target": "10-2-4",
+      "value": 0
+    },
+    {
+      "source": "9-9",
+      "target": "10-3-1",
+      "value": 0
+    },
+    {
+      "source": "9-9",
+      "target": "10-3-2",
+      "value": 0
+    },
+    {
+      "source": "9-9",
+      "target": "10-3-3",
+      "value": 0
+    },
+    {
+      "source": "9-9",
+      "target": "10-3-4",
+      "value": 0
+    },
+    {
+      "source": "9-9",
+      "target": "10-3-5",
+      "value": 0
+    },
+    {
+      "source": "9-9",
+      "target": "10-3-6",
+      "value": 0
+    },
+    {
+      "source": "9-9",
+      "target": "10-3-7",
+      "value": 0
+    },
+    {
+      "source": "9-9",
+      "target": "10-3-8",
+      "value": 0
+    },
+    {
+      "source": "9-9",
+      "target": "10-3-9",
+      "value": 0
+    },
+    {
+      "source": "9-10",
+      "target": "10-1-1",
+      "value": 0
+    },
+    {
+      "source": "9-10",
+      "target": "10-1-2",
+      "value": 0
+    },
+    {
+      "source": "9-10",
+      "target": "10-1-3",
+      "value": 0
+    },
+    {
+      "source": "9-10",
+      "target": "10-1-4",
+      "value": 0
+    },
+    {
+      "source": "9-10",
+      "target": "10-1-5",
+      "value": 0
+    },
+    {
+      "source": "9-10",
+      "target": "10-1-6",
+      "value": 0
+    },
+    {
+      "source": "9-10",
+      "target": "10-1-7",
+      "value": 0
+    },
+    {
+      "source": "9-10",
+      "target": "10-2-1",
+      "value": 0
+    },
+    {
+      "source": "9-10",
+      "target": "10-2-2",
+      "value": 0
+    },
+    {
+      "source": "9-10",
+      "target": "10-2-3",
+      "value": 0
+    },
+    {
+      "source": "9-10",
+      "target": "10-2-4",
+      "value": 0
+    },
+    {
+      "source": "9-10",
+      "target": "10-3-1",
+      "value": 0
+    },
+    {
+      "source": "9-10",
+      "target": "10-3-2",
+      "value": 0
+    },
+    {
+      "source": "9-10",
+      "target": "10-3-3",
+      "value": 0
+    },
+    {
+      "source": "9-10",
+      "target": "10-3-4",
+      "value": 0
+    },
+    {
+      "source": "9-10",
+      "target": "10-3-5",
+      "value": 0
+    },
+    {
+      "source": "9-10",
+      "target": "10-3-6",
+      "value": 0
+    },
+    {
+      "source": "9-10",
+      "target": "10-3-7",
+      "value": 0
+    },
+    {
+      "source": "9-10",
+      "target": "10-3-8",
+      "value": 0
+    },
+    {
+      "source": "9-10",
+      "target": "10-3-9",
+      "value": 0
+    },
+    {
+      "source": "9-11",
+      "target": "10-1-1",
+      "value": 0
+    },
+    {
+      "source": "9-11",
+      "target": "10-1-2",
+      "value": 0
+    },
+    {
+      "source": "9-11",
+      "target": "10-1-3",
+      "value": 0
+    },
+    {
+      "source": "9-11",
+      "target": "10-1-4",
+      "value": 0
+    },
+    {
+      "source": "9-11",
+      "target": "10-1-5",
+      "value": 0
+    },
+    {
+      "source": "9-11",
+      "target": "10-1-6",
+      "value": 0
+    },
+    {
+      "source": "9-11",
+      "target": "10-1-7",
+      "value": 0
+    },
+    {
+      "source": "9-11",
+      "target": "10-2-1",
+      "value": 0
+    },
+    {
+      "source": "9-11",
+      "target": "10-2-2",
+      "value": 0
+    },
+    {
+      "source": "9-11",
+      "target": "10-2-3",
+      "value": 0
+    },
+    {
+      "source": "9-11",
+      "target": "10-2-4",
+      "value": 0
+    },
+    {
+      "source": "9-11",
+      "target": "10-3-1",
+      "value": 0
+    },
+    {
+      "source": "9-11",
+      "target": "10-3-2",
+      "value": 0
+    },
+    {
+      "source": "9-11",
+      "target": "10-3-3",
+      "value": 0
+    },
+    {
+      "source": "9-11",
+      "target": "10-3-4",
+      "value": 0
+    },
+    {
+      "source": "9-11",
+      "target": "10-3-5",
+      "value": 0
+    },
+    {
+      "source": "9-11",
+      "target": "10-3-6",
+      "value": 0
+    },
+    {
+      "source": "9-11",
+      "target": "10-3-7",
+      "value": 0
+    },
+    {
+      "source": "9-11",
+      "target": "10-3-8",
+      "value": 0
+    },
+    {
+      "source": "9-11",
+      "target": "10-3-9",
+      "value": 0
+    },
+    {
+      "source": "9-12",
+      "target": "10-1-1",
+      "value": 0
+    },
+    {
+      "source": "9-12",
+      "target": "10-1-2",
+      "value": 0
+    },
+    {
+      "source": "9-12",
+      "target": "10-1-3",
+      "value": 0
+    },
+    {
+      "source": "9-12",
+      "target": "10-1-4",
+      "value": 0
+    },
+    {
+      "source": "9-12",
+      "target": "10-1-5",
+      "value": 0
+    },
+    {
+      "source": "9-12",
+      "target": "10-1-6",
+      "value": 0
+    },
+    {
+      "source": "9-12",
+      "target": "10-1-7",
+      "value": 0
+    },
+    {
+      "source": "9-12",
+      "target": "10-2-1",
+      "value": 0
+    },
+    {
+      "source": "9-12",
+      "target": "10-2-2",
+      "value": 0
+    },
+    {
+      "source": "9-12",
+      "target": "10-2-3",
+      "value": 0
+    },
+    {
+      "source": "9-12",
+      "target": "10-2-4",
+      "value": 0
+    },
+    {
+      "source": "9-12",
+      "target": "10-3-1",
+      "value": 0
+    },
+    {
+      "source": "9-12",
+      "target": "10-3-2",
+      "value": 0
+    },
+    {
+      "source": "9-12",
+      "target": "10-3-3",
+      "value": 0
+    },
+    {
+      "source": "9-12",
+      "target": "10-3-4",
+      "value": 0
+    },
+    {
+      "source": "9-12",
+      "target": "10-3-5",
+      "value": 0
+    },
+    {
+      "source": "9-12",
+      "target": "10-3-6",
+      "value": 0
+    },
+    {
+      "source": "9-12",
+      "target": "10-3-7",
+      "value": 0
+    },
+    {
+      "source": "9-12",
+      "target": "10-3-8",
+      "value": 0
+    },
+    {
+      "source": "9-12",
+      "target": "10-3-9",
+      "value": 0
+    }
+  ]
+}
