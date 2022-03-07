@@ -5,6 +5,7 @@ import * as d3 from 'd3'
 import * as d3Sankey from 'd3-sankey'
 import d3SaveSvg from 'd3-save-svg'
 import d3SavePdf from 'd3-save-pdf'
+import results from './result-v2.json'
 
 let colors = {
   '3-1': '#3d3ca4',
@@ -25,7 +26,13 @@ class App extends Component {
     window.App = this
     window.d3 = d3
     window.data = data
+    window.results = results
     this.state = {}
+
+    this.hash = {}
+    for (let item of results) {
+      this.hash[item.id] = item.count
+    }
 
     window.save = () => {
       let config = {
@@ -194,18 +201,8 @@ class App extends Component {
       .append('tspan')
         .attr('fill-opacity', 0.7)
         .text((d) => {
-          let count = d.sourceLinks.map(i => i.count).reduce((a, b) => a + b, 0)
-          if (isNaN(count)) count = d.value
-          if (d.sourceLinks[0]) {
-            count = Math.round(count / d.sourceLinks[0].total * 100)
-          }
-          if (count === 0) {
-            count = d.targetLinks.map(i => i.count).reduce((a, b) => a + b, 0)
-            if (d.targetLinks[0]) {
-              count = Math.round(count / d.targetLinks[0].total * 100)
-            }
-          }
-          if (isNaN(count)) count = d.value
+          console.log(d)
+          let count = this.hash[d.id]
           return ` ${count.toLocaleString()}`
         });
   }

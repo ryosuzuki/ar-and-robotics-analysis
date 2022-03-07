@@ -15,7 +15,8 @@ for (let item of items) {
   links.push({
     source: original[item.source],
     target: original[item.target],
-    value: item.value
+    value: item.value,
+    citations: item.citations
   })
 }
 

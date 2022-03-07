@@ -11,11 +11,12 @@ for (let i = 0; i < items.length; i++) {
   for (let key of Object.keys(entries)) {
     let ids = entries[key]
     if (ids.includes(source) && ids.includes(target)) {
-      item.value = item.value + 1
       if (!item.citations) item.citations = []
       item.citations.push(key)
     }
   }
+  item.citations = _.uniq(item.citations)
+  item.value = item.citations.length
   items[i] = item
 }
 

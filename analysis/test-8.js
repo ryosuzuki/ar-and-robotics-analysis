@@ -1,7 +1,6 @@
 const fs = require('fs')
 let original = require('./original.json')
 let json = require('./category.json')
-let items = require('./flow.json')
 
 let nodes = []
 for (let id of Object.keys(original)) {
@@ -24,7 +23,8 @@ for (let i = 0; i < Object.keys(json).length-1; i++) {
       links.push({
         source: citem.id,
         target: nitem.id,
-        value: 0
+        value: 0,
+        citations: []
       })
     }
   }
