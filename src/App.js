@@ -134,6 +134,8 @@ class App extends Component {
     link.append('title')
         .text(d => `${d.source.name} → ${d.target.name}\n${d.value.toLocaleString()}`);
 
+    let added = []
+
     svg.append('g')
         .style('font', '13px sans-serif')
       .selectAll('text')
@@ -168,7 +170,12 @@ class App extends Component {
           if (['characteristics', 'design', 'interactions'].includes(title)) {
             title = array[1] // .join(' - ')
           }
-          return title
+          if (added.includes(title)) {
+            return ''
+          } else {
+            added.push(title)
+            return title
+          }
         })
 
 
