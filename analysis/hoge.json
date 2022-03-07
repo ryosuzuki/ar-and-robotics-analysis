@@ -1,178 +1,38 @@
 {
-  "category-3": {
-    "source": 620,
-    "target": 0,
-    "names": [
-      "approach - augment robots - on-body (head/eye)",
-      "approach - augment robots - on-body (handheld)",
-      "approach - augment robots - on-environment",
-      "approach - augment robots - on-robot",
-      "approach - augment surroundings - on-body (head/eye)",
-      "approach - augment surroundings - on-body (handheld)",
-      "approach - augment surroundings - on-environment",
-      "approach - augment surroundings - on-robot"
-    ]
-  },
-  "category-4-1": {
-    "source": 425,
-    "target": 620,
-    "names": [
-      "characteristics - form factors - robotic arms",
-      "characteristics - form factors - drones",
-      "characteristics - form factors - mobile robots",
-      "characteristics - form factors - humanoid robots",
-      "characteristics - form factors - vehicles",
-      "characteristics - form factors - actuated objects",
-      "characteristics - form factors - combinations",
-      "characteristics - form factors - other types"
-    ]
-  },
-  "category-4-2": {
-    "source": 348,
-    "target": 425,
-    "names": [
-      "characteristics - relationship - 1 : 1",
-      "characteristics - relationship - 1 : m",
-      "characteristics - relationship - n : 1",
-      "characteristics - relationship - n : m"
-    ]
-  },
-  "category-4-3": {
-    "source": 361,
-    "target": 348,
-    "names": [
-      "characteristics - scale - handheld-scale",
-      "characteristics - scale - tabletop-scale",
-      "characteristics - scale - body-scale",
-      "characteristics - scale - building/city-scale"
-    ]
-  },
-  "category-4-4": {
-    "source": 527,
-    "target": 361,
-    "names": [
-      "characteristics - proximity - co-located",
-      "characteristics - proximity - co-located with distance",
-      "characteristics - proximity - semi-remote",
-      "characteristics - proximity - remote"
-    ]
-  },
-  "category-5": {
-    "source": 821,
-    "target": 527,
-    "names": [
-      "purposes - facilitate programming",
-      "purposes - support real-time control",
-      "purposes - improve safety",
-      "purposes - communicate intent",
-      "purposes - increase expressiveness"
-    ]
-  },
-  "category-6": {
-    "source": 836,
-    "target": 821,
-    "names": [
-      "information - internal information",
-      "information - external information",
-      "information - plan and activity",
-      "information - supplement content"
-    ]
-  },
-  "category-7-1": {
-    "source": 922,
-    "target": 836,
-    "names": [
-      "design - uis and widgets - menus",
-      "design - uis and widgets - information planels",
-      "design - uis and widgets - labels and annotations",
-      "design - uis and widgets - controls and handles",
-      "design - uis and widgets - monitors and displays"
-    ]
-  },
-  "category-7-2": {
-    "source": 341,
-    "target": 922,
-    "names": [
-      "design - spatial references and visualizations - points and locations",
-      "design - spatial references and visualizations - paths and trajectories",
-      "design - spatial references and visualizations - areas and boundaries",
-      "design - spatial references and visualizations - other visualizations"
-    ]
-  },
-  "category-7-3": {
-    "source": 199,
-    "target": 341,
-    "names": [
-      "design - embedded visual effects - anthropomorphic",
-      "design - embedded visual effects - visual replica",
-      "design - embedded visual effects - texture mapping"
-    ]
-  },
-  "category-8-1": {
-    "source": 463,
-    "target": 199,
-    "names": [
-      "interactions - interactivity - only output",
-      "interactions - interactivity - implicit",
-      "interactions - interactivity - indirect",
-      "interactions - interactivity - direct"
-    ]
-  },
-  "category-8-2": {
-    "source": 454,
-    "target": 463,
-    "names": [
-      "interactions - interaction modalities - tangible",
-      "interactions - interaction modalities - touch",
-      "interactions - interaction modalities - controller",
-      "interactions - interaction modalities - gesture",
-      "interactions - interaction modalities - gaze",
-      "interactions - interaction modalities - voice",
-      "interactions - interaction modalities - proximity"
-    ]
-  },
-  "category-9": {
-    "source": 343,
-    "target": 454,
-    "names": [
-      "applications - domestic and everyday use",
-      "applications - industry",
-      "applications - entertainment",
-      "applications - education and training",
-      "applications - social interaction",
-      "applications - design and creative tasks",
-      "applications - medical and health",
-      "applications - remote collaboration",
-      "applications - mobility and transportation",
-      "applications - search and rescue",
-      "applications - workspace",
-      "applications - data physicalization"
-    ]
-  },
-  "category-10": {
-    "source": 0,
-    "target": 343,
-    "names": [
-      "evaluation - demonstration - workshop",
-      "evaluation - demonstration - theoretical framework",
-      "evaluation - demonstration - example applications",
-      "evaluation - demonstration - focus groups",
-      "evaluation - demonstration - early demonstrations",
-      "evaluation - demonstration - case studies",
-      "evaluation - demonstration - conceptual",
-      "evaluation - technical - time",
-      "evaluation - technical - accuracy",
-      "evaluation - technical - system performance",
-      "evaluation - technical - success rate",
-      "evaluation - user evaluation - nasa tls",
-      "evaluation - user evaluation - interviews",
-      "evaluation - user evaluation - questionnaires",
-      "evaluation - user evaluation - lab study with users",
-      "evaluation - user evaluation - qualitative study",
-      "evaluation - user evaluation - quantitative study",
-      "evaluation - user evaluation - lab study with experts",
-      "evaluation - user evaluation - observational",
-      "evaluation - user evaluation - user feedback"
-    ]
-  }
+  "applications - domestic and everyday use + evaluation - demonstration": 47,
+  "applications - domestic and everyday use + evaluation - technical": 24,
+  "applications - domestic and everyday use + evaluation - user evaluation": 101,
+  "applications - industry + evaluation - demonstration": 148,
+  "applications - industry + evaluation - technical": 119,
+  "applications - industry + evaluation - user evaluation": 409,
+  "applications - entertainment + evaluation - demonstration": 51,
+  "applications - entertainment + evaluation - technical": 7,
+  "applications - entertainment + evaluation - user evaluation": 62,
+  "applications - education and training + evaluation - demonstration": 13,
+  "applications - education and training + evaluation - technical": 0,
+  "applications - education and training + evaluation - user evaluation": 76,
+  "applications - social interaction + evaluation - demonstration": 20,
+  "applications - social interaction + evaluation - technical": 18,
+  "applications - social interaction + evaluation - user evaluation": 70,
+  "applications - design and creative tasks + evaluation - demonstration": 28,
+  "applications - design and creative tasks + evaluation - technical": 0,
+  "applications - design and creative tasks + evaluation - user evaluation": 24,
+  "applications - medical and health + evaluation - demonstration": 12,
+  "applications - medical and health + evaluation - technical": 14,
+  "applications - medical and health + evaluation - user evaluation": 24,
+  "applications - remote collaboration + evaluation - demonstration": 11,
+  "applications - remote collaboration + evaluation - technical": 0,
+  "applications - remote collaboration + evaluation - user evaluation": 6,
+  "applications - mobility and transportation + evaluation - demonstration": 0,
+  "applications - mobility and transportation + evaluation - technical": 9,
+  "applications - mobility and transportation + evaluation - user evaluation": 36,
+  "applications - search and rescue + evaluation - demonstration": 22,
+  "applications - search and rescue + evaluation - technical": 27,
+  "applications - search and rescue + evaluation - user evaluation": 60,
+  "applications - workspace + evaluation - demonstration": 18,
+  "applications - workspace + evaluation - technical": 3,
+  "applications - workspace + evaluation - user evaluation": 27,
+  "applications - data physicalization + evaluation - demonstration": 45,
+  "applications - data physicalization + evaluation - technical": 0,
+  "applications - data physicalization + evaluation - user evaluation": 7
 }

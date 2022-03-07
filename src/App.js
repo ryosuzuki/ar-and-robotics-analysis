@@ -3,6 +3,8 @@ import './App.css'
 import data from './data-v2.json'
 import * as d3 from 'd3'
 import * as d3Sankey from 'd3-sankey'
+import d3SaveSvg from 'd3-save-svg'
+import d3SavePdf from 'd3-save-pdf'
 
 let colors = {
   '3-1': '#3d3ca4',
@@ -24,6 +26,13 @@ class App extends Component {
     window.d3 = d3
     window.data = data
     this.state = {}
+
+    window.save = () => {
+      let config = {
+        filename: 'graph',
+      }
+      d3SavePdf.save(d3.select('svg').node(), config)
+    }
   }
 
   componentDidMount() {
@@ -31,7 +40,7 @@ class App extends Component {
     let div = document.querySelector('#main')
     let color = '#ddd'
     let width = window.innerWidth
-    let height = window.innerHeight
+    let height = window.innerHeight * 0.6
     let padding = 10
     let align = [{ value: 'justify' }]
     let inputOrder = true
@@ -42,7 +51,7 @@ class App extends Component {
       .nodeSort(inputOrder ? null : undefined)
       .nodeWidth(15)
       .nodePadding(padding)
-      .extent([[0, 5], [width, height - 5]])
+      .extent([[50, 100], [width-150, height - 5]])
 
     const svg = d3.select(div)
         .style('background', '#fff')
@@ -65,18 +74,6 @@ class App extends Component {
         .attr('height', d => d.y1 - d.y0)
         .attr('width', d => d.x1 - d.x0 - 2)
         .attr('fill', d => {
-          /*
-          let c;
-          for (const link of d.sourceLinks) {
-            if (c === undefined) c = link.color;
-            else if (c !== link.color) c = null;
-          }
-          if (c === undefined) for (const link of d.targetLinks) {
-            if (c === undefined) c = link.color;
-            else if (c !== link.color) c = null;
-          }
-          return (d3.color(c) || d3.color(color)).darker(0.5);
-          */
           let sectionId = d.id.split('-')[0]
           let color = colors[sectionId]
           if (sectionId === '3') {
@@ -91,7 +88,12 @@ class App extends Component {
           return color
         })
       .append('title')
-        .text(d => `${d.name}\n${d.value.toLocaleString()}`);
+        .text((d) => {
+          let count = d.sourceLinks.map(i => i.count).reduce((a, b) => a + b, 0)
+          count = count/460
+          if (isNaN(count)) count = d.value
+          return `${d.name}\n${count.toLocaleString()}`
+        });
 
     const link = svg.append('g')
         .attr('fill', 'none')
@@ -99,7 +101,6 @@ class App extends Component {
       .data(links)
       .join('g')
         .attr('stroke', (d) => {
-          console.log(d)
           let sectionId = d.source.id.split('-')[0]
           let targetSectionId = d.target.id.split('-')[0]
           let color = colors[sectionId]
@@ -127,14 +128,16 @@ class App extends Component {
         .text(d => `${d.source.name} → ${d.target.name}\n${d.value.toLocaleString()}`);
 
     svg.append('g')
-        .style('font', '10px sans-serif')
+        .style('font', '8px sans-serif')
       .selectAll('text')
       .data(nodes)
       .join('text')
-        .attr('x', d => d.x0 < width / 2 ? d.x1 + 6 : d.x0 - 6)
-        .attr('y', d => (d.y1 + d.y0) / 2)
+        // .attr('x', d => d.x0 < width / 2 ? d.x1 + 6 : d.x0 - 6)
+        .attr('transform', d =>  `translate(-380, 0) rotate(-45)`)
+        .attr('x', d => d.x1 + 6)
+        .attr('y', d => 880)
         .attr('dy', '0.35em')
-        .attr('text-anchor', d => d.x0 < width / 2 ? 'start' : 'end')
+        .attr('text-anchor', 'start')
         .attr('fill', (d) => {
           let sectionId = d.id.split('-')[0]
           let color = colors[sectionId]
@@ -149,11 +152,60 @@ class App extends Component {
           color = d3.color(color).darker(1)
           return color
         })
+        .text((d) => {
+          let array = d.name.split(' - ')
+          array.pop()
+          let title = array[0]
+          if (['characteristics', 'design', 'interactions'].includes(title)) {
+            title = array.join(' - ')
+          }
+          return title
+        })
+
+
+    svg.append('g')
+        .style('font', '8px sans-serif')
+      .selectAll('text')
+      .data(nodes)
+      .join('text')
+        // .attr('x', d => d.x0 < width / 2 ? d.x1 + 6 : d.x0 - 6)
+        .attr('x', d => d.x1 + 6)
+        .attr('y', d => (d.y1 + d.y0) / 2)
+        .attr('dy', '0.35em')
+        .attr('text-anchor', d => d.x0 < width / 2 ? 'start' : 'start')
+        .attr('fill', (d) => {
+          let sectionId = d.id.split('-')[0]
+          let color = colors[sectionId]
+          if (sectionId === '3') {
+            if (d.id.includes('3-1')) {
+              color = colors['3-1']
+            }
+            if (d.id.includes('3-2')) {
+              color = colors['3-2']
+            }
+          }
+          color = d3.color(color).darker(1)
+          color = '#000'
+          return color
+        })
         .text(d => d.name.split(' - ').pop())
       .append('tspan')
         .attr('fill-opacity', 0.7)
-        .text(d => ` ${d.value.toLocaleString()}`);
-
+        .text((d) => {
+          let count = d.sourceLinks.map(i => i.count).reduce((a, b) => a + b, 0)
+          if (isNaN(count)) count = d.value
+          if (d.sourceLinks[0]) {
+            count = Math.round(count / d.sourceLinks[0].total * 100)
+          }
+          if (count === 0) {
+            count = d.targetLinks.map(i => i.count).reduce((a, b) => a + b, 0)
+            if (d.targetLinks[0]) {
+              count = Math.round(count / d.targetLinks[0].total * 100)
+            }
+          }
+          if (isNaN(count)) count = d.value
+          return ` ${count.toLocaleString()}`
+        });
   }
 
   render() {

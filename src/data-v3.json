@@ -373,3506 +373,4090 @@
     {
       "source": "approach - augment robots - on-body (head/eye)",
       "target": "characteristics - form factors - robotic arms",
-      "value": 43,
-      "count": 59
+      "value": 44,
+      "count": 59,
+      "total": 620
     },
     {
       "source": "approach - augment robots - on-body (head/eye)",
       "target": "characteristics - form factors - drones",
       "value": 5,
-      "count": 7
+      "count": 7,
+      "total": 620
     },
     {
       "source": "approach - augment robots - on-body (head/eye)",
       "target": "characteristics - form factors - mobile robots",
       "value": 19,
-      "count": 26
+      "count": 26,
+      "total": 620
     },
     {
       "source": "approach - augment robots - on-body (head/eye)",
       "target": "characteristics - form factors - humanoid robots",
       "value": 10,
-      "count": 14
+      "count": 14,
+      "total": 620
     },
     {
       "source": "approach - augment robots - on-body (head/eye)",
       "target": "characteristics - form factors - vehicles",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 620
     },
     {
       "source": "approach - augment robots - on-body (head/eye)",
       "target": "characteristics - form factors - actuated objects",
-      "value": 2,
-      "count": 4
+      "value": 3,
+      "count": 4,
+      "total": 620
     },
     {
       "source": "approach - augment robots - on-body (head/eye)",
       "target": "characteristics - form factors - combinations",
-      "value": 3,
-      "count": 5
+      "value": 4,
+      "count": 5,
+      "total": 620
     },
     {
       "source": "approach - augment robots - on-body (head/eye)",
       "target": "characteristics - form factors - other types",
       "value": 2,
-      "count": 3
+      "count": 3,
+      "total": 620
     },
     {
       "source": "approach - augment robots - on-body (handheld)",
       "target": "characteristics - form factors - robotic arms",
       "value": 5,
-      "count": 7
+      "count": 7,
+      "total": 620
     },
     {
       "source": "approach - augment robots - on-body (handheld)",
       "target": "characteristics - form factors - drones",
       "value": 2,
-      "count": 3
+      "count": 3,
+      "total": 620
     },
     {
       "source": "approach - augment robots - on-body (handheld)",
       "target": "characteristics - form factors - mobile robots",
-      "value": 12,
-      "count": 17
+      "value": 13,
+      "count": 17,
+      "total": 620
     },
     {
       "source": "approach - augment robots - on-body (handheld)",
       "target": "characteristics - form factors - humanoid robots",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 620
     },
     {
       "source": "approach - augment robots - on-body (handheld)",
       "target": "characteristics - form factors - vehicles",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 620
     },
     {
       "source": "approach - augment robots - on-body (handheld)",
       "target": "characteristics - form factors - actuated objects",
-      "value": 2,
-      "count": 4
+      "value": 3,
+      "count": 4,
+      "total": 620
     },
     {
       "source": "approach - augment robots - on-body (handheld)",
       "target": "characteristics - form factors - combinations",
-      "value": 2,
-      "count": 4
+      "value": 3,
+      "count": 4,
+      "total": 620
     },
     {
       "source": "approach - augment robots - on-body (handheld)",
       "target": "characteristics - form factors - other types",
       "value": 1,
-      "count": 2
+      "count": 2,
+      "total": 620
     },
     {
       "source": "approach - augment robots - on-environment",
       "target": "characteristics - form factors - robotic arms",
       "value": 24,
-      "count": 33
+      "count": 33,
+      "total": 620
     },
     {
       "source": "approach - augment robots - on-environment",
       "target": "characteristics - form factors - drones",
-      "value": 2,
-      "count": 4
+      "value": 3,
+      "count": 4,
+      "total": 620
     },
     {
       "source": "approach - augment robots - on-environment",
       "target": "characteristics - form factors - mobile robots",
       "value": 16,
-      "count": 22
+      "count": 22,
+      "total": 620
     },
     {
       "source": "approach - augment robots - on-environment",
       "target": "characteristics - form factors - humanoid robots",
-      "value": 0,
-      "count": 1
+      "value": 1,
+      "count": 1,
+      "total": 620
     },
     {
       "source": "approach - augment robots - on-environment",
       "target": "characteristics - form factors - vehicles",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 620
     },
     {
       "source": "approach - augment robots - on-environment",
       "target": "characteristics - form factors - actuated objects",
       "value": 11,
-      "count": 15
+      "count": 15,
+      "total": 620
     },
     {
       "source": "approach - augment robots - on-environment",
       "target": "characteristics - form factors - combinations",
       "value": 1,
-      "count": 2
+      "count": 2,
+      "total": 620
     },
     {
       "source": "approach - augment robots - on-environment",
       "target": "characteristics - form factors - other types",
-      "value": 0,
-      "count": 1
+      "value": 1,
+      "count": 1,
+      "total": 620
     },
     {
       "source": "approach - augment robots - on-robot",
       "target": "characteristics - form factors - robotic arms",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 620
     },
     {
       "source": "approach - augment robots - on-robot",
       "target": "characteristics - form factors - drones",
       "value": 2,
-      "count": 3
+      "count": 3,
+      "total": 620
     },
     {
       "source": "approach - augment robots - on-robot",
       "target": "characteristics - form factors - mobile robots",
-      "value": 2,
-      "count": 4
+      "value": 3,
+      "count": 4,
+      "total": 620
     },
     {
       "source": "approach - augment robots - on-robot",
       "target": "characteristics - form factors - humanoid robots",
-      "value": 0,
-      "count": 1
+      "value": 1,
+      "count": 1,
+      "total": 620
     },
     {
       "source": "approach - augment robots - on-robot",
       "target": "characteristics - form factors - vehicles",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 620
     },
     {
       "source": "approach - augment robots - on-robot",
       "target": "characteristics - form factors - actuated objects",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 620
     },
     {
       "source": "approach - augment robots - on-robot",
       "target": "characteristics - form factors - combinations",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 620
     },
     {
       "source": "approach - augment robots - on-robot",
       "target": "characteristics - form factors - other types",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 620
     },
     {
       "source": "approach - augment surroundings - on-body (head/eye)",
       "target": "characteristics - form factors - robotic arms",
       "value": 59,
-      "count": 80
+      "count": 80,
+      "total": 620
     },
     {
       "source": "approach - augment surroundings - on-body (head/eye)",
       "target": "characteristics - form factors - drones",
       "value": 7,
-      "count": 10
+      "count": 10,
+      "total": 620
     },
     {
       "source": "approach - augment surroundings - on-body (head/eye)",
       "target": "characteristics - form factors - mobile robots",
       "value": 27,
-      "count": 37
+      "count": 37,
+      "total": 620
     },
     {
       "source": "approach - augment surroundings - on-body (head/eye)",
       "target": "characteristics - form factors - humanoid robots",
       "value": 17,
-      "count": 23
+      "count": 23,
+      "total": 620
     },
     {
       "source": "approach - augment surroundings - on-body (head/eye)",
       "target": "characteristics - form factors - vehicles",
-      "value": 0,
-      "count": 1
+      "value": 1,
+      "count": 1,
+      "total": 620
     },
     {
       "source": "approach - augment surroundings - on-body (head/eye)",
       "target": "characteristics - form factors - actuated objects",
       "value": 2,
-      "count": 3
+      "count": 3,
+      "total": 620
     },
     {
       "source": "approach - augment surroundings - on-body (head/eye)",
       "target": "characteristics - form factors - combinations",
       "value": 5,
-      "count": 7
+      "count": 7,
+      "total": 620
     },
     {
       "source": "approach - augment surroundings - on-body (head/eye)",
       "target": "characteristics - form factors - other types",
       "value": 2,
-      "count": 3
+      "count": 3,
+      "total": 620
     },
     {
       "source": "approach - augment surroundings - on-body (handheld)",
       "target": "characteristics - form factors - robotic arms",
-      "value": 5,
-      "count": 8
+      "value": 6,
+      "count": 8,
+      "total": 620
     },
     {
       "source": "approach - augment surroundings - on-body (handheld)",
       "target": "characteristics - form factors - drones",
       "value": 2,
-      "count": 3
+      "count": 3,
+      "total": 620
     },
     {
       "source": "approach - augment surroundings - on-body (handheld)",
       "target": "characteristics - form factors - mobile robots",
       "value": 13,
-      "count": 18
+      "count": 18,
+      "total": 620
     },
     {
       "source": "approach - augment surroundings - on-body (handheld)",
       "target": "characteristics - form factors - humanoid robots",
       "value": 1,
-      "count": 2
+      "count": 2,
+      "total": 620
     },
     {
       "source": "approach - augment surroundings - on-body (handheld)",
       "target": "characteristics - form factors - vehicles",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 620
     },
     {
       "source": "approach - augment surroundings - on-body (handheld)",
       "target": "characteristics - form factors - actuated objects",
-      "value": 0,
-      "count": 1
+      "value": 1,
+      "count": 1,
+      "total": 620
     },
     {
       "source": "approach - augment surroundings - on-body (handheld)",
       "target": "characteristics - form factors - combinations",
-      "value": 2,
-      "count": 4
+      "value": 3,
+      "count": 4,
+      "total": 620
     },
     {
       "source": "approach - augment surroundings - on-body (handheld)",
       "target": "characteristics - form factors - other types",
       "value": 1,
-      "count": 2
+      "count": 2,
+      "total": 620
     },
     {
       "source": "approach - augment surroundings - on-environment",
       "target": "characteristics - form factors - robotic arms",
       "value": 46,
-      "count": 62
+      "count": 62,
+      "total": 620
     },
     {
       "source": "approach - augment surroundings - on-environment",
       "target": "characteristics - form factors - drones",
-      "value": 5,
-      "count": 8
+      "value": 6,
+      "count": 8,
+      "total": 620
     },
     {
       "source": "approach - augment surroundings - on-environment",
       "target": "characteristics - form factors - mobile robots",
       "value": 42,
-      "count": 57
+      "count": 57,
+      "total": 620
     },
     {
       "source": "approach - augment surroundings - on-environment",
       "target": "characteristics - form factors - humanoid robots",
       "value": 2,
-      "count": 3
+      "count": 3,
+      "total": 620
     },
     {
       "source": "approach - augment surroundings - on-environment",
       "target": "characteristics - form factors - vehicles",
       "value": 1,
-      "count": 2
+      "count": 2,
+      "total": 620
     },
     {
       "source": "approach - augment surroundings - on-environment",
       "target": "characteristics - form factors - actuated objects",
-      "value": 5,
-      "count": 8
+      "value": 6,
+      "count": 8,
+      "total": 620
     },
     {
       "source": "approach - augment surroundings - on-environment",
       "target": "characteristics - form factors - combinations",
       "value": 2,
-      "count": 3
+      "count": 3,
+      "total": 620
     },
     {
       "source": "approach - augment surroundings - on-environment",
       "target": "characteristics - form factors - other types",
-      "value": 0,
-      "count": 1
+      "value": 1,
+      "count": 1,
+      "total": 620
     },
     {
       "source": "approach - augment surroundings - on-robot",
       "target": "characteristics - form factors - robotic arms",
       "value": 5,
-      "count": 7
+      "count": 7,
+      "total": 620
     },
     {
       "source": "approach - augment surroundings - on-robot",
       "target": "characteristics - form factors - drones",
-      "value": 2,
-      "count": 4
+      "value": 3,
+      "count": 4,
+      "total": 620
     },
     {
       "source": "approach - augment surroundings - on-robot",
       "target": "characteristics - form factors - mobile robots",
-      "value": 8,
-      "count": 12
+      "value": 9,
+      "count": 12,
+      "total": 620
     },
     {
       "source": "approach - augment surroundings - on-robot",
       "target": "characteristics - form factors - humanoid robots",
-      "value": 0,
-      "count": 1
+      "value": 1,
+      "count": 1,
+      "total": 620
     },
     {
       "source": "approach - augment surroundings - on-robot",
       "target": "characteristics - form factors - vehicles",
-      "value": 2,
-      "count": 4
+      "value": 3,
+      "count": 4,
+      "total": 620
     },
     {
       "source": "approach - augment surroundings - on-robot",
       "target": "characteristics - form factors - actuated objects",
-      "value": 0,
-      "count": 1
+      "value": 1,
+      "count": 1,
+      "total": 620
     },
     {
       "source": "approach - augment surroundings - on-robot",
       "target": "characteristics - form factors - combinations",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 620
     },
     {
       "source": "approach - augment surroundings - on-robot",
       "target": "characteristics - form factors - other types",
-      "value": 2,
-      "count": 4
+      "value": 3,
+      "count": 4,
+      "total": 620
     },
     {
       "source": "characteristics - form factors - robotic arms",
       "target": "characteristics - relationship - 1 : 1",
       "value": 175,
-      "count": 162
+      "count": 162,
+      "total": 425
     },
     {
       "source": "characteristics - form factors - robotic arms",
       "target": "characteristics - relationship - 1 : m",
-      "value": 7,
-      "count": 7
+      "value": 8,
+      "count": 7,
+      "total": 425
     },
     {
       "source": "characteristics - form factors - robotic arms",
       "target": "characteristics - relationship - n : 1",
       "value": 3,
-      "count": 3
+      "count": 3,
+      "total": 425
     },
     {
       "source": "characteristics - form factors - robotic arms",
       "target": "characteristics - relationship - n : m",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 425
     },
     {
       "source": "characteristics - form factors - drones",
       "target": "characteristics - relationship - 1 : 1",
       "value": 18,
-      "count": 17
+      "count": 17,
+      "total": 425
     },
     {
       "source": "characteristics - form factors - drones",
       "target": "characteristics - relationship - 1 : m",
       "value": 3,
-      "count": 3
+      "count": 3,
+      "total": 425
     },
     {
       "source": "characteristics - form factors - drones",
       "target": "characteristics - relationship - n : 1",
       "value": 4,
-      "count": 4
+      "count": 4,
+      "total": 425
     },
     {
       "source": "characteristics - form factors - drones",
       "target": "characteristics - relationship - n : m",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 425
     },
     {
       "source": "characteristics - form factors - mobile robots",
       "target": "characteristics - relationship - 1 : 1",
-      "value": 103,
-      "count": 96
+      "value": 104,
+      "count": 96,
+      "total": 425
     },
     {
       "source": "characteristics - form factors - mobile robots",
       "target": "characteristics - relationship - 1 : m",
-      "value": 22,
-      "count": 21
+      "value": 23,
+      "count": 21,
+      "total": 425
     },
     {
       "source": "characteristics - form factors - mobile robots",
       "target": "characteristics - relationship - n : 1",
-      "value": 9,
-      "count": 9
+      "value": 10,
+      "count": 9,
+      "total": 425
     },
     {
       "source": "characteristics - form factors - mobile robots",
       "target": "characteristics - relationship - n : m",
-      "value": 9,
-      "count": 9
+      "value": 10,
+      "count": 9,
+      "total": 425
     },
     {
       "source": "characteristics - form factors - humanoid robots",
       "target": "characteristics - relationship - 1 : 1",
       "value": 32,
-      "count": 30
+      "count": 30,
+      "total": 425
     },
     {
       "source": "characteristics - form factors - humanoid robots",
       "target": "characteristics - relationship - 1 : m",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 425
     },
     {
       "source": "characteristics - form factors - humanoid robots",
       "target": "characteristics - relationship - n : 1",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 425
     },
     {
       "source": "characteristics - form factors - humanoid robots",
       "target": "characteristics - relationship - n : m",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 425
     },
     {
       "source": "characteristics - form factors - vehicles",
       "target": "characteristics - relationship - 1 : 1",
       "value": 6,
-      "count": 6
+      "count": 6,
+      "total": 425
     },
     {
       "source": "characteristics - form factors - vehicles",
       "target": "characteristics - relationship - 1 : m",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 425
     },
     {
       "source": "characteristics - form factors - vehicles",
       "target": "characteristics - relationship - n : 1",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 425
     },
     {
       "source": "characteristics - form factors - vehicles",
       "target": "characteristics - relationship - n : m",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 425
     },
     {
       "source": "characteristics - form factors - actuated objects",
       "target": "characteristics - relationship - 1 : 1",
-      "value": 22,
-      "count": 21
+      "value": 23,
+      "count": 21,
+      "total": 425
     },
     {
       "source": "characteristics - form factors - actuated objects",
       "target": "characteristics - relationship - 1 : m",
       "value": 3,
-      "count": 3
+      "count": 3,
+      "total": 425
     },
     {
       "source": "characteristics - form factors - actuated objects",
       "target": "characteristics - relationship - n : 1",
       "value": 3,
-      "count": 3
+      "count": 3,
+      "total": 425
     },
     {
       "source": "characteristics - form factors - actuated objects",
       "target": "characteristics - relationship - n : m",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 425
     },
     {
       "source": "characteristics - form factors - combinations",
       "target": "characteristics - relationship - 1 : 1",
-      "value": 12,
-      "count": 12
+      "value": 13,
+      "count": 12,
+      "total": 425
     },
     {
       "source": "characteristics - form factors - combinations",
       "target": "characteristics - relationship - 1 : m",
       "value": 3,
-      "count": 3
+      "count": 3,
+      "total": 425
     },
     {
       "source": "characteristics - form factors - combinations",
       "target": "characteristics - relationship - n : 1",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 425
     },
     {
       "source": "characteristics - form factors - combinations",
       "target": "characteristics - relationship - n : m",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 425
     },
     {
       "source": "characteristics - form factors - other types",
       "target": "characteristics - relationship - 1 : 1",
-      "value": 9,
-      "count": 9
+      "value": 10,
+      "count": 9,
+      "total": 425
     },
     {
       "source": "characteristics - form factors - other types",
       "target": "characteristics - relationship - 1 : m",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 425
     },
     {
       "source": "characteristics - form factors - other types",
       "target": "characteristics - relationship - n : 1",
       "value": 2,
-      "count": 2
+      "count": 2,
+      "total": 425
     },
     {
       "source": "characteristics - form factors - other types",
       "target": "characteristics - relationship - n : m",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 425
     },
     {
       "source": "characteristics - relationship - 1 : 1",
       "target": "characteristics - scale - handheld-scale",
       "value": 17,
-      "count": 13
+      "count": 13,
+      "total": 348
     },
     {
       "source": "characteristics - relationship - 1 : 1",
       "target": "characteristics - scale - tabletop-scale",
-      "value": 68,
-      "count": 52
+      "value": 69,
+      "count": 52,
+      "total": 348
     },
     {
       "source": "characteristics - relationship - 1 : 1",
       "target": "characteristics - scale - body-scale",
-      "value": 290,
-      "count": 220
+      "value": 291,
+      "count": 220,
+      "total": 348
     },
     {
       "source": "characteristics - relationship - 1 : 1",
       "target": "characteristics - scale - building/city-scale",
-      "value": 2,
-      "count": 2
+      "value": 3,
+      "count": 2,
+      "total": 348
     },
     {
       "source": "characteristics - relationship - 1 : m",
       "target": "characteristics - scale - handheld-scale",
-      "value": 3,
-      "count": 3
+      "value": 4,
+      "count": 3,
+      "total": 348
     },
     {
       "source": "characteristics - relationship - 1 : m",
       "target": "characteristics - scale - tabletop-scale",
-      "value": 14,
-      "count": 11
+      "value": 15,
+      "count": 11,
+      "total": 348
     },
     {
       "source": "characteristics - relationship - 1 : m",
       "target": "characteristics - scale - body-scale",
       "value": 25,
-      "count": 19
+      "count": 19,
+      "total": 348
     },
     {
       "source": "characteristics - relationship - 1 : m",
       "target": "characteristics - scale - building/city-scale",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 348
     },
     {
       "source": "characteristics - relationship - n : 1",
       "target": "characteristics - scale - handheld-scale",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 348
     },
     {
       "source": "characteristics - relationship - n : 1",
       "target": "characteristics - scale - tabletop-scale",
       "value": 5,
-      "count": 4
+      "count": 4,
+      "total": 348
     },
     {
       "source": "characteristics - relationship - n : 1",
       "target": "characteristics - scale - body-scale",
       "value": 17,
-      "count": 13
+      "count": 13,
+      "total": 348
     },
     {
       "source": "characteristics - relationship - n : 1",
       "target": "characteristics - scale - building/city-scale",
-      "value": 2,
-      "count": 2
+      "value": 3,
+      "count": 2,
+      "total": 348
     },
     {
       "source": "characteristics - relationship - n : m",
       "target": "characteristics - scale - handheld-scale",
-      "value": 3,
-      "count": 3
+      "value": 4,
+      "count": 3,
+      "total": 348
     },
     {
       "source": "characteristics - relationship - n : m",
       "target": "characteristics - scale - tabletop-scale",
-      "value": 3,
-      "count": 3
+      "value": 4,
+      "count": 3,
+      "total": 348
     },
     {
       "source": "characteristics - relationship - n : m",
       "target": "characteristics - scale - body-scale",
-      "value": 3,
-      "count": 3
+      "value": 4,
+      "count": 3,
+      "total": 348
     },
     {
       "source": "characteristics - relationship - n : m",
       "target": "characteristics - scale - building/city-scale",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 348
     },
     {
       "source": "characteristics - scale - handheld-scale",
       "target": "characteristics - proximity - co-located",
       "value": 10,
-      "count": 8
+      "count": 8,
+      "total": 361
     },
     {
       "source": "characteristics - scale - handheld-scale",
       "target": "characteristics - proximity - co-located with distance",
-      "value": 7,
-      "count": 6
+      "value": 8,
+      "count": 6,
+      "total": 361
     },
     {
       "source": "characteristics - scale - handheld-scale",
       "target": "characteristics - proximity - semi-remote",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 361
     },
     {
       "source": "characteristics - scale - handheld-scale",
       "target": "characteristics - proximity - remote",
       "value": 6,
-      "count": 5
+      "count": 5,
+      "total": 361
     },
     {
       "source": "characteristics - scale - tabletop-scale",
       "target": "characteristics - proximity - co-located",
       "value": 20,
-      "count": 16
+      "count": 16,
+      "total": 361
     },
     {
       "source": "characteristics - scale - tabletop-scale",
       "target": "characteristics - proximity - co-located with distance",
-      "value": 50,
-      "count": 40
+      "value": 51,
+      "count": 40,
+      "total": 361
     },
     {
       "source": "characteristics - scale - tabletop-scale",
       "target": "characteristics - proximity - semi-remote",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 361
     },
     {
       "source": "characteristics - scale - tabletop-scale",
       "target": "characteristics - proximity - remote",
       "value": 19,
-      "count": 15
+      "count": 15,
+      "total": 361
     },
     {
       "source": "characteristics - scale - body-scale",
       "target": "characteristics - proximity - co-located",
       "value": 52,
-      "count": 41
+      "count": 41,
+      "total": 361
     },
     {
       "source": "characteristics - scale - body-scale",
       "target": "characteristics - proximity - co-located with distance",
-      "value": 231,
-      "count": 182
+      "value": 232,
+      "count": 182,
+      "total": 361
     },
     {
       "source": "characteristics - scale - body-scale",
       "target": "characteristics - proximity - semi-remote",
-      "value": 12,
-      "count": 10
+      "value": 13,
+      "count": 10,
+      "total": 361
     },
     {
       "source": "characteristics - scale - body-scale",
       "target": "characteristics - proximity - remote",
       "value": 43,
-      "count": 34
+      "count": 34,
+      "total": 361
     },
     {
       "source": "characteristics - scale - building/city-scale",
       "target": "characteristics - proximity - co-located",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 361
     },
     {
       "source": "characteristics - scale - building/city-scale",
       "target": "characteristics - proximity - co-located with distance",
-      "value": 2,
-      "count": 2
+      "value": 3,
+      "count": 2,
+      "total": 361
     },
     {
       "source": "characteristics - scale - building/city-scale",
       "target": "characteristics - proximity - semi-remote",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 361
     },
     {
       "source": "characteristics - scale - building/city-scale",
       "target": "characteristics - proximity - remote",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 361
     },
     {
       "source": "characteristics - proximity - co-located",
       "target": "purposes - facilitate programming",
       "value": 10,
-      "count": 12
+      "count": 12,
+      "total": 527
     },
     {
       "source": "characteristics - proximity - co-located",
       "target": "purposes - support real-time control",
       "value": 25,
-      "count": 29
+      "count": 29,
+      "total": 527
     },
     {
       "source": "characteristics - proximity - co-located",
       "target": "purposes - improve safety",
       "value": 5,
-      "count": 6
+      "count": 6,
+      "total": 527
     },
     {
       "source": "characteristics - proximity - co-located",
       "target": "purposes - communicate intent",
-      "value": 6,
-      "count": 8
+      "value": 7,
+      "count": 8,
+      "total": 527
     },
     {
       "source": "characteristics - proximity - co-located",
       "target": "purposes - increase expressiveness",
       "value": 26,
-      "count": 30
+      "count": 30,
+      "total": 527
     },
     {
       "source": "characteristics - proximity - co-located with distance",
       "target": "purposes - facilitate programming",
       "value": 100,
-      "count": 115
+      "count": 115,
+      "total": 527
     },
     {
       "source": "characteristics - proximity - co-located with distance",
       "target": "purposes - support real-time control",
-      "value": 50,
-      "count": 58
+      "value": 51,
+      "count": 58,
+      "total": 527
     },
     {
       "source": "characteristics - proximity - co-located with distance",
       "target": "purposes - improve safety",
-      "value": 20,
-      "count": 24
+      "value": 21,
+      "count": 24,
+      "total": 527
     },
     {
       "source": "characteristics - proximity - co-located with distance",
       "target": "purposes - communicate intent",
-      "value": 57,
-      "count": 66
+      "value": 58,
+      "count": 66,
+      "total": 527
     },
     {
       "source": "characteristics - proximity - co-located with distance",
       "target": "purposes - increase expressiveness",
-      "value": 62,
-      "count": 72
+      "value": 63,
+      "count": 72,
+      "total": 527
     },
     {
       "source": "characteristics - proximity - semi-remote",
       "target": "purposes - facilitate programming",
       "value": 6,
-      "count": 7
+      "count": 7,
+      "total": 527
     },
     {
       "source": "characteristics - proximity - semi-remote",
       "target": "purposes - support real-time control",
-      "value": 6,
-      "count": 8
+      "value": 7,
+      "count": 8,
+      "total": 527
     },
     {
       "source": "characteristics - proximity - semi-remote",
       "target": "purposes - improve safety",
-      "value": 0,
-      "count": 1
+      "value": 1,
+      "count": 1,
+      "total": 527
     },
     {
       "source": "characteristics - proximity - semi-remote",
       "target": "purposes - communicate intent",
       "value": 3,
-      "count": 4
+      "count": 4,
+      "total": 527
     },
     {
       "source": "characteristics - proximity - semi-remote",
       "target": "purposes - increase expressiveness",
       "value": 4,
-      "count": 5
+      "count": 5,
+      "total": 527
     },
     {
       "source": "characteristics - proximity - remote",
       "target": "purposes - facilitate programming",
       "value": 24,
-      "count": 28
+      "count": 28,
+      "total": 527
     },
     {
       "source": "characteristics - proximity - remote",
       "target": "purposes - support real-time control",
-      "value": 30,
-      "count": 35
+      "value": 31,
+      "count": 35,
+      "total": 527
     },
     {
       "source": "characteristics - proximity - remote",
       "target": "purposes - improve safety",
-      "value": 0,
-      "count": 1
+      "value": 1,
+      "count": 1,
+      "total": 527
     },
     {
       "source": "characteristics - proximity - remote",
       "target": "purposes - communicate intent",
-      "value": 7,
-      "count": 9
+      "value": 8,
+      "count": 9,
+      "total": 527
     },
     {
       "source": "characteristics - proximity - remote",
       "target": "purposes - increase expressiveness",
-      "value": 7,
-      "count": 9
+      "value": 8,
+      "count": 9,
+      "total": 527
     },
     {
       "source": "purposes - facilitate programming",
       "target": "information - internal information",
-      "value": 30,
-      "count": 55
+      "value": 31,
+      "count": 55,
+      "total": 821
     },
     {
       "source": "purposes - facilitate programming",
       "target": "information - external information",
       "value": 56,
-      "count": 100
+      "count": 100,
+      "total": 821
     },
     {
       "source": "purposes - facilitate programming",
       "target": "information - plan and activity",
       "value": 50,
-      "count": 90
+      "count": 90,
+      "total": 821
     },
     {
       "source": "purposes - facilitate programming",
       "target": "information - supplement content",
       "value": 6,
-      "count": 11
+      "count": 11,
+      "total": 821
     },
     {
       "source": "purposes - support real-time control",
       "target": "information - internal information",
-      "value": 11,
-      "count": 21
+      "value": 12,
+      "count": 21,
+      "total": 821
     },
     {
       "source": "purposes - support real-time control",
       "target": "information - external information",
       "value": 52,
-      "count": 93
+      "count": 93,
+      "total": 821
     },
     {
       "source": "purposes - support real-time control",
       "target": "information - plan and activity",
-      "value": 23,
-      "count": 42
+      "value": 24,
+      "count": 42,
+      "total": 821
     },
     {
       "source": "purposes - support real-time control",
       "target": "information - supplement content",
       "value": 13,
-      "count": 24
+      "count": 24,
+      "total": 821
     },
     {
       "source": "purposes - improve safety",
       "target": "information - internal information",
       "value": 11,
-      "count": 20
+      "count": 20,
+      "total": 821
     },
     {
       "source": "purposes - improve safety",
       "target": "information - external information",
-      "value": 11,
-      "count": 21
+      "value": 12,
+      "count": 21,
+      "total": 821
     },
     {
       "source": "purposes - improve safety",
       "target": "information - plan and activity",
       "value": 11,
-      "count": 20
+      "count": 20,
+      "total": 821
     },
     {
       "source": "purposes - improve safety",
       "target": "information - supplement content",
       "value": 2,
-      "count": 4
+      "count": 4,
+      "total": 821
     },
     {
       "source": "purposes - communicate intent",
       "target": "information - internal information",
       "value": 19,
-      "count": 34
+      "count": 34,
+      "total": 821
     },
     {
       "source": "purposes - communicate intent",
       "target": "information - external information",
-      "value": 29,
-      "count": 53
+      "value": 30,
+      "count": 53,
+      "total": 821
     },
     {
       "source": "purposes - communicate intent",
       "target": "information - plan and activity",
       "value": 36,
-      "count": 65
+      "count": 65,
+      "total": 821
     },
     {
       "source": "purposes - communicate intent",
       "target": "information - supplement content",
       "value": 5,
-      "count": 9
+      "count": 9,
+      "total": 821
     },
     {
       "source": "purposes - increase expressiveness",
       "target": "information - internal information",
       "value": 8,
-      "count": 15
+      "count": 15,
+      "total": 821
     },
     {
       "source": "purposes - increase expressiveness",
       "target": "information - external information",
       "value": 19,
-      "count": 34
+      "count": 34,
+      "total": 821
     },
     {
       "source": "purposes - increase expressiveness",
       "target": "information - plan and activity",
-      "value": 7,
-      "count": 14
+      "value": 8,
+      "count": 14,
+      "total": 821
     },
     {
       "source": "purposes - increase expressiveness",
       "target": "information - supplement content",
-      "value": 53,
-      "count": 96
+      "value": 54,
+      "count": 96,
+      "total": 821
     },
     {
       "source": "information - internal information",
       "target": "design - uis and widgets - menus",
-      "value": 23,
-      "count": 43
+      "value": 24,
+      "count": 43,
+      "total": 836
     },
     {
       "source": "information - internal information",
       "target": "design - uis and widgets - information planels",
-      "value": 24,
-      "count": 45
+      "value": 25,
+      "count": 45,
+      "total": 836
     },
     {
       "source": "information - internal information",
       "target": "design - uis and widgets - labels and annotations",
       "value": 41,
-      "count": 75
+      "count": 75,
+      "total": 836
     },
     {
       "source": "information - internal information",
       "target": "design - uis and widgets - controls and handles",
-      "value": 1,
-      "count": 3
+      "value": 2,
+      "count": 3,
+      "total": 836
     },
     {
       "source": "information - internal information",
       "target": "design - uis and widgets - monitors and displays",
-      "value": 5,
-      "count": 10
+      "value": 6,
+      "count": 10,
+      "total": 836
     },
     {
       "source": "information - external information",
       "target": "design - uis and widgets - menus",
-      "value": 38,
-      "count": 70
+      "value": 39,
+      "count": 70,
+      "total": 836
     },
     {
       "source": "information - external information",
       "target": "design - uis and widgets - information planels",
       "value": 29,
-      "count": 53
+      "count": 53,
+      "total": 836
     },
     {
       "source": "information - external information",
       "target": "design - uis and widgets - labels and annotations",
-      "value": 93,
-      "count": 170
+      "value": 94,
+      "count": 170,
+      "total": 836
     },
     {
       "source": "information - external information",
       "target": "design - uis and widgets - controls and handles",
       "value": 4,
-      "count": 8
+      "count": 8,
+      "total": 836
     },
     {
       "source": "information - external information",
       "target": "design - uis and widgets - monitors and displays",
       "value": 12,
-      "count": 22
+      "count": 22,
+      "total": 836
     },
     {
       "source": "information - plan and activity",
       "target": "design - uis and widgets - menus",
       "value": 26,
-      "count": 48
+      "count": 48,
+      "total": 836
     },
     {
       "source": "information - plan and activity",
       "target": "design - uis and widgets - information planels",
       "value": 19,
-      "count": 35
+      "count": 35,
+      "total": 836
     },
     {
       "source": "information - plan and activity",
       "target": "design - uis and widgets - labels and annotations",
-      "value": 62,
-      "count": 114
+      "value": 63,
+      "count": 114,
+      "total": 836
     },
     {
       "source": "information - plan and activity",
       "target": "design - uis and widgets - controls and handles",
-      "value": 4,
-      "count": 9
+      "value": 5,
+      "count": 9,
+      "total": 836
     },
     {
       "source": "information - plan and activity",
       "target": "design - uis and widgets - monitors and displays",
-      "value": 5,
-      "count": 10
+      "value": 6,
+      "count": 10,
+      "total": 836
     },
     {
       "source": "information - supplement content",
       "target": "design - uis and widgets - menus",
-      "value": 14,
-      "count": 27
+      "value": 15,
+      "count": 27,
+      "total": 836
     },
     {
       "source": "information - supplement content",
       "target": "design - uis and widgets - information planels",
-      "value": 9,
-      "count": 18
+      "value": 10,
+      "count": 18,
+      "total": 836
     },
     {
       "source": "information - supplement content",
       "target": "design - uis and widgets - labels and annotations",
       "value": 23,
-      "count": 42
+      "count": 42,
+      "total": 836
     },
     {
       "source": "information - supplement content",
       "target": "design - uis and widgets - controls and handles",
-      "value": 5,
-      "count": 10
+      "value": 6,
+      "count": 10,
+      "total": 836
     },
     {
       "source": "information - supplement content",
       "target": "design - uis and widgets - monitors and displays",
       "value": 13,
-      "count": 24
+      "count": 24,
+      "total": 836
     },
     {
       "source": "design - uis and widgets - menus",
       "target": "design - spatial references and visualizations - points and locations",
-      "value": 37,
-      "count": 76
+      "value": 38,
+      "count": 76,
+      "total": 922
     },
     {
       "source": "design - uis and widgets - menus",
       "target": "design - spatial references and visualizations - paths and trajectories",
       "value": 26,
-      "count": 53
+      "count": 53,
+      "total": 922
     },
     {
       "source": "design - uis and widgets - menus",
       "target": "design - spatial references and visualizations - areas and boundaries",
-      "value": 29,
-      "count": 60
+      "value": 30,
+      "count": 60,
+      "total": 922
     },
     {
       "source": "design - uis and widgets - menus",
       "target": "design - spatial references and visualizations - other visualizations",
-      "value": 8,
-      "count": 18
+      "value": 9,
+      "count": 18,
+      "total": 922
     },
     {
       "source": "design - uis and widgets - information planels",
       "target": "design - spatial references and visualizations - points and locations",
       "value": 24,
-      "count": 49
+      "count": 49,
+      "total": 922
     },
     {
       "source": "design - uis and widgets - information planels",
       "target": "design - spatial references and visualizations - paths and trajectories",
       "value": 20,
-      "count": 41
+      "count": 41,
+      "total": 922
     },
     {
       "source": "design - uis and widgets - information planels",
       "target": "design - spatial references and visualizations - areas and boundaries",
-      "value": 18,
-      "count": 38
+      "value": 19,
+      "count": 38,
+      "total": 922
     },
     {
       "source": "design - uis and widgets - information planels",
       "target": "design - spatial references and visualizations - other visualizations",
-      "value": 4,
-      "count": 10
+      "value": 5,
+      "count": 10,
+      "total": 922
     },
     {
       "source": "design - uis and widgets - labels and annotations",
       "target": "design - spatial references and visualizations - points and locations",
-      "value": 94,
-      "count": 190
+      "value": 95,
+      "count": 190,
+      "total": 922
     },
     {
       "source": "design - uis and widgets - labels and annotations",
       "target": "design - spatial references and visualizations - paths and trajectories",
       "value": 62,
-      "count": 125
+      "count": 125,
+      "total": 922
     },
     {
       "source": "design - uis and widgets - labels and annotations",
       "target": "design - spatial references and visualizations - areas and boundaries",
-      "value": 70,
-      "count": 142
+      "value": 71,
+      "count": 142,
+      "total": 922
     },
     {
       "source": "design - uis and widgets - labels and annotations",
       "target": "design - spatial references and visualizations - other visualizations",
-      "value": 8,
-      "count": 18
+      "value": 9,
+      "count": 18,
+      "total": 922
     },
     {
       "source": "design - uis and widgets - controls and handles",
       "target": "design - spatial references and visualizations - points and locations",
-      "value": 4,
-      "count": 10
+      "value": 5,
+      "count": 10,
+      "total": 922
     },
     {
       "source": "design - uis and widgets - controls and handles",
       "target": "design - spatial references and visualizations - paths and trajectories",
-      "value": 3,
-      "count": 8
+      "value": 4,
+      "count": 8,
+      "total": 922
     },
     {
       "source": "design - uis and widgets - controls and handles",
       "target": "design - spatial references and visualizations - areas and boundaries",
       "value": 3,
-      "count": 7
+      "count": 7,
+      "total": 922
     },
     {
       "source": "design - uis and widgets - controls and handles",
       "target": "design - spatial references and visualizations - other visualizations",
       "value": 5,
-      "count": 11
+      "count": 11,
+      "total": 922
     },
     {
       "source": "design - uis and widgets - monitors and displays",
       "target": "design - spatial references and visualizations - points and locations",
-      "value": 7,
-      "count": 16
+      "value": 8,
+      "count": 16,
+      "total": 922
     },
     {
       "source": "design - uis and widgets - monitors and displays",
       "target": "design - spatial references and visualizations - paths and trajectories",
-      "value": 6,
-      "count": 14
+      "value": 7,
+      "count": 14,
+      "total": 922
     },
     {
       "source": "design - uis and widgets - monitors and displays",
       "target": "design - spatial references and visualizations - areas and boundaries",
       "value": 8,
-      "count": 17
+      "count": 17,
+      "total": 922
     },
     {
       "source": "design - uis and widgets - monitors and displays",
       "target": "design - spatial references and visualizations - other visualizations",
       "value": 9,
-      "count": 19
+      "count": 19,
+      "total": 922
     },
     {
       "source": "design - spatial references and visualizations - points and locations",
       "target": "design - embedded visual effects - anthropomorphic",
       "value": 8,
-      "count": 6
+      "count": 6,
+      "total": 341
     },
     {
       "source": "design - spatial references and visualizations - points and locations",
       "target": "design - embedded visual effects - visual replica",
-      "value": 133,
-      "count": 99
+      "value": 134,
+      "count": 99,
+      "total": 341
     },
     {
       "source": "design - spatial references and visualizations - points and locations",
       "target": "design - embedded visual effects - texture mapping",
-      "value": 6,
-      "count": 5
+      "value": 7,
+      "count": 5,
+      "total": 341
     },
     {
       "source": "design - spatial references and visualizations - paths and trajectories",
       "target": "design - embedded visual effects - anthropomorphic",
       "value": 8,
-      "count": 6
+      "count": 6,
+      "total": 341
     },
     {
       "source": "design - spatial references and visualizations - paths and trajectories",
       "target": "design - embedded visual effects - visual replica",
-      "value": 126,
-      "count": 94
+      "value": 127,
+      "count": 94,
+      "total": 341
     },
     {
       "source": "design - spatial references and visualizations - paths and trajectories",
       "target": "design - embedded visual effects - texture mapping",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 341
     },
     {
       "source": "design - spatial references and visualizations - areas and boundaries",
       "target": "design - embedded visual effects - anthropomorphic",
-      "value": 2,
-      "count": 2
+      "value": 3,
+      "count": 2,
+      "total": 341
     },
     {
       "source": "design - spatial references and visualizations - areas and boundaries",
       "target": "design - embedded visual effects - visual replica",
       "value": 101,
-      "count": 75
+      "count": 75,
+      "total": 341
     },
     {
       "source": "design - spatial references and visualizations - areas and boundaries",
       "target": "design - embedded visual effects - texture mapping",
       "value": 12,
-      "count": 9
+      "count": 9,
+      "total": 341
     },
     {
       "source": "design - spatial references and visualizations - other visualizations",
       "target": "design - embedded visual effects - anthropomorphic",
       "value": 12,
-      "count": 9
+      "count": 9,
+      "total": 341
     },
     {
       "source": "design - spatial references and visualizations - other visualizations",
       "target": "design - embedded visual effects - visual replica",
       "value": 20,
-      "count": 15
+      "count": 15,
+      "total": 341
     },
     {
       "source": "design - spatial references and visualizations - other visualizations",
       "target": "design - embedded visual effects - texture mapping",
       "value": 28,
-      "count": 21
+      "count": 21,
+      "total": 341
     },
     {
       "source": "design - embedded visual effects - anthropomorphic",
       "target": "interactions - interactivity - only output",
       "value": 16,
-      "count": 7
+      "count": 7,
+      "total": 199
     },
     {
       "source": "design - embedded visual effects - anthropomorphic",
       "target": "interactions - interactivity - implicit",
       "value": 2,
-      "count": 1
+      "count": 1,
+      "total": 199
     },
     {
       "source": "design - embedded visual effects - anthropomorphic",
       "target": "interactions - interactivity - indirect",
       "value": 25,
-      "count": 11
+      "count": 11,
+      "total": 199
     },
     {
       "source": "design - embedded visual effects - anthropomorphic",
       "target": "interactions - interactivity - direct",
-      "value": 4,
-      "count": 2
+      "value": 5,
+      "count": 2,
+      "total": 199
     },
     {
       "source": "design - embedded visual effects - visual replica",
       "target": "interactions - interactivity - only output",
-      "value": 6,
-      "count": 3
+      "value": 7,
+      "count": 3,
+      "total": 199
     },
     {
       "source": "design - embedded visual effects - visual replica",
       "target": "interactions - interactivity - implicit",
-      "value": 6,
-      "count": 3
+      "value": 7,
+      "count": 3,
+      "total": 199
     },
     {
       "source": "design - embedded visual effects - visual replica",
       "target": "interactions - interactivity - indirect",
       "value": 291,
-      "count": 126
+      "count": 126,
+      "total": 199
     },
     {
       "source": "design - embedded visual effects - visual replica",
       "target": "interactions - interactivity - direct",
-      "value": 34,
-      "count": 15
+      "value": 35,
+      "count": 15,
+      "total": 199
     },
     {
       "source": "design - embedded visual effects - texture mapping",
       "target": "interactions - interactivity - only output",
       "value": 2,
-      "count": 1
+      "count": 1,
+      "total": 199
     },
     {
       "source": "design - embedded visual effects - texture mapping",
       "target": "interactions - interactivity - implicit",
-      "value": 4,
-      "count": 2
+      "value": 5,
+      "count": 2,
+      "total": 199
     },
     {
       "source": "design - embedded visual effects - texture mapping",
       "target": "interactions - interactivity - indirect",
       "value": 9,
-      "count": 4
+      "count": 4,
+      "total": 199
     },
     {
       "source": "design - embedded visual effects - texture mapping",
       "target": "interactions - interactivity - direct",
       "value": 55,
-      "count": 24
+      "count": 24,
+      "total": 199
     },
     {
       "source": "interactions - interactivity - only output",
       "target": "interactions - interaction modalities - tangible",
-      "value": 0,
-      "count": 1
+      "value": 1,
+      "count": 1,
+      "total": 463
     },
     {
       "source": "interactions - interactivity - only output",
       "target": "interactions - interaction modalities - touch",
-      "value": 1,
-      "count": 2
+      "value": 2,
+      "count": 2,
+      "total": 463
     },
     {
       "source": "interactions - interactivity - only output",
       "target": "interactions - interaction modalities - controller",
-      "value": 5,
-      "count": 6
+      "value": 6,
+      "count": 6,
+      "total": 463
     },
     {
       "source": "interactions - interactivity - only output",
+      "target": "interactions - interaction modalities - gesture",
+      "value": 3,
+      "count": 3,
+      "total": 463
+    },
+    {
+      "source": "interactions - interactivity - only output",
+      "target": "interactions - interaction modalities - gaze",
+      "value": 0,
+      "count": 0,
+      "total": 463
+    },
+    {
+      "source": "interactions - interactivity - only output",
+      "target": "interactions - interaction modalities - voice",
+      "value": 1,
+      "count": 1,
+      "total": 463
+    },
+    {
+      "source": "interactions - interactivity - only output",
+      "target": "interactions - interaction modalities - proximity",
+      "value": 0,
+      "count": 0,
+      "total": 463
+    },
+    {
+      "source": "interactions - interactivity - implicit",
+      "target": "interactions - interaction modalities - tangible",
+      "value": 2,
+      "count": 2,
+      "total": 463
+    },
+    {
+      "source": "interactions - interactivity - implicit",
+      "target": "interactions - interaction modalities - touch",
+      "value": 0,
+      "count": 0,
+      "total": 463
+    },
+    {
+      "source": "interactions - interactivity - implicit",
+      "target": "interactions - interaction modalities - controller",
+      "value": 1,
+      "count": 1,
+      "total": 463
+    },
+    {
+      "source": "interactions - interactivity - implicit",
       "target": "interactions - interaction modalities - gesture",
       "value": 2,
-      "count": 3
-    },
-    {
-      "source": "interactions - interactivity - only output",
-      "target": "interactions - interaction modalities - gaze",
-      "value": 0,
-      "count": 0
-    },
-    {
-      "source": "interactions - interactivity - only output",
-      "target": "interactions - interaction modalities - voice",
-      "value": 0,
-      "count": 1
-    },
-    {
-      "source": "interactions - interactivity - only output",
-      "target": "interactions - interaction modalities - proximity",
-      "value": 0,
-      "count": 0
+      "count": 2,
+      "total": 463
     },
     {
       "source": "interactions - interactivity - implicit",
-      "target": "interactions - interaction modalities - tangible",
+      "target": "interactions - interaction modalities - gaze",
       "value": 1,
-      "count": 2
-    },
-    {
-      "source": "interactions - interactivity - implicit",
-      "target": "interactions - interaction modalities - touch",
-      "value": 0,
-      "count": 0
-    },
-    {
-      "source": "interactions - interactivity - implicit",
-      "target": "interactions - interaction modalities - controller",
-      "value": 0,
-      "count": 1
-    },
-    {
-      "source": "interactions - interactivity - implicit",
-      "target": "interactions - interaction modalities - gesture",
-      "value": 1,
-      "count": 2
-    },
-    {
-      "source": "interactions - interactivity - implicit",
-      "target": "interactions - interaction modalities - gaze",
-      "value": 0,
-      "count": 1
+      "count": 1,
+      "total": 463
     },
     {
       "source": "interactions - interactivity - implicit",
       "target": "interactions - interaction modalities - voice",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 463
     },
     {
       "source": "interactions - interactivity - implicit",
       "target": "interactions - interaction modalities - proximity",
-      "value": 3,
-      "count": 4
-    },
-    {
-      "source": "interactions - interactivity - indirect",
-      "target": "interactions - interaction modalities - tangible",
-      "value": 29,
-      "count": 30
-    },
-    {
-      "source": "interactions - interactivity - indirect",
-      "target": "interactions - interaction modalities - touch",
-      "value": 59,
-      "count": 60
-    },
-    {
-      "source": "interactions - interactivity - indirect",
-      "target": "interactions - interaction modalities - controller",
-      "value": 109,
-      "count": 110
-    },
-    {
-      "source": "interactions - interactivity - indirect",
-      "target": "interactions - interaction modalities - gesture",
-      "value": 109,
-      "count": 110
-    },
-    {
-      "source": "interactions - interactivity - indirect",
-      "target": "interactions - interaction modalities - gaze",
-      "value": 10,
-      "count": 11
-    },
-    {
-      "source": "interactions - interactivity - indirect",
-      "target": "interactions - interaction modalities - voice",
-      "value": 15,
-      "count": 16
-    },
-    {
-      "source": "interactions - interactivity - indirect",
-      "target": "interactions - interaction modalities - proximity",
-      "value": 15,
-      "count": 16
-    },
-    {
-      "source": "interactions - interactivity - direct",
-      "target": "interactions - interaction modalities - tangible",
-      "value": 42,
-      "count": 43
-    },
-    {
-      "source": "interactions - interactivity - direct",
-      "target": "interactions - interaction modalities - touch",
-      "value": 8,
-      "count": 9
-    },
-    {
-      "source": "interactions - interactivity - direct",
-      "target": "interactions - interaction modalities - controller",
-      "value": 25,
-      "count": 26
-    },
-    {
-      "source": "interactions - interactivity - direct",
-      "target": "interactions - interaction modalities - gesture",
       "value": 4,
-      "count": 5
+      "count": 4,
+      "total": 463
+    },
+    {
+      "source": "interactions - interactivity - indirect",
+      "target": "interactions - interaction modalities - tangible",
+      "value": 30,
+      "count": 30,
+      "total": 463
+    },
+    {
+      "source": "interactions - interactivity - indirect",
+      "target": "interactions - interaction modalities - touch",
+      "value": 60,
+      "count": 60,
+      "total": 463
+    },
+    {
+      "source": "interactions - interactivity - indirect",
+      "target": "interactions - interaction modalities - controller",
+      "value": 109,
+      "count": 110,
+      "total": 463
+    },
+    {
+      "source": "interactions - interactivity - indirect",
+      "target": "interactions - interaction modalities - gesture",
+      "value": 109,
+      "count": 110,
+      "total": 463
+    },
+    {
+      "source": "interactions - interactivity - indirect",
+      "target": "interactions - interaction modalities - gaze",
+      "value": 11,
+      "count": 11,
+      "total": 463
+    },
+    {
+      "source": "interactions - interactivity - indirect",
+      "target": "interactions - interaction modalities - voice",
+      "value": 16,
+      "count": 16,
+      "total": 463
+    },
+    {
+      "source": "interactions - interactivity - indirect",
+      "target": "interactions - interaction modalities - proximity",
+      "value": 16,
+      "count": 16,
+      "total": 463
+    },
+    {
+      "source": "interactions - interactivity - direct",
+      "target": "interactions - interaction modalities - tangible",
+      "value": 43,
+      "count": 43,
+      "total": 463
+    },
+    {
+      "source": "interactions - interactivity - direct",
+      "target": "interactions - interaction modalities - touch",
+      "value": 9,
+      "count": 9,
+      "total": 463
+    },
+    {
+      "source": "interactions - interactivity - direct",
+      "target": "interactions - interaction modalities - controller",
+      "value": 26,
+      "count": 26,
+      "total": 463
+    },
+    {
+      "source": "interactions - interactivity - direct",
+      "target": "interactions - interaction modalities - gesture",
+      "value": 5,
+      "count": 5,
+      "total": 463
     },
     {
       "source": "interactions - interactivity - direct",
       "target": "interactions - interaction modalities - gaze",
-      "value": 1,
-      "count": 2
+      "value": 2,
+      "count": 2,
+      "total": 463
     },
     {
       "source": "interactions - interactivity - direct",
       "target": "interactions - interaction modalities - voice",
-      "value": 0,
-      "count": 1
+      "value": 1,
+      "count": 1,
+      "total": 463
     },
     {
       "source": "interactions - interactivity - direct",
       "target": "interactions - interaction modalities - proximity",
-      "value": 0,
-      "count": 1
+      "value": 1,
+      "count": 1,
+      "total": 463
     },
     {
       "source": "interactions - interaction modalities - tangible",
       "target": "applications - domestic and everyday use",
       "value": 2,
-      "count": 2
+      "count": 2,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - tangible",
       "target": "applications - industry",
       "value": 23,
-      "count": 23
+      "count": 23,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - tangible",
       "target": "applications - entertainment",
       "value": 12,
-      "count": 12
+      "count": 12,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - tangible",
       "target": "applications - education and training",
       "value": 6,
-      "count": 6
+      "count": 6,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - tangible",
       "target": "applications - social interaction",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - tangible",
       "target": "applications - design and creative tasks",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - tangible",
       "target": "applications - medical and health",
       "value": 12,
-      "count": 12
+      "count": 12,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - tangible",
       "target": "applications - remote collaboration",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - tangible",
       "target": "applications - mobility and transportation",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - tangible",
       "target": "applications - search and rescue",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - tangible",
       "target": "applications - workspace",
       "value": 2,
-      "count": 2
+      "count": 2,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - tangible",
       "target": "applications - data physicalization",
       "value": 11,
-      "count": 11
+      "count": 11,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - touch",
       "target": "applications - domestic and everyday use",
       "value": 15,
-      "count": 15
+      "count": 15,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - touch",
       "target": "applications - industry",
       "value": 32,
-      "count": 32
+      "count": 32,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - touch",
       "target": "applications - entertainment",
       "value": 6,
-      "count": 6
+      "count": 6,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - touch",
       "target": "applications - education and training",
       "value": 3,
-      "count": 3
+      "count": 3,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - touch",
       "target": "applications - social interaction",
       "value": 4,
-      "count": 4
+      "count": 4,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - touch",
       "target": "applications - design and creative tasks",
       "value": 2,
-      "count": 2
+      "count": 2,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - touch",
       "target": "applications - medical and health",
       "value": 5,
-      "count": 5
+      "count": 5,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - touch",
       "target": "applications - remote collaboration",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - touch",
       "target": "applications - mobility and transportation",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - touch",
       "target": "applications - search and rescue",
       "value": 2,
-      "count": 2
+      "count": 2,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - touch",
       "target": "applications - workspace",
       "value": 4,
-      "count": 4
+      "count": 4,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - touch",
       "target": "applications - data physicalization",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - controller",
       "target": "applications - domestic and everyday use",
       "value": 9,
-      "count": 9
+      "count": 9,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - controller",
       "target": "applications - industry",
-      "value": 47,
-      "count": 47
+      "value": 48,
+      "count": 47,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - controller",
       "target": "applications - entertainment",
       "value": 9,
-      "count": 9
+      "count": 9,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - controller",
       "target": "applications - education and training",
       "value": 5,
-      "count": 5
+      "count": 5,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - controller",
       "target": "applications - social interaction",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - controller",
       "target": "applications - design and creative tasks",
       "value": 4,
-      "count": 4
+      "count": 4,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - controller",
       "target": "applications - medical and health",
       "value": 18,
-      "count": 18
+      "count": 18,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - controller",
       "target": "applications - remote collaboration",
       "value": 3,
-      "count": 3
+      "count": 3,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - controller",
       "target": "applications - mobility and transportation",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - controller",
       "target": "applications - search and rescue",
       "value": 20,
-      "count": 20
+      "count": 20,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - controller",
       "target": "applications - workspace",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - controller",
       "target": "applications - data physicalization",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - gesture",
       "target": "applications - domestic and everyday use",
       "value": 8,
-      "count": 8
+      "count": 8,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - gesture",
       "target": "applications - industry",
-      "value": 70,
-      "count": 70
+      "value": 71,
+      "count": 70,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - gesture",
       "target": "applications - entertainment",
       "value": 7,
-      "count": 7
+      "count": 7,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - gesture",
       "target": "applications - education and training",
       "value": 9,
-      "count": 9
+      "count": 9,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - gesture",
       "target": "applications - social interaction",
       "value": 10,
-      "count": 10
+      "count": 10,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - gesture",
       "target": "applications - design and creative tasks",
       "value": 5,
-      "count": 5
+      "count": 5,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - gesture",
       "target": "applications - medical and health",
       "value": 2,
-      "count": 2
+      "count": 2,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - gesture",
       "target": "applications - remote collaboration",
       "value": 2,
-      "count": 2
+      "count": 2,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - gesture",
       "target": "applications - mobility and transportation",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - gesture",
       "target": "applications - search and rescue",
       "value": 10,
-      "count": 10
+      "count": 10,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - gesture",
       "target": "applications - workspace",
       "value": 4,
-      "count": 4
+      "count": 4,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - gesture",
       "target": "applications - data physicalization",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - gaze",
       "target": "applications - domestic and everyday use",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - gaze",
       "target": "applications - industry",
       "value": 9,
-      "count": 9
+      "count": 9,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - gaze",
       "target": "applications - entertainment",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - gaze",
       "target": "applications - education and training",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - gaze",
       "target": "applications - social interaction",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - gaze",
       "target": "applications - design and creative tasks",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - gaze",
       "target": "applications - medical and health",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - gaze",
       "target": "applications - remote collaboration",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - gaze",
       "target": "applications - mobility and transportation",
       "value": 2,
-      "count": 2
+      "count": 2,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - gaze",
       "target": "applications - search and rescue",
       "value": 3,
-      "count": 3
+      "count": 3,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - gaze",
       "target": "applications - workspace",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - gaze",
       "target": "applications - data physicalization",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - voice",
       "target": "applications - domestic and everyday use",
       "value": 3,
-      "count": 3
+      "count": 3,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - voice",
       "target": "applications - industry",
       "value": 7,
-      "count": 7
+      "count": 7,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - voice",
       "target": "applications - entertainment",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - voice",
       "target": "applications - education and training",
       "value": 2,
-      "count": 2
+      "count": 2,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - voice",
       "target": "applications - social interaction",
       "value": 4,
-      "count": 4
+      "count": 4,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - voice",
       "target": "applications - design and creative tasks",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - voice",
       "target": "applications - medical and health",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - voice",
       "target": "applications - remote collaboration",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - voice",
       "target": "applications - mobility and transportation",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - voice",
       "target": "applications - search and rescue",
       "value": 3,
-      "count": 3
+      "count": 3,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - voice",
       "target": "applications - workspace",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - voice",
       "target": "applications - data physicalization",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - proximity",
       "target": "applications - domestic and everyday use",
       "value": 3,
-      "count": 3
+      "count": 3,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - proximity",
       "target": "applications - industry",
       "value": 7,
-      "count": 7
+      "count": 7,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - proximity",
       "target": "applications - entertainment",
       "value": 4,
-      "count": 4
+      "count": 4,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - proximity",
       "target": "applications - education and training",
       "value": 2,
-      "count": 2
+      "count": 2,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - proximity",
       "target": "applications - social interaction",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - proximity",
       "target": "applications - design and creative tasks",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - proximity",
       "target": "applications - medical and health",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - proximity",
       "target": "applications - remote collaboration",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - proximity",
       "target": "applications - mobility and transportation",
       "value": 2,
-      "count": 2
+      "count": 2,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - proximity",
       "target": "applications - search and rescue",
       "value": 3,
-      "count": 3
+      "count": 3,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - proximity",
       "target": "applications - workspace",
       "value": 2,
-      "count": 2
+      "count": 2,
+      "total": 454
     },
     {
       "source": "interactions - interaction modalities - proximity",
       "target": "applications - data physicalization",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 454
     },
     {
       "source": "applications - domestic and everyday use",
       "target": "evaluation - demonstration - workshop",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
       "target": "evaluation - demonstration - theoretical framework",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
       "target": "evaluation - demonstration - example applications",
       "value": 8,
-      "count": 6
+      "count": 6,
+      "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
       "target": "evaluation - demonstration - focus groups",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
       "target": "evaluation - demonstration - early demonstrations",
-      "value": 6,
-      "count": 5
+      "value": 7,
+      "count": 5,
+      "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
       "target": "evaluation - demonstration - case studies",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
       "target": "evaluation - demonstration - conceptual",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
       "target": "evaluation - technical - time",
-      "value": 2,
-      "count": 2
+      "value": 3,
+      "count": 2,
+      "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
       "target": "evaluation - technical - accuracy",
-      "value": 6,
-      "count": 5
+      "value": 7,
+      "count": 5,
+      "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
       "target": "evaluation - technical - system performance",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
       "target": "evaluation - technical - success rate",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
       "target": "evaluation - user evaluation - nasa tls",
       "value": 4,
-      "count": 3
+      "count": 3,
+      "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
       "target": "evaluation - user evaluation - interviews",
       "value": 4,
-      "count": 3
+      "count": 3,
+      "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
       "target": "evaluation - user evaluation - questionnaires",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
       "target": "evaluation - user evaluation - lab study with users",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
       "target": "evaluation - user evaluation - qualitative study",
       "value": 4,
-      "count": 3
+      "count": 3,
+      "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
       "target": "evaluation - user evaluation - quantitative study",
       "value": 5,
-      "count": 4
+      "count": 4,
+      "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
       "target": "evaluation - user evaluation - lab study with experts",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
       "target": "evaluation - user evaluation - observational",
       "value": 4,
-      "count": 3
+      "count": 3,
+      "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
       "target": "evaluation - user evaluation - user feedback",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - industry",
       "target": "evaluation - demonstration - workshop",
       "value": 4,
-      "count": 3
+      "count": 3,
+      "total": 343
     },
     {
       "source": "applications - industry",
       "target": "evaluation - demonstration - theoretical framework",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - industry",
       "target": "evaluation - demonstration - example applications",
       "value": 21,
-      "count": 16
+      "count": 16,
+      "total": 343
     },
     {
       "source": "applications - industry",
       "target": "evaluation - demonstration - focus groups",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - industry",
       "target": "evaluation - demonstration - early demonstrations",
-      "value": 14,
-      "count": 11
+      "value": 15,
+      "count": 11,
+      "total": 343
     },
     {
       "source": "applications - industry",
       "target": "evaluation - demonstration - case studies",
       "value": 5,
-      "count": 4
+      "count": 4,
+      "total": 343
     },
     {
       "source": "applications - industry",
       "target": "evaluation - demonstration - conceptual",
       "value": 5,
-      "count": 4
+      "count": 4,
+      "total": 343
     },
     {
       "source": "applications - industry",
       "target": "evaluation - technical - time",
       "value": 16,
-      "count": 12
+      "count": 12,
+      "total": 343
     },
     {
       "source": "applications - industry",
       "target": "evaluation - technical - accuracy",
       "value": 20,
-      "count": 15
+      "count": 15,
+      "total": 343
     },
     {
       "source": "applications - industry",
       "target": "evaluation - technical - system performance",
-      "value": 30,
-      "count": 23
+      "value": 31,
+      "count": 23,
+      "total": 343
     },
     {
       "source": "applications - industry",
       "target": "evaluation - technical - success rate",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - industry",
       "target": "evaluation - user evaluation - nasa tls",
       "value": 21,
-      "count": 16
+      "count": 16,
+      "total": 343
     },
     {
       "source": "applications - industry",
       "target": "evaluation - user evaluation - interviews",
       "value": 5,
-      "count": 4
+      "count": 4,
+      "total": 343
     },
     {
       "source": "applications - industry",
       "target": "evaluation - user evaluation - questionnaires",
       "value": 16,
-      "count": 12
+      "count": 12,
+      "total": 343
     },
     {
       "source": "applications - industry",
       "target": "evaluation - user evaluation - lab study with users",
-      "value": 6,
-      "count": 5
+      "value": 7,
+      "count": 5,
+      "total": 343
     },
     {
       "source": "applications - industry",
       "target": "evaluation - user evaluation - qualitative study",
       "value": 9,
-      "count": 7
+      "count": 7,
+      "total": 343
     },
     {
       "source": "applications - industry",
       "target": "evaluation - user evaluation - quantitative study",
       "value": 13,
-      "count": 10
+      "count": 10,
+      "total": 343
     },
     {
       "source": "applications - industry",
       "target": "evaluation - user evaluation - lab study with experts",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - industry",
       "target": "evaluation - user evaluation - observational",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - industry",
       "target": "evaluation - user evaluation - user feedback",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - entertainment",
       "target": "evaluation - demonstration - workshop",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - entertainment",
       "target": "evaluation - demonstration - theoretical framework",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - entertainment",
       "target": "evaluation - demonstration - example applications",
-      "value": 2,
-      "count": 2
+      "value": 3,
+      "count": 2,
+      "total": 343
     },
     {
       "source": "applications - entertainment",
       "target": "evaluation - demonstration - focus groups",
-      "value": 2,
-      "count": 2
+      "value": 3,
+      "count": 2,
+      "total": 343
     },
     {
       "source": "applications - entertainment",
       "target": "evaluation - demonstration - early demonstrations",
       "value": 12,
-      "count": 9
+      "count": 9,
+      "total": 343
     },
     {
       "source": "applications - entertainment",
       "target": "evaluation - demonstration - case studies",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - entertainment",
       "target": "evaluation - demonstration - conceptual",
-      "value": 2,
-      "count": 2
+      "value": 3,
+      "count": 2,
+      "total": 343
     },
     {
       "source": "applications - entertainment",
       "target": "evaluation - technical - time",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - entertainment",
       "target": "evaluation - technical - accuracy",
-      "value": 2,
-      "count": 2
+      "value": 3,
+      "count": 2,
+      "total": 343
     },
     {
       "source": "applications - entertainment",
       "target": "evaluation - technical - system performance",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - entertainment",
       "target": "evaluation - technical - success rate",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - entertainment",
       "target": "evaluation - user evaluation - nasa tls",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - entertainment",
       "target": "evaluation - user evaluation - interviews",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - entertainment",
       "target": "evaluation - user evaluation - questionnaires",
-      "value": 2,
-      "count": 2
+      "value": 3,
+      "count": 2,
+      "total": 343
     },
     {
       "source": "applications - entertainment",
       "target": "evaluation - user evaluation - lab study with users",
       "value": 4,
-      "count": 3
+      "count": 3,
+      "total": 343
     },
     {
       "source": "applications - entertainment",
       "target": "evaluation - user evaluation - qualitative study",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - entertainment",
       "target": "evaluation - user evaluation - quantitative study",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - entertainment",
       "target": "evaluation - user evaluation - lab study with experts",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - entertainment",
       "target": "evaluation - user evaluation - observational",
       "value": 4,
-      "count": 3
+      "count": 3,
+      "total": 343
     },
     {
       "source": "applications - entertainment",
       "target": "evaluation - user evaluation - user feedback",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - education and training",
       "target": "evaluation - demonstration - workshop",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - education and training",
       "target": "evaluation - demonstration - theoretical framework",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - education and training",
       "target": "evaluation - demonstration - example applications",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - education and training",
       "target": "evaluation - demonstration - focus groups",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - education and training",
       "target": "evaluation - demonstration - early demonstrations",
-      "value": 2,
-      "count": 2
+      "value": 3,
+      "count": 2,
+      "total": 343
     },
     {
       "source": "applications - education and training",
       "target": "evaluation - demonstration - case studies",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - education and training",
       "target": "evaluation - demonstration - conceptual",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - education and training",
       "target": "evaluation - technical - time",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - education and training",
       "target": "evaluation - technical - accuracy",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - education and training",
       "target": "evaluation - technical - system performance",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - education and training",
       "target": "evaluation - technical - success rate",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - education and training",
       "target": "evaluation - user evaluation - nasa tls",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - education and training",
       "target": "evaluation - user evaluation - interviews",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - education and training",
       "target": "evaluation - user evaluation - questionnaires",
       "value": 8,
-      "count": 6
+      "count": 6,
+      "total": 343
     },
     {
       "source": "applications - education and training",
       "target": "evaluation - user evaluation - lab study with users",
-      "value": 2,
-      "count": 2
+      "value": 3,
+      "count": 2,
+      "total": 343
     },
     {
       "source": "applications - education and training",
       "target": "evaluation - user evaluation - qualitative study",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - education and training",
       "target": "evaluation - user evaluation - quantitative study",
-      "value": 2,
-      "count": 2
+      "value": 3,
+      "count": 2,
+      "total": 343
     },
     {
       "source": "applications - education and training",
       "target": "evaluation - user evaluation - lab study with experts",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - education and training",
       "target": "evaluation - user evaluation - observational",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - education and training",
       "target": "evaluation - user evaluation - user feedback",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - social interaction",
       "target": "evaluation - demonstration - workshop",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - social interaction",
       "target": "evaluation - demonstration - theoretical framework",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - social interaction",
       "target": "evaluation - demonstration - example applications",
-      "value": 2,
-      "count": 2
+      "value": 3,
+      "count": 2,
+      "total": 343
     },
     {
       "source": "applications - social interaction",
       "target": "evaluation - demonstration - focus groups",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - social interaction",
       "target": "evaluation - demonstration - early demonstrations",
       "value": 4,
-      "count": 3
+      "count": 3,
+      "total": 343
     },
     {
       "source": "applications - social interaction",
       "target": "evaluation - demonstration - case studies",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - social interaction",
       "target": "evaluation - demonstration - conceptual",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - social interaction",
       "target": "evaluation - technical - time",
-      "value": 2,
-      "count": 2
+      "value": 3,
+      "count": 2,
+      "total": 343
     },
     {
       "source": "applications - social interaction",
       "target": "evaluation - technical - accuracy",
-      "value": 2,
-      "count": 2
+      "value": 3,
+      "count": 2,
+      "total": 343
     },
     {
       "source": "applications - social interaction",
       "target": "evaluation - technical - system performance",
-      "value": 2,
-      "count": 2
+      "value": 3,
+      "count": 2,
+      "total": 343
     },
     {
       "source": "applications - social interaction",
       "target": "evaluation - technical - success rate",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - social interaction",
       "target": "evaluation - user evaluation - nasa tls",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - social interaction",
       "target": "evaluation - user evaluation - interviews",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - social interaction",
       "target": "evaluation - user evaluation - questionnaires",
-      "value": 2,
-      "count": 2
+      "value": 3,
+      "count": 2,
+      "total": 343
     },
     {
       "source": "applications - social interaction",
       "target": "evaluation - user evaluation - lab study with users",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - social interaction",
       "target": "evaluation - user evaluation - qualitative study",
-      "value": 2,
-      "count": 2
+      "value": 3,
+      "count": 2,
+      "total": 343
     },
     {
       "source": "applications - social interaction",
       "target": "evaluation - user evaluation - quantitative study",
       "value": 8,
-      "count": 6
+      "count": 6,
+      "total": 343
     },
     {
       "source": "applications - social interaction",
       "target": "evaluation - user evaluation - lab study with experts",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - social interaction",
       "target": "evaluation - user evaluation - observational",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - social interaction",
       "target": "evaluation - user evaluation - user feedback",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - design and creative tasks",
       "target": "evaluation - demonstration - workshop",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - design and creative tasks",
       "target": "evaluation - demonstration - theoretical framework",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - design and creative tasks",
       "target": "evaluation - demonstration - example applications",
       "value": 5,
-      "count": 4
+      "count": 4,
+      "total": 343
     },
     {
       "source": "applications - design and creative tasks",
       "target": "evaluation - demonstration - focus groups",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - design and creative tasks",
       "target": "evaluation - demonstration - early demonstrations",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - design and creative tasks",
       "target": "evaluation - demonstration - case studies",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - design and creative tasks",
       "target": "evaluation - demonstration - conceptual",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - design and creative tasks",
       "target": "evaluation - technical - time",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - design and creative tasks",
       "target": "evaluation - technical - accuracy",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - design and creative tasks",
       "target": "evaluation - technical - system performance",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - design and creative tasks",
       "target": "evaluation - technical - success rate",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - design and creative tasks",
       "target": "evaluation - user evaluation - nasa tls",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - design and creative tasks",
       "target": "evaluation - user evaluation - interviews",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - design and creative tasks",
       "target": "evaluation - user evaluation - questionnaires",
-      "value": 2,
-      "count": 2
+      "value": 3,
+      "count": 2,
+      "total": 343
     },
     {
       "source": "applications - design and creative tasks",
       "target": "evaluation - user evaluation - lab study with users",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - design and creative tasks",
       "target": "evaluation - user evaluation - qualitative study",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - design and creative tasks",
       "target": "evaluation - user evaluation - quantitative study",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - design and creative tasks",
       "target": "evaluation - user evaluation - lab study with experts",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - design and creative tasks",
       "target": "evaluation - user evaluation - observational",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - design and creative tasks",
       "target": "evaluation - user evaluation - user feedback",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - medical and health",
       "target": "evaluation - demonstration - workshop",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - medical and health",
       "target": "evaluation - demonstration - theoretical framework",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - medical and health",
       "target": "evaluation - demonstration - example applications",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - medical and health",
       "target": "evaluation - demonstration - focus groups",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - medical and health",
       "target": "evaluation - demonstration - early demonstrations",
       "value": 4,
-      "count": 3
+      "count": 3,
+      "total": 343
     },
     {
       "source": "applications - medical and health",
       "target": "evaluation - demonstration - case studies",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - medical and health",
       "target": "evaluation - demonstration - conceptual",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - medical and health",
       "target": "evaluation - technical - time",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - medical and health",
       "target": "evaluation - technical - accuracy",
       "value": 5,
-      "count": 4
+      "count": 4,
+      "total": 343
     },
     {
       "source": "applications - medical and health",
       "target": "evaluation - technical - system performance",
       "value": 4,
-      "count": 3
+      "count": 3,
+      "total": 343
     },
     {
       "source": "applications - medical and health",
       "target": "evaluation - technical - success rate",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - medical and health",
       "target": "evaluation - user evaluation - nasa tls",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - medical and health",
       "target": "evaluation - user evaluation - interviews",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - medical and health",
       "target": "evaluation - user evaluation - questionnaires",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - medical and health",
       "target": "evaluation - user evaluation - lab study with users",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - medical and health",
       "target": "evaluation - user evaluation - qualitative study",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - medical and health",
       "target": "evaluation - user evaluation - quantitative study",
       "value": 4,
-      "count": 3
+      "count": 3,
+      "total": 343
     },
     {
       "source": "applications - medical and health",
       "target": "evaluation - user evaluation - lab study with experts",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - medical and health",
       "target": "evaluation - user evaluation - observational",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - medical and health",
       "target": "evaluation - user evaluation - user feedback",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - remote collaboration",
       "target": "evaluation - demonstration - workshop",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - remote collaboration",
       "target": "evaluation - demonstration - theoretical framework",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - remote collaboration",
       "target": "evaluation - demonstration - example applications",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - remote collaboration",
       "target": "evaluation - demonstration - focus groups",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - remote collaboration",
       "target": "evaluation - demonstration - early demonstrations",
-      "value": 2,
-      "count": 2
+      "value": 3,
+      "count": 2,
+      "total": 343
     },
     {
       "source": "applications - remote collaboration",
       "target": "evaluation - demonstration - case studies",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - remote collaboration",
       "target": "evaluation - demonstration - conceptual",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - remote collaboration",
       "target": "evaluation - technical - time",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - remote collaboration",
       "target": "evaluation - technical - accuracy",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - remote collaboration",
       "target": "evaluation - technical - system performance",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - remote collaboration",
       "target": "evaluation - technical - success rate",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - remote collaboration",
       "target": "evaluation - user evaluation - nasa tls",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - remote collaboration",
       "target": "evaluation - user evaluation - interviews",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - remote collaboration",
       "target": "evaluation - user evaluation - questionnaires",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - remote collaboration",
       "target": "evaluation - user evaluation - lab study with users",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - remote collaboration",
       "target": "evaluation - user evaluation - qualitative study",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - remote collaboration",
       "target": "evaluation - user evaluation - quantitative study",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - remote collaboration",
       "target": "evaluation - user evaluation - lab study with experts",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - remote collaboration",
       "target": "evaluation - user evaluation - observational",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - remote collaboration",
       "target": "evaluation - user evaluation - user feedback",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - mobility and transportation",
       "target": "evaluation - demonstration - workshop",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - mobility and transportation",
       "target": "evaluation - demonstration - theoretical framework",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - mobility and transportation",
       "target": "evaluation - demonstration - example applications",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - mobility and transportation",
       "target": "evaluation - demonstration - focus groups",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - mobility and transportation",
       "target": "evaluation - demonstration - early demonstrations",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - mobility and transportation",
       "target": "evaluation - demonstration - case studies",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - mobility and transportation",
       "target": "evaluation - demonstration - conceptual",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - mobility and transportation",
       "target": "evaluation - technical - time",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - mobility and transportation",
       "target": "evaluation - technical - accuracy",
-      "value": 2,
-      "count": 2
+      "value": 3,
+      "count": 2,
+      "total": 343
     },
     {
       "source": "applications - mobility and transportation",
       "target": "evaluation - technical - system performance",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - mobility and transportation",
       "target": "evaluation - technical - success rate",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - mobility and transportation",
       "target": "evaluation - user evaluation - nasa tls",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - mobility and transportation",
       "target": "evaluation - user evaluation - interviews",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - mobility and transportation",
       "target": "evaluation - user evaluation - questionnaires",
       "value": 4,
-      "count": 3
+      "count": 3,
+      "total": 343
     },
     {
       "source": "applications - mobility and transportation",
       "target": "evaluation - user evaluation - lab study with users",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - mobility and transportation",
       "target": "evaluation - user evaluation - qualitative study",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - mobility and transportation",
       "target": "evaluation - user evaluation - quantitative study",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - mobility and transportation",
       "target": "evaluation - user evaluation - lab study with experts",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - mobility and transportation",
       "target": "evaluation - user evaluation - observational",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - mobility and transportation",
       "target": "evaluation - user evaluation - user feedback",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - search and rescue",
       "target": "evaluation - demonstration - workshop",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - search and rescue",
       "target": "evaluation - demonstration - theoretical framework",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - search and rescue",
       "target": "evaluation - demonstration - example applications",
-      "value": 2,
-      "count": 2
+      "value": 3,
+      "count": 2,
+      "total": 343
     },
     {
       "source": "applications - search and rescue",
       "target": "evaluation - demonstration - focus groups",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - search and rescue",
       "target": "evaluation - demonstration - early demonstrations",
       "value": 5,
-      "count": 4
+      "count": 4,
+      "total": 343
     },
     {
       "source": "applications - search and rescue",
       "target": "evaluation - demonstration - case studies",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - search and rescue",
       "target": "evaluation - demonstration - conceptual",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - search and rescue",
       "target": "evaluation - technical - time",
       "value": 4,
-      "count": 3
+      "count": 3,
+      "total": 343
     },
     {
       "source": "applications - search and rescue",
       "target": "evaluation - technical - accuracy",
       "value": 4,
-      "count": 3
+      "count": 3,
+      "total": 343
     },
     {
       "source": "applications - search and rescue",
       "target": "evaluation - technical - system performance",
-      "value": 6,
-      "count": 5
+      "value": 7,
+      "count": 5,
+      "total": 343
     },
     {
       "source": "applications - search and rescue",
       "target": "evaluation - technical - success rate",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - search and rescue",
       "target": "evaluation - user evaluation - nasa tls",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - search and rescue",
       "target": "evaluation - user evaluation - interviews",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - search and rescue",
       "target": "evaluation - user evaluation - questionnaires",
       "value": 4,
-      "count": 3
+      "count": 3,
+      "total": 343
     },
     {
       "source": "applications - search and rescue",
       "target": "evaluation - user evaluation - lab study with users",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - search and rescue",
       "target": "evaluation - user evaluation - qualitative study",
-      "value": 2,
-      "count": 2
+      "value": 3,
+      "count": 2,
+      "total": 343
     },
     {
       "source": "applications - search and rescue",
       "target": "evaluation - user evaluation - quantitative study",
-      "value": 2,
-      "count": 2
+      "value": 3,
+      "count": 2,
+      "total": 343
     },
     {
       "source": "applications - search and rescue",
       "target": "evaluation - user evaluation - lab study with experts",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - search and rescue",
       "target": "evaluation - user evaluation - observational",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - search and rescue",
       "target": "evaluation - user evaluation - user feedback",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - workspace",
       "target": "evaluation - demonstration - workshop",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - workspace",
       "target": "evaluation - demonstration - theoretical framework",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - workspace",
       "target": "evaluation - demonstration - example applications",
-      "value": 2,
-      "count": 2
+      "value": 3,
+      "count": 2,
+      "total": 343
     },
     {
       "source": "applications - workspace",
       "target": "evaluation - demonstration - focus groups",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - workspace",
       "target": "evaluation - demonstration - early demonstrations",
-      "value": 2,
-      "count": 2
+      "value": 3,
+      "count": 2,
+      "total": 343
     },
     {
       "source": "applications - workspace",
       "target": "evaluation - demonstration - case studies",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - workspace",
       "target": "evaluation - demonstration - conceptual",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - workspace",
       "target": "evaluation - technical - time",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - workspace",
       "target": "evaluation - technical - accuracy",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - workspace",
       "target": "evaluation - technical - system performance",
-      "value": 2,
-      "count": 2
+      "value": 3,
+      "count": 2,
+      "total": 343
     },
     {
       "source": "applications - workspace",
       "target": "evaluation - technical - success rate",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - workspace",
       "target": "evaluation - user evaluation - nasa tls",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - workspace",
       "target": "evaluation - user evaluation - interviews",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - workspace",
       "target": "evaluation - user evaluation - questionnaires",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - workspace",
       "target": "evaluation - user evaluation - lab study with users",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - workspace",
       "target": "evaluation - user evaluation - qualitative study",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - workspace",
       "target": "evaluation - user evaluation - quantitative study",
-      "value": 2,
-      "count": 2
+      "value": 3,
+      "count": 2,
+      "total": 343
     },
     {
       "source": "applications - workspace",
       "target": "evaluation - user evaluation - lab study with experts",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - workspace",
       "target": "evaluation - user evaluation - observational",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - workspace",
       "target": "evaluation - user evaluation - user feedback",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - data physicalization",
       "target": "evaluation - demonstration - workshop",
-      "value": 2,
-      "count": 2
+      "value": 3,
+      "count": 2,
+      "total": 343
     },
     {
       "source": "applications - data physicalization",
       "target": "evaluation - demonstration - theoretical framework",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - data physicalization",
       "target": "evaluation - demonstration - example applications",
       "value": 5,
-      "count": 4
+      "count": 4,
+      "total": 343
     },
     {
       "source": "applications - data physicalization",
       "target": "evaluation - demonstration - focus groups",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - data physicalization",
       "target": "evaluation - demonstration - early demonstrations",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - data physicalization",
       "target": "evaluation - demonstration - case studies",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - data physicalization",
       "target": "evaluation - demonstration - conceptual",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - data physicalization",
       "target": "evaluation - technical - time",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - data physicalization",
       "target": "evaluation - technical - accuracy",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - data physicalization",
       "target": "evaluation - technical - system performance",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - data physicalization",
       "target": "evaluation - technical - success rate",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - data physicalization",
       "target": "evaluation - user evaluation - nasa tls",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - data physicalization",
       "target": "evaluation - user evaluation - interviews",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - data physicalization",
       "target": "evaluation - user evaluation - questionnaires",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - data physicalization",
       "target": "evaluation - user evaluation - lab study with users",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - data physicalization",
       "target": "evaluation - user evaluation - qualitative study",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - data physicalization",
       "target": "evaluation - user evaluation - quantitative study",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     },
     {
       "source": "applications - data physicalization",
       "target": "evaluation - user evaluation - lab study with experts",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - data physicalization",
       "target": "evaluation - user evaluation - observational",
       "value": 1,
-      "count": 1
+      "count": 1,
+      "total": 343
     },
     {
       "source": "applications - data physicalization",
       "target": "evaluation - user evaluation - user feedback",
       "value": 0,
-      "count": 0
+      "count": 0,
+      "total": 343
     }
   ]
 }

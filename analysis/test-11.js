@@ -14,12 +14,13 @@ let newLinks = []
 let links = data.links
 for (let link of links) {
   let total = hash[link.source]
-  let value = Math.floor((link.value / total) * 460)
+  let value = Math.round((link.value / total) * 460)
   newLinks.push({
     source: link.source,
     target: link.target,
     value: value,
-    count: link.value
+    count: link.value,
+    total: total
   })
 }
 

@@ -2780,1681 +2780,1681 @@
     },
     {
       "source": "applications - domestic and everyday use",
-      "target": "evaluation - demonstration - workshop",
-      "value": 0,
+      "target": "evaluation - demonstration",
+      "value": 17,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
-      "target": "evaluation - demonstration - theoretical framework",
-      "value": 0,
+      "target": "evaluation - demonstration",
+      "value": 34,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
-      "target": "evaluation - demonstration - example applications",
-      "value": 8,
+      "target": "evaluation - demonstration",
+      "value": 68,
       "count": 6,
       "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
-      "target": "evaluation - demonstration - focus groups",
-      "value": 0,
+      "target": "evaluation - demonstration",
+      "value": 128,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
-      "target": "evaluation - demonstration - early demonstrations",
-      "value": 7,
+      "target": "evaluation - demonstration",
+      "value": 256,
       "count": 5,
       "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
-      "target": "evaluation - demonstration - case studies",
-      "value": 1,
+      "target": "evaluation - demonstration",
+      "value": 505,
       "count": 1,
       "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
-      "target": "evaluation - demonstration - conceptual",
-      "value": 1,
+      "target": "evaluation - demonstration",
+      "value": 1009,
       "count": 1,
       "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
-      "target": "evaluation - technical - time",
-      "value": 3,
+      "target": "evaluation - technical",
+      "value": 11,
       "count": 2,
       "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
-      "target": "evaluation - technical - accuracy",
-      "value": 7,
+      "target": "evaluation - technical",
+      "value": 19,
       "count": 5,
       "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
-      "target": "evaluation - technical - system performance",
-      "value": 1,
+      "target": "evaluation - technical",
+      "value": 31,
       "count": 1,
       "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
-      "target": "evaluation - technical - success rate",
-      "value": 0,
+      "target": "evaluation - technical",
+      "value": 61,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
-      "target": "evaluation - user evaluation - nasa tls",
-      "value": 4,
+      "target": "evaluation - user evaluation",
+      "value": 23,
       "count": 3,
       "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
-      "target": "evaluation - user evaluation - interviews",
-      "value": 4,
+      "target": "evaluation - user evaluation",
+      "value": 42,
       "count": 3,
       "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
-      "target": "evaluation - user evaluation - questionnaires",
-      "value": 1,
+      "target": "evaluation - user evaluation",
+      "value": 80,
       "count": 1,
       "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
-      "target": "evaluation - user evaluation - lab study with users",
-      "value": 0,
+      "target": "evaluation - user evaluation",
+      "value": 159,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
-      "target": "evaluation - user evaluation - qualitative study",
-      "value": 4,
+      "target": "evaluation - user evaluation",
+      "value": 318,
       "count": 3,
       "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
-      "target": "evaluation - user evaluation - quantitative study",
-      "value": 5,
+      "target": "evaluation - user evaluation",
+      "value": 632,
       "count": 4,
       "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
-      "target": "evaluation - user evaluation - lab study with experts",
-      "value": 0,
+      "target": "evaluation - user evaluation",
+      "value": 1259,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
-      "target": "evaluation - user evaluation - observational",
-      "value": 4,
+      "target": "evaluation - user evaluation",
+      "value": 2518,
       "count": 3,
       "total": 343
     },
     {
       "source": "applications - domestic and everyday use",
-      "target": "evaluation - user evaluation - user feedback",
-      "value": 1,
+      "target": "evaluation - user evaluation",
+      "value": 5032,
       "count": 1,
       "total": 343
     },
     {
       "source": "applications - industry",
-      "target": "evaluation - demonstration - workshop",
-      "value": 4,
+      "target": "evaluation - demonstration",
+      "value": 51,
       "count": 3,
       "total": 343
     },
     {
       "source": "applications - industry",
-      "target": "evaluation - demonstration - theoretical framework",
-      "value": 1,
+      "target": "evaluation - demonstration",
+      "value": 98,
       "count": 1,
       "total": 343
     },
     {
       "source": "applications - industry",
-      "target": "evaluation - demonstration - example applications",
-      "value": 21,
+      "target": "evaluation - demonstration",
+      "value": 195,
       "count": 16,
       "total": 343
     },
     {
       "source": "applications - industry",
-      "target": "evaluation - demonstration - focus groups",
-      "value": 0,
+      "target": "evaluation - demonstration",
+      "value": 369,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - industry",
-      "target": "evaluation - demonstration - early demonstrations",
-      "value": 15,
+      "target": "evaluation - demonstration",
+      "value": 738,
       "count": 11,
       "total": 343
     },
     {
       "source": "applications - industry",
-      "target": "evaluation - demonstration - case studies",
-      "value": 5,
+      "target": "evaluation - demonstration",
+      "value": 1461,
       "count": 4,
       "total": 343
     },
     {
       "source": "applications - industry",
-      "target": "evaluation - demonstration - conceptual",
-      "value": 5,
+      "target": "evaluation - demonstration",
+      "value": 2917,
       "count": 4,
       "total": 343
     },
     {
       "source": "applications - industry",
-      "target": "evaluation - technical - time",
-      "value": 16,
+      "target": "evaluation - technical",
+      "value": 68,
       "count": 12,
       "total": 343
     },
     {
       "source": "applications - industry",
-      "target": "evaluation - technical - accuracy",
-      "value": 20,
+      "target": "evaluation - technical",
+      "value": 120,
       "count": 15,
       "total": 343
     },
     {
       "source": "applications - industry",
-      "target": "evaluation - technical - system performance",
-      "value": 31,
+      "target": "evaluation - technical",
+      "value": 220,
       "count": 23,
       "total": 343
     },
     {
       "source": "applications - industry",
-      "target": "evaluation - technical - success rate",
-      "value": 1,
+      "target": "evaluation - technical",
+      "value": 409,
       "count": 1,
       "total": 343
     },
     {
       "source": "applications - industry",
-      "target": "evaluation - user evaluation - nasa tls",
-      "value": 21,
+      "target": "evaluation - user evaluation",
+      "value": 71,
       "count": 16,
       "total": 343
     },
     {
       "source": "applications - industry",
-      "target": "evaluation - user evaluation - interviews",
-      "value": 5,
+      "target": "evaluation - user evaluation",
+      "value": 121,
       "count": 4,
       "total": 343
     },
     {
       "source": "applications - industry",
-      "target": "evaluation - user evaluation - questionnaires",
-      "value": 16,
+      "target": "evaluation - user evaluation",
+      "value": 237,
       "count": 12,
       "total": 343
     },
     {
       "source": "applications - industry",
-      "target": "evaluation - user evaluation - lab study with users",
-      "value": 7,
+      "target": "evaluation - user evaluation",
+      "value": 458,
       "count": 5,
       "total": 343
     },
     {
       "source": "applications - industry",
-      "target": "evaluation - user evaluation - qualitative study",
-      "value": 9,
+      "target": "evaluation - user evaluation",
+      "value": 909,
       "count": 7,
       "total": 343
     },
     {
       "source": "applications - industry",
-      "target": "evaluation - user evaluation - quantitative study",
-      "value": 13,
+      "target": "evaluation - user evaluation",
+      "value": 1809,
       "count": 10,
       "total": 343
     },
     {
       "source": "applications - industry",
-      "target": "evaluation - user evaluation - lab study with experts",
-      "value": 0,
+      "target": "evaluation - user evaluation",
+      "value": 3605,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - industry",
-      "target": "evaluation - user evaluation - observational",
-      "value": 0,
+      "target": "evaluation - user evaluation",
+      "value": 7210,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - industry",
-      "target": "evaluation - user evaluation - user feedback",
-      "value": 0,
+      "target": "evaluation - user evaluation",
+      "value": 14420,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - entertainment",
-      "target": "evaluation - demonstration - workshop",
-      "value": 1,
+      "target": "evaluation - demonstration",
+      "value": 22,
       "count": 1,
       "total": 343
     },
     {
       "source": "applications - entertainment",
-      "target": "evaluation - demonstration - theoretical framework",
-      "value": 0,
+      "target": "evaluation - demonstration",
+      "value": 43,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - entertainment",
-      "target": "evaluation - demonstration - example applications",
-      "value": 3,
+      "target": "evaluation - demonstration",
+      "value": 86,
       "count": 2,
       "total": 343
     },
     {
       "source": "applications - entertainment",
-      "target": "evaluation - demonstration - focus groups",
-      "value": 3,
+      "target": "evaluation - demonstration",
+      "value": 169,
       "count": 2,
       "total": 343
     },
     {
       "source": "applications - entertainment",
-      "target": "evaluation - demonstration - early demonstrations",
-      "value": 12,
+      "target": "evaluation - demonstration",
+      "value": 335,
       "count": 9,
       "total": 343
     },
     {
       "source": "applications - entertainment",
-      "target": "evaluation - demonstration - case studies",
-      "value": 0,
+      "target": "evaluation - demonstration",
+      "value": 658,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - entertainment",
-      "target": "evaluation - demonstration - conceptual",
-      "value": 3,
+      "target": "evaluation - demonstration",
+      "value": 1316,
       "count": 2,
       "total": 343
     },
     {
       "source": "applications - entertainment",
-      "target": "evaluation - technical - time",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - entertainment",
-      "target": "evaluation - technical - accuracy",
-      "value": 3,
-      "count": 2,
-      "total": 343
-    },
-    {
-      "source": "applications - entertainment",
-      "target": "evaluation - technical - system performance",
-      "value": 1,
-      "count": 1,
-      "total": 343
-    },
-    {
-      "source": "applications - entertainment",
-      "target": "evaluation - technical - success rate",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - entertainment",
-      "target": "evaluation - user evaluation - nasa tls",
-      "value": 1,
-      "count": 1,
-      "total": 343
-    },
-    {
-      "source": "applications - entertainment",
-      "target": "evaluation - user evaluation - interviews",
-      "value": 1,
-      "count": 1,
-      "total": 343
-    },
-    {
-      "source": "applications - entertainment",
-      "target": "evaluation - user evaluation - questionnaires",
-      "value": 3,
-      "count": 2,
-      "total": 343
-    },
-    {
-      "source": "applications - entertainment",
-      "target": "evaluation - user evaluation - lab study with users",
+      "target": "evaluation - technical",
       "value": 4,
-      "count": 3,
-      "total": 343
-    },
-    {
-      "source": "applications - entertainment",
-      "target": "evaluation - user evaluation - qualitative study",
-      "value": 0,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - entertainment",
-      "target": "evaluation - user evaluation - quantitative study",
-      "value": 1,
-      "count": 1,
-      "total": 343
-    },
-    {
-      "source": "applications - entertainment",
-      "target": "evaluation - user evaluation - lab study with experts",
-      "value": 1,
-      "count": 1,
-      "total": 343
-    },
-    {
-      "source": "applications - entertainment",
-      "target": "evaluation - user evaluation - observational",
-      "value": 4,
-      "count": 3,
-      "total": 343
-    },
-    {
-      "source": "applications - entertainment",
-      "target": "evaluation - user evaluation - user feedback",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - education and training",
-      "target": "evaluation - demonstration - workshop",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - education and training",
-      "target": "evaluation - demonstration - theoretical framework",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - education and training",
-      "target": "evaluation - demonstration - example applications",
-      "value": 1,
-      "count": 1,
-      "total": 343
-    },
-    {
-      "source": "applications - education and training",
-      "target": "evaluation - demonstration - focus groups",
-      "value": 1,
-      "count": 1,
-      "total": 343
-    },
-    {
-      "source": "applications - education and training",
-      "target": "evaluation - demonstration - early demonstrations",
-      "value": 3,
-      "count": 2,
-      "total": 343
-    },
-    {
-      "source": "applications - education and training",
-      "target": "evaluation - demonstration - case studies",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - education and training",
-      "target": "evaluation - demonstration - conceptual",
-      "value": 1,
-      "count": 1,
-      "total": 343
-    },
-    {
-      "source": "applications - education and training",
-      "target": "evaluation - technical - time",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - education and training",
-      "target": "evaluation - technical - accuracy",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - education and training",
-      "target": "evaluation - technical - system performance",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - education and training",
-      "target": "evaluation - technical - success rate",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - education and training",
-      "target": "evaluation - user evaluation - nasa tls",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - education and training",
-      "target": "evaluation - user evaluation - interviews",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - education and training",
-      "target": "evaluation - user evaluation - questionnaires",
+      "target": "evaluation - technical",
       "value": 8,
+      "count": 2,
+      "total": 343
+    },
+    {
+      "source": "applications - entertainment",
+      "target": "evaluation - technical",
+      "value": 13,
+      "count": 1,
+      "total": 343
+    },
+    {
+      "source": "applications - entertainment",
+      "target": "evaluation - technical",
+      "value": 25,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - entertainment",
+      "target": "evaluation - user evaluation",
+      "value": 15,
+      "count": 1,
+      "total": 343
+    },
+    {
+      "source": "applications - entertainment",
+      "target": "evaluation - user evaluation",
+      "value": 29,
+      "count": 1,
+      "total": 343
+    },
+    {
+      "source": "applications - entertainment",
+      "target": "evaluation - user evaluation",
+      "value": 57,
+      "count": 2,
+      "total": 343
+    },
+    {
+      "source": "applications - entertainment",
+      "target": "evaluation - user evaluation",
+      "value": 111,
+      "count": 3,
+      "total": 343
+    },
+    {
+      "source": "applications - entertainment",
+      "target": "evaluation - user evaluation",
+      "value": 218,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - entertainment",
+      "target": "evaluation - user evaluation",
+      "value": 436,
+      "count": 1,
+      "total": 343
+    },
+    {
+      "source": "applications - entertainment",
+      "target": "evaluation - user evaluation",
+      "value": 871,
+      "count": 1,
+      "total": 343
+    },
+    {
+      "source": "applications - entertainment",
+      "target": "evaluation - user evaluation",
+      "value": 1741,
+      "count": 3,
+      "total": 343
+    },
+    {
+      "source": "applications - entertainment",
+      "target": "evaluation - user evaluation",
+      "value": 3478,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - education and training",
+      "target": "evaluation - demonstration",
+      "value": 6,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - education and training",
+      "target": "evaluation - demonstration",
+      "value": 12,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - education and training",
+      "target": "evaluation - demonstration",
+      "value": 24,
+      "count": 1,
+      "total": 343
+    },
+    {
+      "source": "applications - education and training",
+      "target": "evaluation - demonstration",
+      "value": 47,
+      "count": 1,
+      "total": 343
+    },
+    {
+      "source": "applications - education and training",
+      "target": "evaluation - demonstration",
+      "value": 93,
+      "count": 2,
+      "total": 343
+    },
+    {
+      "source": "applications - education and training",
+      "target": "evaluation - demonstration",
+      "value": 183,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - education and training",
+      "target": "evaluation - demonstration",
+      "value": 366,
+      "count": 1,
+      "total": 343
+    },
+    {
+      "source": "applications - education and training",
+      "target": "evaluation - technical",
+      "value": 0,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - education and training",
+      "target": "evaluation - technical",
+      "value": 0,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - education and training",
+      "target": "evaluation - technical",
+      "value": 0,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - education and training",
+      "target": "evaluation - technical",
+      "value": 0,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - education and training",
+      "target": "evaluation - user evaluation",
+      "value": 15,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - education and training",
+      "target": "evaluation - user evaluation",
+      "value": 30,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - education and training",
+      "target": "evaluation - user evaluation",
+      "value": 60,
       "count": 6,
       "total": 343
     },
     {
       "source": "applications - education and training",
-      "target": "evaluation - user evaluation - lab study with users",
-      "value": 3,
+      "target": "evaluation - user evaluation",
+      "value": 112,
       "count": 2,
       "total": 343
     },
     {
       "source": "applications - education and training",
-      "target": "evaluation - user evaluation - qualitative study",
-      "value": 1,
+      "target": "evaluation - user evaluation",
+      "value": 221,
       "count": 1,
       "total": 343
     },
     {
       "source": "applications - education and training",
-      "target": "evaluation - user evaluation - quantitative study",
-      "value": 3,
+      "target": "evaluation - user evaluation",
+      "value": 441,
       "count": 2,
       "total": 343
     },
     {
       "source": "applications - education and training",
-      "target": "evaluation - user evaluation - lab study with experts",
-      "value": 0,
+      "target": "evaluation - user evaluation",
+      "value": 879,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - education and training",
-      "target": "evaluation - user evaluation - observational",
-      "value": 0,
+      "target": "evaluation - user evaluation",
+      "value": 1758,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - education and training",
-      "target": "evaluation - user evaluation - user feedback",
-      "value": 0,
+      "target": "evaluation - user evaluation",
+      "value": 3516,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - social interaction",
-      "target": "evaluation - demonstration - workshop",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - social interaction",
-      "target": "evaluation - demonstration - theoretical framework",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - social interaction",
-      "target": "evaluation - demonstration - example applications",
-      "value": 3,
-      "count": 2,
-      "total": 343
-    },
-    {
-      "source": "applications - social interaction",
-      "target": "evaluation - demonstration - focus groups",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - social interaction",
-      "target": "evaluation - demonstration - early demonstrations",
-      "value": 4,
-      "count": 3,
-      "total": 343
-    },
-    {
-      "source": "applications - social interaction",
-      "target": "evaluation - demonstration - case studies",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - social interaction",
-      "target": "evaluation - demonstration - conceptual",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - social interaction",
-      "target": "evaluation - technical - time",
-      "value": 3,
-      "count": 2,
-      "total": 343
-    },
-    {
-      "source": "applications - social interaction",
-      "target": "evaluation - technical - accuracy",
-      "value": 3,
-      "count": 2,
-      "total": 343
-    },
-    {
-      "source": "applications - social interaction",
-      "target": "evaluation - technical - system performance",
-      "value": 3,
-      "count": 2,
-      "total": 343
-    },
-    {
-      "source": "applications - social interaction",
-      "target": "evaluation - technical - success rate",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - social interaction",
-      "target": "evaluation - user evaluation - nasa tls",
-      "value": 1,
-      "count": 1,
-      "total": 343
-    },
-    {
-      "source": "applications - social interaction",
-      "target": "evaluation - user evaluation - interviews",
-      "value": 1,
-      "count": 1,
-      "total": 343
-    },
-    {
-      "source": "applications - social interaction",
-      "target": "evaluation - user evaluation - questionnaires",
-      "value": 3,
-      "count": 2,
-      "total": 343
-    },
-    {
-      "source": "applications - social interaction",
-      "target": "evaluation - user evaluation - lab study with users",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - social interaction",
-      "target": "evaluation - user evaluation - qualitative study",
-      "value": 3,
-      "count": 2,
-      "total": 343
-    },
-    {
-      "source": "applications - social interaction",
-      "target": "evaluation - user evaluation - quantitative study",
-      "value": 8,
-      "count": 6,
-      "total": 343
-    },
-    {
-      "source": "applications - social interaction",
-      "target": "evaluation - user evaluation - lab study with experts",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - social interaction",
-      "target": "evaluation - user evaluation - observational",
-      "value": 1,
-      "count": 1,
-      "total": 343
-    },
-    {
-      "source": "applications - social interaction",
-      "target": "evaluation - user evaluation - user feedback",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - design and creative tasks",
-      "target": "evaluation - demonstration - workshop",
-      "value": 1,
-      "count": 1,
-      "total": 343
-    },
-    {
-      "source": "applications - design and creative tasks",
-      "target": "evaluation - demonstration - theoretical framework",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - design and creative tasks",
-      "target": "evaluation - demonstration - example applications",
-      "value": 5,
-      "count": 4,
-      "total": 343
-    },
-    {
-      "source": "applications - design and creative tasks",
-      "target": "evaluation - demonstration - focus groups",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - design and creative tasks",
-      "target": "evaluation - demonstration - early demonstrations",
-      "value": 1,
-      "count": 1,
-      "total": 343
-    },
-    {
-      "source": "applications - design and creative tasks",
-      "target": "evaluation - demonstration - case studies",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - design and creative tasks",
-      "target": "evaluation - demonstration - conceptual",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - design and creative tasks",
-      "target": "evaluation - technical - time",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - design and creative tasks",
-      "target": "evaluation - technical - accuracy",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - design and creative tasks",
-      "target": "evaluation - technical - system performance",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - design and creative tasks",
-      "target": "evaluation - technical - success rate",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - design and creative tasks",
-      "target": "evaluation - user evaluation - nasa tls",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - design and creative tasks",
-      "target": "evaluation - user evaluation - interviews",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - design and creative tasks",
-      "target": "evaluation - user evaluation - questionnaires",
-      "value": 3,
-      "count": 2,
-      "total": 343
-    },
-    {
-      "source": "applications - design and creative tasks",
-      "target": "evaluation - user evaluation - lab study with users",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - design and creative tasks",
-      "target": "evaluation - user evaluation - qualitative study",
-      "value": 1,
-      "count": 1,
-      "total": 343
-    },
-    {
-      "source": "applications - design and creative tasks",
-      "target": "evaluation - user evaluation - quantitative study",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - design and creative tasks",
-      "target": "evaluation - user evaluation - lab study with experts",
-      "value": 1,
-      "count": 1,
-      "total": 343
-    },
-    {
-      "source": "applications - design and creative tasks",
-      "target": "evaluation - user evaluation - observational",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - design and creative tasks",
-      "target": "evaluation - user evaluation - user feedback",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - medical and health",
-      "target": "evaluation - demonstration - workshop",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - medical and health",
-      "target": "evaluation - demonstration - theoretical framework",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - medical and health",
-      "target": "evaluation - demonstration - example applications",
-      "value": 1,
-      "count": 1,
-      "total": 343
-    },
-    {
-      "source": "applications - medical and health",
-      "target": "evaluation - demonstration - focus groups",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - medical and health",
-      "target": "evaluation - demonstration - early demonstrations",
-      "value": 4,
-      "count": 3,
-      "total": 343
-    },
-    {
-      "source": "applications - medical and health",
-      "target": "evaluation - demonstration - case studies",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - medical and health",
-      "target": "evaluation - demonstration - conceptual",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - medical and health",
-      "target": "evaluation - technical - time",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - medical and health",
-      "target": "evaluation - technical - accuracy",
-      "value": 5,
-      "count": 4,
-      "total": 343
-    },
-    {
-      "source": "applications - medical and health",
-      "target": "evaluation - technical - system performance",
-      "value": 4,
-      "count": 3,
-      "total": 343
-    },
-    {
-      "source": "applications - medical and health",
-      "target": "evaluation - technical - success rate",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - medical and health",
-      "target": "evaluation - user evaluation - nasa tls",
-      "value": 1,
-      "count": 1,
-      "total": 343
-    },
-    {
-      "source": "applications - medical and health",
-      "target": "evaluation - user evaluation - interviews",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - medical and health",
-      "target": "evaluation - user evaluation - questionnaires",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - medical and health",
-      "target": "evaluation - user evaluation - lab study with users",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - medical and health",
-      "target": "evaluation - user evaluation - qualitative study",
-      "value": 1,
-      "count": 1,
-      "total": 343
-    },
-    {
-      "source": "applications - medical and health",
-      "target": "evaluation - user evaluation - quantitative study",
-      "value": 4,
-      "count": 3,
-      "total": 343
-    },
-    {
-      "source": "applications - medical and health",
-      "target": "evaluation - user evaluation - lab study with experts",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - medical and health",
-      "target": "evaluation - user evaluation - observational",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - medical and health",
-      "target": "evaluation - user evaluation - user feedback",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - remote collaboration",
-      "target": "evaluation - demonstration - workshop",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - remote collaboration",
-      "target": "evaluation - demonstration - theoretical framework",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - remote collaboration",
-      "target": "evaluation - demonstration - example applications",
-      "value": 1,
-      "count": 1,
-      "total": 343
-    },
-    {
-      "source": "applications - remote collaboration",
-      "target": "evaluation - demonstration - focus groups",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - remote collaboration",
-      "target": "evaluation - demonstration - early demonstrations",
-      "value": 3,
-      "count": 2,
-      "total": 343
-    },
-    {
-      "source": "applications - remote collaboration",
-      "target": "evaluation - demonstration - case studies",
-      "value": 1,
-      "count": 1,
-      "total": 343
-    },
-    {
-      "source": "applications - remote collaboration",
-      "target": "evaluation - demonstration - conceptual",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - remote collaboration",
-      "target": "evaluation - technical - time",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - remote collaboration",
-      "target": "evaluation - technical - accuracy",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - remote collaboration",
-      "target": "evaluation - technical - system performance",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - remote collaboration",
-      "target": "evaluation - technical - success rate",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - remote collaboration",
-      "target": "evaluation - user evaluation - nasa tls",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - remote collaboration",
-      "target": "evaluation - user evaluation - interviews",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - remote collaboration",
-      "target": "evaluation - user evaluation - questionnaires",
-      "value": 1,
-      "count": 1,
-      "total": 343
-    },
-    {
-      "source": "applications - remote collaboration",
-      "target": "evaluation - user evaluation - lab study with users",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - remote collaboration",
-      "target": "evaluation - user evaluation - qualitative study",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - remote collaboration",
-      "target": "evaluation - user evaluation - quantitative study",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - remote collaboration",
-      "target": "evaluation - user evaluation - lab study with experts",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - remote collaboration",
-      "target": "evaluation - user evaluation - observational",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - remote collaboration",
-      "target": "evaluation - user evaluation - user feedback",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - mobility and transportation",
-      "target": "evaluation - demonstration - workshop",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - mobility and transportation",
-      "target": "evaluation - demonstration - theoretical framework",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - mobility and transportation",
-      "target": "evaluation - demonstration - example applications",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - mobility and transportation",
-      "target": "evaluation - demonstration - focus groups",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - mobility and transportation",
-      "target": "evaluation - demonstration - early demonstrations",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - mobility and transportation",
-      "target": "evaluation - demonstration - case studies",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - mobility and transportation",
-      "target": "evaluation - demonstration - conceptual",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - mobility and transportation",
-      "target": "evaluation - technical - time",
-      "value": 1,
-      "count": 1,
-      "total": 343
-    },
-    {
-      "source": "applications - mobility and transportation",
-      "target": "evaluation - technical - accuracy",
-      "value": 3,
-      "count": 2,
-      "total": 343
-    },
-    {
-      "source": "applications - mobility and transportation",
-      "target": "evaluation - technical - system performance",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - mobility and transportation",
-      "target": "evaluation - technical - success rate",
-      "value": 1,
-      "count": 1,
-      "total": 343
-    },
-    {
-      "source": "applications - mobility and transportation",
-      "target": "evaluation - user evaluation - nasa tls",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - mobility and transportation",
-      "target": "evaluation - user evaluation - interviews",
-      "value": 1,
-      "count": 1,
-      "total": 343
-    },
-    {
-      "source": "applications - mobility and transportation",
-      "target": "evaluation - user evaluation - questionnaires",
-      "value": 4,
-      "count": 3,
-      "total": 343
-    },
-    {
-      "source": "applications - mobility and transportation",
-      "target": "evaluation - user evaluation - lab study with users",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - mobility and transportation",
-      "target": "evaluation - user evaluation - qualitative study",
-      "value": 1,
-      "count": 1,
-      "total": 343
-    },
-    {
-      "source": "applications - mobility and transportation",
-      "target": "evaluation - user evaluation - quantitative study",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - mobility and transportation",
-      "target": "evaluation - user evaluation - lab study with experts",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - mobility and transportation",
-      "target": "evaluation - user evaluation - observational",
-      "value": 1,
-      "count": 1,
-      "total": 343
-    },
-    {
-      "source": "applications - mobility and transportation",
-      "target": "evaluation - user evaluation - user feedback",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - search and rescue",
-      "target": "evaluation - demonstration - workshop",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - search and rescue",
-      "target": "evaluation - demonstration - theoretical framework",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - search and rescue",
-      "target": "evaluation - demonstration - example applications",
-      "value": 3,
-      "count": 2,
-      "total": 343
-    },
-    {
-      "source": "applications - search and rescue",
-      "target": "evaluation - demonstration - focus groups",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - search and rescue",
-      "target": "evaluation - demonstration - early demonstrations",
-      "value": 5,
-      "count": 4,
-      "total": 343
-    },
-    {
-      "source": "applications - search and rescue",
-      "target": "evaluation - demonstration - case studies",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - search and rescue",
-      "target": "evaluation - demonstration - conceptual",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - search and rescue",
-      "target": "evaluation - technical - time",
-      "value": 4,
-      "count": 3,
-      "total": 343
-    },
-    {
-      "source": "applications - search and rescue",
-      "target": "evaluation - technical - accuracy",
-      "value": 4,
-      "count": 3,
-      "total": 343
-    },
-    {
-      "source": "applications - search and rescue",
-      "target": "evaluation - technical - system performance",
+      "target": "evaluation - demonstration",
       "value": 7,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - demonstration",
+      "value": 14,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - demonstration",
+      "value": 28,
+      "count": 2,
+      "total": 343
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - demonstration",
+      "value": 53,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - demonstration",
+      "value": 106,
+      "count": 3,
+      "total": 343
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - demonstration",
+      "value": 208,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - demonstration",
+      "value": 416,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - technical",
+      "value": 9,
+      "count": 2,
+      "total": 343
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - technical",
+      "value": 15,
+      "count": 2,
+      "total": 343
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - technical",
+      "value": 27,
+      "count": 2,
+      "total": 343
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - technical",
+      "value": 51,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - user evaluation",
+      "value": 17,
+      "count": 1,
+      "total": 343
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - user evaluation",
+      "value": 33,
+      "count": 1,
+      "total": 343
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - user evaluation",
+      "value": 65,
+      "count": 2,
+      "total": 343
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - user evaluation",
+      "value": 127,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - user evaluation",
+      "value": 254,
+      "count": 2,
+      "total": 343
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - user evaluation",
+      "value": 505,
+      "count": 6,
+      "total": 343
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - user evaluation",
+      "value": 1002,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - user evaluation",
+      "value": 2004,
+      "count": 1,
+      "total": 343
+    },
+    {
+      "source": "applications - social interaction",
+      "target": "evaluation - user evaluation",
+      "value": 4007,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - demonstration",
+      "value": 7,
+      "count": 1,
+      "total": 343
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - demonstration",
+      "value": 13,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - demonstration",
+      "value": 26,
+      "count": 4,
+      "total": 343
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - demonstration",
+      "value": 47,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - demonstration",
+      "value": 94,
+      "count": 1,
+      "total": 343
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - demonstration",
+      "value": 187,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - demonstration",
+      "value": 374,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - technical",
+      "value": 0,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - technical",
+      "value": 0,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - technical",
+      "value": 0,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - technical",
+      "value": 0,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - user evaluation",
+      "value": 5,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - user evaluation",
+      "value": 10,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - user evaluation",
+      "value": 20,
+      "count": 2,
+      "total": 343
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - user evaluation",
+      "value": 37,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - user evaluation",
+      "value": 74,
+      "count": 1,
+      "total": 343
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - user evaluation",
+      "value": 147,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - user evaluation",
+      "value": 294,
+      "count": 1,
+      "total": 343
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - user evaluation",
+      "value": 587,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - design and creative tasks",
+      "target": "evaluation - user evaluation",
+      "value": 1174,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - demonstration",
+      "value": 5,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - demonstration",
+      "value": 10,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - demonstration",
+      "value": 20,
+      "count": 1,
+      "total": 343
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - demonstration",
+      "value": 39,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - demonstration",
+      "value": 78,
+      "count": 3,
+      "total": 343
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - demonstration",
+      "value": 152,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - demonstration",
+      "value": 304,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - technical",
+      "value": 9,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - technical",
+      "value": 18,
+      "count": 4,
+      "total": 343
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - technical",
+      "value": 31,
+      "count": 3,
+      "total": 343
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - technical",
+      "value": 58,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - user evaluation",
+      "value": 6,
+      "count": 1,
+      "total": 343
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - user evaluation",
+      "value": 11,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - user evaluation",
+      "value": 22,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - user evaluation",
+      "value": 44,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - user evaluation",
+      "value": 88,
+      "count": 1,
+      "total": 343
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - user evaluation",
+      "value": 175,
+      "count": 3,
+      "total": 343
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - user evaluation",
+      "value": 346,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - user evaluation",
+      "value": 692,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - medical and health",
+      "target": "evaluation - user evaluation",
+      "value": 1384,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - demonstration",
+      "value": 5,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - demonstration",
+      "value": 10,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - demonstration",
+      "value": 20,
+      "count": 1,
+      "total": 343
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - demonstration",
+      "value": 39,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - demonstration",
+      "value": 78,
+      "count": 2,
+      "total": 343
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - demonstration",
+      "value": 153,
+      "count": 1,
+      "total": 343
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - demonstration",
+      "value": 305,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - technical",
+      "value": 0,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - technical",
+      "value": 0,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - technical",
+      "value": 0,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - technical",
+      "value": 0,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - user evaluation",
+      "value": 1,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - user evaluation",
+      "value": 2,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - user evaluation",
+      "value": 4,
+      "count": 1,
+      "total": 343
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - user evaluation",
+      "value": 7,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - user evaluation",
+      "value": 14,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - user evaluation",
+      "value": 28,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - user evaluation",
+      "value": 56,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - user evaluation",
+      "value": 112,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - remote collaboration",
+      "target": "evaluation - user evaluation",
+      "value": 224,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - demonstration",
+      "value": 0,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - demonstration",
+      "value": 0,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - demonstration",
+      "value": 0,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - demonstration",
+      "value": 0,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - demonstration",
+      "value": 0,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - demonstration",
+      "value": 0,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - demonstration",
+      "value": 0,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - technical",
+      "value": 5,
+      "count": 1,
+      "total": 343
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - technical",
+      "value": 9,
+      "count": 2,
+      "total": 343
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - technical",
+      "value": 15,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - technical",
+      "value": 30,
+      "count": 1,
+      "total": 343
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - user evaluation",
+      "value": 7,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - user evaluation",
+      "value": 14,
+      "count": 1,
+      "total": 343
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - user evaluation",
+      "value": 27,
+      "count": 3,
+      "total": 343
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - user evaluation",
+      "value": 50,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - user evaluation",
+      "value": 100,
+      "count": 1,
+      "total": 343
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - user evaluation",
+      "value": 199,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - user evaluation",
+      "value": 398,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - user evaluation",
+      "value": 796,
+      "count": 1,
+      "total": 343
+    },
+    {
+      "source": "applications - mobility and transportation",
+      "target": "evaluation - user evaluation",
+      "value": 1591,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - search and rescue",
+      "target": "evaluation - demonstration",
+      "value": 8,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - search and rescue",
+      "target": "evaluation - demonstration",
+      "value": 16,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - search and rescue",
+      "target": "evaluation - demonstration",
+      "value": 32,
+      "count": 2,
+      "total": 343
+    },
+    {
+      "source": "applications - search and rescue",
+      "target": "evaluation - demonstration",
+      "value": 61,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - search and rescue",
+      "target": "evaluation - demonstration",
+      "value": 122,
+      "count": 4,
+      "total": 343
+    },
+    {
+      "source": "applications - search and rescue",
+      "target": "evaluation - demonstration",
+      "value": 239,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - search and rescue",
+      "target": "evaluation - demonstration",
+      "value": 478,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - search and rescue",
+      "target": "evaluation - technical",
+      "value": 15,
+      "count": 3,
+      "total": 343
+    },
+    {
+      "source": "applications - search and rescue",
+      "target": "evaluation - technical",
+      "value": 26,
+      "count": 3,
+      "total": 343
+    },
+    {
+      "source": "applications - search and rescue",
+      "target": "evaluation - technical",
+      "value": 48,
       "count": 5,
       "total": 343
     },
     {
       "source": "applications - search and rescue",
-      "target": "evaluation - technical - success rate",
-      "value": 0,
+      "target": "evaluation - technical",
+      "value": 89,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - search and rescue",
-      "target": "evaluation - user evaluation - nasa tls",
-      "value": 1,
+      "target": "evaluation - user evaluation",
+      "value": 12,
       "count": 1,
       "total": 343
     },
     {
       "source": "applications - search and rescue",
-      "target": "evaluation - user evaluation - interviews",
-      "value": 1,
+      "target": "evaluation - user evaluation",
+      "value": 23,
       "count": 1,
       "total": 343
     },
     {
       "source": "applications - search and rescue",
-      "target": "evaluation - user evaluation - questionnaires",
-      "value": 4,
+      "target": "evaluation - user evaluation",
+      "value": 45,
       "count": 3,
       "total": 343
     },
     {
       "source": "applications - search and rescue",
-      "target": "evaluation - user evaluation - lab study with users",
-      "value": 0,
+      "target": "evaluation - user evaluation",
+      "value": 86,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - search and rescue",
-      "target": "evaluation - user evaluation - qualitative study",
-      "value": 3,
+      "target": "evaluation - user evaluation",
+      "value": 172,
       "count": 2,
       "total": 343
     },
     {
       "source": "applications - search and rescue",
-      "target": "evaluation - user evaluation - quantitative study",
-      "value": 3,
+      "target": "evaluation - user evaluation",
+      "value": 341,
       "count": 2,
       "total": 343
     },
     {
       "source": "applications - search and rescue",
-      "target": "evaluation - user evaluation - lab study with experts",
-      "value": 0,
+      "target": "evaluation - user evaluation",
+      "value": 679,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - search and rescue",
-      "target": "evaluation - user evaluation - observational",
-      "value": 0,
+      "target": "evaluation - user evaluation",
+      "value": 1358,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - search and rescue",
-      "target": "evaluation - user evaluation - user feedback",
-      "value": 0,
+      "target": "evaluation - user evaluation",
+      "value": 2716,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - workspace",
-      "target": "evaluation - demonstration - workshop",
-      "value": 0,
+      "target": "evaluation - demonstration",
+      "value": 6,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - workspace",
-      "target": "evaluation - demonstration - theoretical framework",
-      "value": 0,
+      "target": "evaluation - demonstration",
+      "value": 12,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - workspace",
-      "target": "evaluation - demonstration - example applications",
-      "value": 3,
+      "target": "evaluation - demonstration",
+      "value": 24,
       "count": 2,
       "total": 343
     },
     {
       "source": "applications - workspace",
-      "target": "evaluation - demonstration - focus groups",
-      "value": 0,
+      "target": "evaluation - demonstration",
+      "value": 45,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - workspace",
-      "target": "evaluation - demonstration - early demonstrations",
-      "value": 3,
+      "target": "evaluation - demonstration",
+      "value": 90,
       "count": 2,
       "total": 343
     },
     {
       "source": "applications - workspace",
-      "target": "evaluation - demonstration - case studies",
-      "value": 0,
+      "target": "evaluation - demonstration",
+      "value": 177,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - workspace",
-      "target": "evaluation - demonstration - conceptual",
-      "value": 0,
+      "target": "evaluation - demonstration",
+      "value": 354,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - workspace",
-      "target": "evaluation - technical - time",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - workspace",
-      "target": "evaluation - technical - accuracy",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - workspace",
-      "target": "evaluation - technical - system performance",
+      "target": "evaluation - technical",
       "value": 3,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - workspace",
+      "target": "evaluation - technical",
+      "value": 6,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - workspace",
+      "target": "evaluation - technical",
+      "value": 12,
       "count": 2,
       "total": 343
     },
     {
       "source": "applications - workspace",
-      "target": "evaluation - technical - success rate",
-      "value": 0,
+      "target": "evaluation - technical",
+      "value": 21,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - workspace",
-      "target": "evaluation - user evaluation - nasa tls",
-      "value": 1,
+      "target": "evaluation - user evaluation",
+      "value": 6,
       "count": 1,
       "total": 343
     },
     {
       "source": "applications - workspace",
-      "target": "evaluation - user evaluation - interviews",
-      "value": 0,
+      "target": "evaluation - user evaluation",
+      "value": 11,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - workspace",
-      "target": "evaluation - user evaluation - questionnaires",
-      "value": 1,
+      "target": "evaluation - user evaluation",
+      "value": 22,
       "count": 1,
       "total": 343
     },
     {
       "source": "applications - workspace",
-      "target": "evaluation - user evaluation - lab study with users",
-      "value": 0,
+      "target": "evaluation - user evaluation",
+      "value": 43,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - workspace",
-      "target": "evaluation - user evaluation - qualitative study",
-      "value": 1,
+      "target": "evaluation - user evaluation",
+      "value": 86,
       "count": 1,
       "total": 343
     },
     {
       "source": "applications - workspace",
-      "target": "evaluation - user evaluation - quantitative study",
-      "value": 3,
+      "target": "evaluation - user evaluation",
+      "value": 171,
       "count": 2,
       "total": 343
     },
     {
       "source": "applications - workspace",
-      "target": "evaluation - user evaluation - lab study with experts",
-      "value": 0,
+      "target": "evaluation - user evaluation",
+      "value": 339,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - workspace",
-      "target": "evaluation - user evaluation - observational",
-      "value": 0,
+      "target": "evaluation - user evaluation",
+      "value": 678,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - workspace",
-      "target": "evaluation - user evaluation - user feedback",
-      "value": 0,
+      "target": "evaluation - user evaluation",
+      "value": 1356,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - data physicalization",
-      "target": "evaluation - demonstration - workshop",
-      "value": 3,
+      "target": "evaluation - demonstration",
+      "value": 10,
       "count": 2,
       "total": 343
     },
     {
       "source": "applications - data physicalization",
-      "target": "evaluation - demonstration - theoretical framework",
-      "value": 1,
+      "target": "evaluation - demonstration",
+      "value": 17,
       "count": 1,
       "total": 343
     },
     {
       "source": "applications - data physicalization",
-      "target": "evaluation - demonstration - example applications",
-      "value": 5,
+      "target": "evaluation - demonstration",
+      "value": 33,
       "count": 4,
       "total": 343
     },
     {
       "source": "applications - data physicalization",
-      "target": "evaluation - demonstration - focus groups",
-      "value": 0,
+      "target": "evaluation - demonstration",
+      "value": 61,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - data physicalization",
-      "target": "evaluation - demonstration - early demonstrations",
-      "value": 1,
+      "target": "evaluation - demonstration",
+      "value": 122,
       "count": 1,
       "total": 343
     },
     {
       "source": "applications - data physicalization",
-      "target": "evaluation - demonstration - case studies",
+      "target": "evaluation - demonstration",
+      "value": 243,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - data physicalization",
+      "target": "evaluation - demonstration",
+      "value": 486,
+      "count": 0,
+      "total": 343
+    },
+    {
+      "source": "applications - data physicalization",
+      "target": "evaluation - technical",
       "value": 0,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - data physicalization",
-      "target": "evaluation - demonstration - conceptual",
+      "target": "evaluation - technical",
       "value": 0,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - data physicalization",
-      "target": "evaluation - technical - time",
+      "target": "evaluation - technical",
       "value": 0,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - data physicalization",
-      "target": "evaluation - technical - accuracy",
+      "target": "evaluation - technical",
       "value": 0,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - data physicalization",
-      "target": "evaluation - technical - system performance",
-      "value": 0,
+      "target": "evaluation - user evaluation",
+      "value": 3,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - data physicalization",
-      "target": "evaluation - technical - success rate",
-      "value": 0,
+      "target": "evaluation - user evaluation",
+      "value": 6,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - data physicalization",
-      "target": "evaluation - user evaluation - nasa tls",
-      "value": 0,
+      "target": "evaluation - user evaluation",
+      "value": 12,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - data physicalization",
-      "target": "evaluation - user evaluation - interviews",
-      "value": 0,
+      "target": "evaluation - user evaluation",
+      "value": 24,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - data physicalization",
-      "target": "evaluation - user evaluation - questionnaires",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - data physicalization",
-      "target": "evaluation - user evaluation - lab study with users",
-      "value": 0,
-      "count": 0,
-      "total": 343
-    },
-    {
-      "source": "applications - data physicalization",
-      "target": "evaluation - user evaluation - qualitative study",
-      "value": 1,
+      "target": "evaluation - user evaluation",
+      "value": 48,
       "count": 1,
       "total": 343
     },
     {
       "source": "applications - data physicalization",
-      "target": "evaluation - user evaluation - quantitative study",
-      "value": 0,
+      "target": "evaluation - user evaluation",
+      "value": 95,
       "count": 0,
       "total": 343
     },
     {
       "source": "applications - data physicalization",
-      "target": "evaluation - user evaluation - lab study with experts",
-      "value": 1,
+      "target": "evaluation - user evaluation",
+      "value": 190,
       "count": 1,
       "total": 343
     },
     {
       "source": "applications - data physicalization",
-      "target": "evaluation - user evaluation - observational",
-      "value": 1,
+      "target": "evaluation - user evaluation",
+      "value": 379,
       "count": 1,
       "total": 343
     },
     {
       "source": "applications - data physicalization",
-      "target": "evaluation - user evaluation - user feedback",
-      "value": 0,
+      "target": "evaluation - user evaluation",
+      "value": 757,
       "count": 0,
       "total": 343
     }
